@@ -28,7 +28,7 @@ V1.3.1![](img/Aspose.Words.a8326a55-ad51-4e6a-9b83-f7131306c5e4.007.png)![](img/
   * [Lanzamiento de activos](reglas-fundamentales/lanzamiento-de-activos)
 * [Construyendo tu flota](construyendo-tu-flota)
 * [Escenarios](../categoria/dfc/escenarios)
-  * [Escenarios](escenarios/escenarios)
+  * [Preparándose para la batalla](escenarios/preparandose-para-la-batalla)
   * [Objetivos](escenarios/objetivos)
   * [Escenografía](escenarios/escenografia)
 * [Reglas especiales](reglas-especiales)
