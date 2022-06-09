@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Escenarios'
+sidebar_label: 'Preparándose para la batalla'
 sidebar_position: 1
 ---
 
-# Escenarios
+# Preparándose para la batalla
 
 Scenarios
 
