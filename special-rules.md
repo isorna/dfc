@@ -5,7 +5,7 @@ sidebar_position: 6
 
 # Reglas especiales
 
-## Ship Special Rules
+## Reglas especiales de las naves
 
 _While most eventualities and ship types are covered in the rules above, certain ships have abilities and attributes that are out of the ordinary and require special rules to address this._
 
