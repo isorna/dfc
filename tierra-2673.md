@@ -5,15 +5,16 @@ sidebar_position: 1
 
 # Tierra, 2673
 
-After 160 years as refugees, humanity has returned to Earth.
+Tras pasar 160 años como refugiados, la humanidad finalmente ha regresado a la Tierra.
 
-Evicted from its birthplace, the forces of the United Colonies of Mankind have spent almost two centuries mustering their armies to launch a mass war against their enemy: the dreaded Scourge. Alien parasites from an unknown galaxy, the Scourge appeared without warning, destroying the previously peaceful society. What they didn’t kill they captured and enslaved, forcibly bonding with their hosts.
+Expulsada de la cuna de su civilización, las fuerzas de las Colonias Unidas de la Humanidad han estado durante 2 siglos reuniendo sus ejércitos para lanzar una guerra masiva contra su enemigo: los temidos Scourge. Alienígenas parasitarios procedentes de una galaxia desconocida, Los Scourge aparecieron sin previo aviso, destruyendo la anteriormente pacífica sociedad. A todos los que no pudieron matar, los capturaron y esclavizaron, vinculándolos forzadamente con sus huéspedes.
 
-Fighting off the parasitic threat as well as enemies from the enigmatic alien Shaltari and the splintered Post-Human Republic turned humanity into a militant race, one with a manifest destiny amid the stars.
+El luchar contra éstos parásitos, así como contra otros enemigos como la enigmática raza alienígena Shaltari o los escindidos humanos de la República Post- humana (PHR) convirtió a la humanidad en una raza militar, con un destino manifiesto en las estrellas.
 
-The UCM launched their Reconquest campaign to take back the Cradle Worlds – verdant paradises seized by the Scourge. The battles have been long and fiercely fought, ending in costly victories that left the colonial fighters exhausted. Humanity is nothing if not tenacious though.
+La UCM lanzó su campaña de reconquista para recuperar los llamados Mundos Cuna - verdes paraísos tomados por los Scourge. Las batallas fueron largas y sangrientas, finalizando en costosas victorias que dejaron a los luchadores coloniales exhaustos. La humanidad no habría conseguido nada de no ser por su tenacidad.
 
-After a brief hole opened in the Scourge’s defences by the courageous Resistance fighters left planetside, the UCM have seized their opportunity to attack. Their forces are battered, but the surprising opportunity of an assault on Earth itself is one that couldn’t be passed up.
+Tras un breve agujero abierto en las defensas Scourge gracias al coraje de los luchadores de la Resistencia, la UCM por fin vislumbró su oportunidad para atacar. Sus fuerzas estaban mermadas, pero la posibilidad de realizar un asalto sobre el propio planeta Tierra era una oportunidad que no podía dejarse pasar.
 
-The power of the space-based fleet and the mobile troops of the UCM’s army is mighty, but still not enough to fight even the weakened Scourge armada. At the eleventh hour, aid has appeared from some unlikely sources, forming one of the largest fleets ever witnessed.
-3 The board is set; the Battle for Earth has begun.
+El poder de la flota espacial y las móviles tropas del ejército de la UCM es temible, pero aun así resulta insuficiente para luchar contra los Scourge, incluso en su posición debilitada. No obstante, en el último momento ha aparecido ayuda desde lados inesperados, formando una de las flotas más grandes jamás vistas.
+
+El tablero está dispuesto; la batalla por la Tierra ha comenzado.
