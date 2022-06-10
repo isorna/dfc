@@ -33,7 +33,7 @@ but some are for convenience as it is often easier to use a dice or token next t
 
 Tokens are available for free download in the Resources section of the webstore:
 
-[www.ttcombat.com](www.ttcombat.com)
+[www.ttcombat.com](https://www.ttcombat.com)
 
 **Necessary on the tabletop (i.e. both players need to be aware):**
 
