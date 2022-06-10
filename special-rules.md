@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Special Rules'
+sidebar_label: 'Special rules'
 sidebar_position: 6
 ---
 
-# Special Rules
+# Special rules
 
 ## Ship Special Rules
 
