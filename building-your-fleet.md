@@ -5,13 +5,13 @@ sidebar_position: 4
 
 # Construyendo tu flota
 
-## Game Size
+## Tamaño de la partida
 
-Battlegroups in Dropfleet Commander are determined by the size of game chosen and the individual forces that players choose. There are three sizes of game; Skirmish, Clash and Battle. These indicate small, medium and large sized games, and give players restrictions on group numbers and ship types.
+Los escuadrones en Dropfleet Commander son determinados por el tamaño de la partida escogida entre los jugadores y por las facciones a jugar. Hay tres Tipo de partidas: escaramuza(pequeña) , choque(mediana) y batalla(grande). Estos tipos de partidas determinarán cuantos grupos y que tipos de naves pueden jugar. 
 
-* **Skirmish:** 500-999 points
-* **Clash:** 1000-1999 points
-* **Battle:** 2000-3000 points
+* **Escaramuza:** 500-999 points
+* **Choque:** 1000-1999 points
+* **Batalla:** 2000-3000 points
 
 As the game size increases, the number of Battlegroups permitted is capped. This means that larger games will not have many more activations per turn than smaller ones, making it more practical to fight epic engagements. If you want to play a truly vast battle, you may use two or more Fleet Rosters split into these categories (although by using the lowest number of points possible). For example, if you want to play a 6000 point game. You can use two  Battle  Fleet Rosters, but not six  Skirmish  Fleet Rosters.
 
