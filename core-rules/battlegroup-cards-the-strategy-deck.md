@@ -5,22 +5,22 @@ sidebar_position: 2
 
 # Cartas de grupos de batalla y la baraja de estrategia
 
-The order that ships activate in is dictated by the owning player s strategy deck and this deck is made up of Battlegroup cards. A Battlegroup card might represent just a lone, powerful ship but more commonly it will comprise several Groups of ships.
+El orden en el que las naves se activan se determina por la baraja de estrategia del jugador propietario, y dicha baraja se construye con cartas de Grupos de Batalla.Una carta de Grupo de Batalla puede representar únicamente a una solitaria y poderosa nave, pero generalmente comprende varios grupos de naves. 
 
-At the start of each turn both players build their own strategy deck out of their force s available Battlegroup cards, stacking them in the order they intend them to be activated in over the course of the coming turn.
+Al inicio de cada turno, ambos jugadores preparan su propia baraja de estrategia utilizando sus cartas de Grupos de Batalla disponibles, colocándolas según el orden de activación que se tiene intención de seguir en dicho turno.
 
-A player s number of available Battlegroup cards are determined when they pick their fleet (see Building Your Fleet for more details). It can potentially be varied by circumstances like scenarios requiring reserve Battlegroups to be held off-table or casualties wiping out whole Battlegroups.
+El número de cartas de Grupo de Batalla disponibles para cada jugador se determinan cuando se prepara la lista (ver Construyendo tu flota para mas detalles). Este número puede variar potencialmente debido a circunstancias como escenarios que requieran Grupos de Batalla en reserva fuera de tablero, o la eliminación de todas las naves de un mismo Grupo de Batalla a lo largo de la partida.  
 
-## Strategy Rating
+## Factor de Estrategia
 
-A Battlegroup card s Strategy Rating is used to determine which player s Battlegroup activates first. When the players reveal two opposing Battlegroup cards the Strategy Ratings on the cards are compared and the lower Strategy Rating can choose to activate before or after the Battlegroup with the higher Strategy Rating.
+El Factor de Estrategia de una carta de Grupo de batalla se utiliza para determinar qué jugador activa en primer lugar su Grupo de Batalla. Cuando los jugadores revelan dos cartas de Grupos de Batalla, una cada jugador, se comparan los Factores de Estrategia de ambas cartas y el Grupo de Batalla con menor valor puede ser elegido para activarse antes o despues del Grupo de Batalla con mayor Factor de estrategia. 
 
-The Strategy Ratings for Battlegroup cards are determined by the Battlegroup s type and size, reflecting the fact that a small scouting group will be able to react more quickly than an orbital bombardment group. For details on making up your own Battlegroups see Building Your Fleet.
+El valor de los Factores de Estrategia de cada carta de Grupo de batalla se determina por el tipo de Grupo de Batalla y tamaño, reflejando el hecho que un pequeño grupo de exploración va a reaccionar mucho más rápido que un grupo de bombardeo orbital, por ejemplo. Para ver mas detalles sobre la construcción de Grupos de Batalla, ver Construyendo tu flota.
 
-## Equal Strategy Ratings
+## Mismo Factor de Estrategia
 
-If two battlegroup cards are revealed which have the same Strategy Rating both players roll a D6 and add their Admiral Value (see Admirals for details), the player with the highest total chooses who goes first   If both players total is the same, roll again until one players total is higher.
+A veces puede darse el caso que dos cartas de Grupos de Batalla son reveladas y tienen el mismo Factor de Estrategia. En tal caso, ambos jugadores lanzan 1d6 y añaden su valor de Almirante al resultado (ver Almirantes para detalles). El jugador con el total más alto elige quien va primero. En caso de obtener un nuevo empate, se vuelve a realizar una tirada de dados hasta que el total de un jugador es superior al del otro. 
 
-## Losing Battlegroups
+## Pérdida de Grupos de Batalla
 
-When all of the ships in a Battlegroup have been destroyed or are off the table for any reason the corresponding Battlegroup card is removed from the player s strategy deck and put to one side. If you reveal a Battlegroup card that no longer has any ships remaining, remove it from your deck and reveal the next card.
+Cuando todas las naves de un Grupo de Batalla han sido destruidas o se encuentran fuera del tablero por cualquier razón, la carta de Grupo de Batalla correspondiente se elimina de la baraja de Estrategia del propietario de dicho Grupo de Batalla y se pone al lado. Si durante el turno una carta perteneciente a un Grupo de Batalla destruido es revelada, simplemente elimínala de la Baraja de Estrategia y muestra la siguiente carta. 
