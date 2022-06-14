@@ -38,11 +38,11 @@ Cuando una carta es jugada o descartada por cualquier motivo, debe ser situada b
 
 |Espionage|
 |:-|
-|**Activación (Play)**|
+|**Activación**|
 |Cuando un oponente juega una carta de mando.|
-|**Objetivo (target)**|
+|**Objetivo**|
 |Una carta de mando enemiga utilizada.|
-|**Efecto (Effect)**|
+|**Efecto**|
 |Puedes negar los efectos de la carta de mando enemiga.|
 |_"Esto demuestra que incluso un Shaltari puede caer en una trampa, si se prepara apropiadamente." _|
 
