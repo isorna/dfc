@@ -5,50 +5,50 @@ sidebar_position: 3
 
 # Almirantes
 
-_Fleets seldom succeed in battle without a good Admiral. In fluid situations, the actions and decisions of frontline leaders often separates victory from defeat._
+_Las flotas son incapaces de tener éxito en batalla sin un almirante competente. En situaciones cambiantes, la diferencia entre la victoria y la derrota suele venir marcada por las acciones y decisiones tomadas por los líderes de primera linea._
 
-Admirals cost points just like ships, but they do not have a Core Stat Sheet. Instead, they have an Admiral Stat sheet, such as below:
+Los almirantes tienen un coste en puntos igual que las naves, pero a diferencia de éstas, no tienen una hoja de atributos típica. En su lugar, tienen su propia tabla de atributos de Almirante, como la mostrada a continuación:
 
-|Admiral|AV|Allowed|Pts|
+|Almirante|AV|Permitido en|Pts|
 | :- | :-: | :-: | :-: |
-|UCMF Vice Admiral|4|C/B|80|
+|UCMF Vice almirante|4|C/B|80|
 
-**AV (Admiral Value):** Represents the abilities of an Admiral (higher numbers are better). This affects things such as the roll to determine Initiative.
+**AV (Valor de almirante):** Representa las habilidades del almirante (Cuanto mayor es el valor, mejor es el almirante). Este atributo afecta a elementos como la tirada de iniciativa. 
 
-**Allowed:** Defines what sized engagement they can be chosen to partake in. In this case, a UCMF Vice Admiral can be taken for a Clash or Battle, but not a Skirmish (an action too small to usually merit his/her presence).
+**Permitido en:** Define los tamaños de partida en los que puede ser escogido para tomar parte. En este ejemplo, el Vice almirante puede ser escogido en Choques o Batallas, pero no en escaramuzas (son acciones demasiado pequeñas para permitir o merecer su presencia en el campo). 
 
-**Pts:** How many points it costs to field this Admiral. A player may only field 1 Admiral in their fleet.
+**Pts:** La cantidad en puntos que cuesta incluir el almirante en tu fuerza. Sólo se puede incluir un único almirante por flota.
 
-Your Admiral may be placed in any ship in your fleet with a Tonnage value of M, H or S. If placed in a ship of Tonnage H you may upgrade your Admiral 1 level for free.
+Tu almirante puede ser situado en cualquier nave de tu flota con un valor de Tonelaje de M, H o S. Si es situado en una nave de Tonelaje H, puedes aumentar tu nivel de almirante en 1 sin coste adicional. 
 
-If placed in a ship of Tonnage S you may upgrade your Admiral 2 levels for free. These free upgrades do not allow you to exceed the maximum level allowed by the game size (see Building Your Fleet for details).
+Si es situado en una nave de Tonelaje S, puedes aumentar el nivel de tu almirante en 2 sin coste adicional. Estas subidas adicionales gratuitas, no obstante, no permiten exceder el máximo nivel permitido por el tamaño de batalla (ver Construyendo tu flota para detalles).
 
-## Famous Admirals
+## Almirantes famosos
 
-Some Admirals have risen to legendary status, becoming household names, and are often held in fear, awe or infamy. These mighty individuals may occasionally be featured in battles. Famous Admirals may have several special abilities, and may even change the Fleet Roster to suit the unique fighting style for which they are famous.
+Varios almirantes han sido elevados al estatus de leyendas, convirtiéndose en nombres famosos, y su mención suele inspirar miedo, asombro o infamia. Estos personajes poderosos pueden ser ocasionalmente incluidos en batallas,  pudiendo poseer varias habilidades especiales, e incluso pueden cambiar las opciones de construcción de flota para ajustarse a sus estilos únicos de combate por los cuales son reconocidos.  
 
-Before a battle, all players must agree to the use of Famous Admirals before they can be chosen. Rules for these will be available as special online downloads and in future books.
+Antes de iniciar la batalla, ambos jugadores deben ponerse de acuerdo sobre la inclusión de estos Almirantes famosos antes de elegirlos. Las reglas de los mismos estarán disponibles en documentos especiales para ser descargados o en libros futuros.  
 
-## Command Cards
+## Cartas de mando
 
-Command Cards represent the specific actions and decisions made by the Admiral. Each card will state when it can be played and what its effects are. Command Cards add flavour and an additional tactical layer to games. Each race has a distinct Command Card deck which may not be altered in any way, unless specified in the rules. Players may play as many cards as they like during a turn until they run out. A player can draw cards up to a hand size equal to the Admiral Value (AV) of their Admiral in each Planning Phase. This value only applies here if the Admiral is on the table. If your Admiral is killed, the player may use an AV of 1 and must immediately discard command cards of their choice down to 1.
+Las cartas de mando representan acciones y decisiones específicas tomadas por el Almirante. Cada carta indica cuando puede ser jugada y qué efectos provoca. Las cartas de mando añaden variedad y un componente táctico adicional a las partidas. Cada raza tiene un mazo de cartas de mando exclusivo que no puede ser modificado de ninguna forma, salvo que alguna regla específica así lo indique. Los jugadores pueden jugar tantas cartas como quieran durante un turno hasta que agoten su mano. Un jugador puede robar en cada Fase de planificación tantas cartas del mazo como su valor de Almirante. Este valor únicamente se aplica mientras el almirante se encuentra en juego. Si el almirante es eliminado, el jugador considera su AV como 1 y debe descartar inmediatamente cartas de mando de su mano hasta quedarse con una.  
 
-When a card is played or discarded for any reason it should be placed face-up in a discard pile. If a player runs out of cards in their deck, this discard pile should be turned face-down and shuffled into a new deck to draw from.
+Cuando una carta es jugada o descartada por cualquier motivo, debe ser situada boa arriba en una pila de descarte. Si un jugador durante la partida agota todo su mazo de mando, esta pila de descarte se pone boca abajo, se baraja y se transforma en un nuevo mazo de mando para robar. 
+
+Una carta de mando típica tiene una estructura como la mostrada a continuación:
 
 |Espionage|
 |:-|
-|**Play**|
-|When an Opponent plays a Command Card.|
-|**Target**|
-|One Enemy Command Card use.|
-|**Effect**|
-|You may negate the effects of this enemy Command Card.|
-|_“Just goes to show that even Shaltari can fall into a trap, provided it’s set properly."_|
+|**Activación (Play)**|
+|Cuando un oponente juega una carta de mando.|
+|**Objetivo (target)**|
+|Una carta de mando enemiga utilizada.|
+|**Efecto (Effect)**|
+|Puedes negar los efectos de la carta de mando enemiga.|
+|_“Esto demuestra que incluso un Shaltari puede caer en una trampa, si se prepara apropiadamente.” _|
 
-A typical Command Card is set out as follows:
+**Activación:** Describe las condiciones para que la carta sea jugada
 
-**Play:** Describes when a card can be played
+**Objetivo:** Describe los objetivos permitidos para cada carta. Cada grupo puede ser únicamente elegido una vez por turno y por jugador, aunque las cartas que no los seleccionen específicamente  a ellos o naves pertenecientes a los mismos como objetivos pueden seguir afectándoles (por ejemplo: Objetivo: todos los grupos amigos).
 
-**Target:** Describes the allowed Target(s) of the card. Each Group can only be Targeted once per turn per player, although cards which do not specifically target them or ships within them will still take effect (e.g.  Target: all friendly Groups ).
-
-**Effect:** Describes the effect the card has on the target. Before the card takes effect, other players may play cards in response. Effects stack in reverse order when multiple cards are played simultaneously (the most recently played card takes effect first). You may also choose to wait until another card has taken effect before playing another.
+**Efecto:** Describe los efectos que la carta tiene en el objetivo/s. Antes de aplicar los efectos de la carta, otros jugadores pueden jugar cartas de mando propias en respuesta. En tal caso, los efectos se resuelven en el orden inverso de uso cuando varias cartas son jugadas simultáneamente (esto es, la carta jugada en último lugar resuelve su efecto primero). Está permitido que un jugador espere hasta que ver si se juegan otras cartas por otros jugadores  antes de decidir si juega cartas adicionales.
