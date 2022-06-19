@@ -5,31 +5,30 @@ sidebar_position: 1
 
 # Secuencia del turno de juego
 
-A game of Dropfleet Commander is played out in a series of turns. The number of turns played will vary depending on the scenario being played but four to six turns for a game is typical. In each turn all of the ships on the tabletop will get a chance to move and shoot, known as Activating. The order that ships activate in is determined by their Strategy Rating.
+Una partida de Dropfleet Commander se juega en una serie de turnos. El número de turnos jugados puede variar dependiendo del escenario que se ha elegido para la partida, pero generalmente suele estar entre 4 y 6 turnos. En cada turno, todas las naves en mesa tendrán oportunidad de moverse y disparar, lo que se conoce como Activación. El orden en que las naves se activan es determinado por su Factor Estratégico. 
 
-Every ship in a player s fleet is fielded as part of a **Group**, which is a part of a larger formation called a **Battlegroup**. During the turn, Battlegroups on the tabletop activate one after another and the sub group of ships in them take their actions individually in an order of the controlling player s choosing. Once all Battlegroups have been activated play moves to the Roundup Phase.
+Cada nave en la flota de un jugador se despliega como parte de un **Grupo**, el cual es parte de una formación mayor denominada **Grupo de Batalla**. Durante el turno, los Grupos de Batalla en meesa se activan uno tras otro y el sub grupo de naves que lo forman realizan sus acciones de forma individual en el orden que el jugador que controla dicho grupo decide. Una vez todos los Grupos de batalla se han activado, el juego continua hacia el Final de fase.
 
-## Planning phase
+## Fase de Planificación
+1. **Elegir cartas de Grupo de batalla:** Cada jugador coge sus cartas de Grupos de Batalla y las organiza en una pila formando su baraja de Estrategia. Cuando todos los jugadores estan listos, la fase de activación comienza. Los Grupos de batalla que no estén disponibles para activar (generalmente por restricciones del escenario) no deben ser incluidos en la Baraja de Estrategia ese turno.
+1. **Descartar Cartas:** Cada jugador puede descartar ahora cualquier Carta de Mando de su mano que no quiera. 
+1. **Robar cartas:** Cada jugador roba Cartas de Mando hasta tener en mano un número de cartas igual a su Valor de Almirante (AV) del Almirante aliado más veterano en mesa.
+1. **Limpieza:** Cualquier efecto que resulte de reglas especiales o Cartas  de mando se aplica ahora. 
 
-1. **Pick Battlegroup Cards:** Each player picks up their Battlegroup cards and stack them into strategy decks. When all players are ready the activation phase begins. Battlegroups that are unavailable to activate (usually for scenario reasons) may not be included in the strategy deck this turn
-1. **Discard Cards:** Each player may now discard any unwanted Command Cards.
-1. **Draw Cards:** Each player may now draw cards up to the Admiral Value (AV) of their most senior friendly Admiral on the table.
-1. **Cleanup:** Any affects that result from special rules or Command Cards are addressed now.
+## Fase de activación
 
-## Activation Phase
+1. Ambos jugadores revelan simultáneamente la primera carta boca abajo de su Baraja de estrategia
+1. Compara el Valor de Estrategia de las cartas reveladas. El jugador con el menor valor elige entre ir primero o segundo en la activación. En caso de que ambos jugadores tengan el mismo valor, ambos jugadores lanzan 1d6 y el que tenga mayor resultado elige quién va primero. Si la tirada fuera de nuevo un empate, se repite hasta que uno de los jugadores obtenga un resultado mayor. 
+1. El primer jugador activa los grupos indicados en su Grupo de batalla uno a uno, en el orden que dicho jugador elija, completando todas las acciones de un grupo antes de pasar al siguiente. 
+1. El segundo jugador activa entonces los grupos indicados en su Grupo de batalla uno a uno, completando con cada uno todas las acciones antes de pasar al siguiente.
+1. Las cartas de Grupo de batalla activados se colocan en la pila de descarte.
+1. Se vuelve a repetir desde el paso 1. Cuando ambos jugadores no tengan Cartas de Grupo de batalla para revelar, se pasa a la fase de Final de turno.
 
-1. Both players reveal the top card of their strategy decks.
-1. Compare the Strategy Rating on the cards revealed. The player with the lower Strategy Rating chooses whether they will go first or second. In the event of a draw both players roll a D6 and the high roller chooses who goes first. If both players roll the same number, roll again until one player rolls higher.
-1. The first player activates the Groups indicated on their Battlegroup card one-by-one in the order they choose and completes all of their actions.
-1. The second player then activates the Groups indicated on their Battlegroup card one-by-one and completes all of their actions.
-1. The Battlegroup cards are placed on the discard pile.
-1. Return to 1. When both players have no Battlegroup cards left to reveal, play moves onto the Roundup Phase.
+## Fase de Final de turno
 
-## Roundup phase
-
-1. **Ground Combat:** Resolve any ground asset movement and combats.
-1. **Launch Assets:** Resolve any launch assets.
-1. **Damage Control:** Roll for damage control on ships suffering from ongoing crippling damage results.
-1. **Orbital Decay.** Resolve any orbital decay.
-1. **Collect Victory Points**: Indicated by the scenario being played.
-1. **Remove any excess dice and tokens from the table.**
+1. **Combate terrestre:** Resuelve cualquier movimiento de activos terrestres y combates.
+1. **Lanzamiento de activos:** Resuelve cualquier lanzamiento de activos.
+1. **Control de daños:** Lanza para determinar el control de daños de las naves afectadas por Daño paralizante. 
+1. **Caída orbital.** Resuelve cualquier efecto de Caída orbital.
+1. **Contar puntos de victoria**: Indicados en cada uno de los escenarios.
+1. **Eliminar cualquier exceso de dados y marcadores del tablero.**
