@@ -7,66 +7,64 @@ sidebar_position: 4
 
 ## Tamaño de la partida
 
-Los escuadrones en Dropfleet Commander son determinados por el tamaño de la partida escogida entre los jugadores y por las facciones a jugar. Hay tres Tipo de partidas: escaramuza(pequeña) , choque(mediana) y batalla(grande). Estos tipos de partidas determinarán cuantos grupos y que tipos de naves pueden jugar. 
+Los **grupos de batalla** en Dropfleet Commander son determinados por el tamaño de la partida escogida entre los jugadores y por las facciones a jugar. Hay tres Tipo de partidas: escaramuza(pequeña) , choque(mediana) y batalla(grande). Estos tipos de partidas determinarán cuantos grupos y que tipos de naves pueden jugar. 
 
-* **Escaramuza:** 500-999 points
-* **Choque:** 1000-1999 points
-* **Batalla:** 2000-3000 points
+* **Escaramuza:** 500-999 puntos
+* **Choque:** 1000-1999 puntos
+* **Batalla:** 2000-3000 puntos
 
-As the game size increases, the number of Battlegroups permitted is capped. This means that larger games will not have many more activations per turn than smaller ones, making it more practical to fight epic engagements. If you want to play a truly vast battle, you may use two or more Fleet Rosters split into these categories (although by using the lowest number of points possible). For example, if you want to play a 6000 point game. You can use two  Battle  Fleet Rosters, but not six  Skirmish  Fleet Rosters.
+El número de grupos de batalla aumenta según el tamaño de la partida. Esto significa que cuanto más grandes son las partidas en puntos no tiene más activaciones por turno que las pequeñas,haciendo más práctico luchas en enfrentamientos épicos. Si queréis jugar una batalla gigante, la mejor opción es dividir tus flotas en dos o más flotas(teniendo en cuenta que hay que usar el menor número de puntos posibles). Por ejemplo, si quieres jugar una partida a 6000 puntos. Puedes usar dos flotas de **batalla**, pero no seis flotas **escaramuzas**. 
 
-## The Fleet Roster
+## Lista de flotas
 
-Each ship has a Tonnage value as explained in the Ship Characteristics section. Players should compare that with the battlegroup types below and it will show how many of each group of that tonnage may be in each battlegroup. The large table (known as the Fleet Roster) will then show how many of each Battlegroup may be chosen for each game size. Unless otherwise stated, a single Battlegroup may not come to more than 33% of your army s total allowed points cost for Clashes and Battles, and 50% for skirmishes. This does not include the points cost of your Admiral.
+Cada nave tiene un valor de **tonelaje** que se detalla en las características de la nave. Los jugadores deben comparar con los tipos de grupos de batalla que hay debajo y esto nos enseña cuantos grupos de ese tonelaje podemos tener en cada grupo de batalla. La lista de la flota nos enseñará en que grupo de batalla se pueden escoger por cada tamaño de partida. A menos de que se indique lo contrario, un grupo de batalla no puede superar el 33% del total de puntos de la partida para  choque o batalla y en el caso de escaramuza es el 50%. En estos puntos no se incluyen los puntos de almirante. 
 
-### Battlegroup Type
+### Tipos de grupos de batalla
 
-|Game Size|Pathfinder|Line|Vanguard|Flag|Max|Launch Capacity|
+|Tamaño de partida|Explorador|Linea|Vanguardia|Buque insignia |Max|Capadidad de lanzamiento|
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Skirmish (500-999 pts)|0-2|1-2|0-1|0|4|10|
-|Clash (1000-1999 pts)|1-2|1-3|0-2|0-1|6|15|
-|Battle (2000-3000 pts)|1-3|1-4|0-3|0-2|7|20|
+|Escaramuza (500-999 pts)|0-2|1-2|0-1|0|4|10|
+|Choque (1000-1999 pts)|1-2|1-3|0-2|0-1|6|15|
+|Batalla (2000-3000 pts)|1-3|1-4|0-3|0-2|7|20|
 
-|Pathfinder Battlegroup|Groups|
+|Grupo de batalla de exploradores|Grupos|
 | :- | :-: |
-|Light|1-3|
-|Medium|0-1|
+|Ligero|1-3|
+|Mediano|0-1|
 |Max|3|
 
-|Line Battlegroup|Groups|
+|Grupo de batalla de linea|Grupos|
 | :- | :-: |
-|Light|0-2|
-|Medium|1-3|
+|Linea|0-2|
+|Mediano|1-3|
 |Max|3|
 
-|Vanguard Battlegroup|Groups|
+|Grupo de batalla de vanguardia|Grupos|
 | :- | :-: |
-|Light|0-1|
-|Medium|0-1|
-|Heavy|1-2|
+|Ligero|0-1|
+|Mediano|0-1|
+|Pesado|1-2|
 |Max|3|
 
-|Flag Battlegroup|Groups|
+|Grupo de batalla de buque insignia|Grupos|
 | :- | :-: |
-|Light|0-1|
-|Super Heavy|1-2|
+|Ligero|0-1|
+|Super pesado|1-2|
 |Max|3|
 
-### Launch Capacity
+### Capacidad de lanzamiento
 
-Fighters, Bombers and Torpedoes are expensive resources and as such fleets only have a limited supply of them. This is represented in game by a Launch Capacity Cap and you may not have more **total Launch Capacity** for Fighters, Bombers and Torpedoes in your fleet than shown in the Fleet Roster above.
+Cazas, Bombarderos y Torpedos son recursos caros y las flotas tienen un número limitado de ellos. Esto es representado en el juego por la Capadidad de lanzamiento y talvez tu no tienes más de **capacidad total de lanzamiento** para tus cazas, bombarderos y torpedos en tu flota que se enseña en la tabla superior. 
 
-## Strategy Rating
+## Calificación de estrategia 
 
-Once you have built your fleet, you will need to determine your Strategy Rating for each Battlegroup in your fleet. To determine the Strategy Rating of each Battlegroup simply total up the Tonnage Value of each ship in the Battlegroup using the table below.
+Una vez que has construido la flota, necesitas determinar tu calificación de estrategia por cada grupo de batalla en tu flota. Para determinar esto se suma el valor tonelaje de cada nave en el grupo de batalla usando la tabla que hay abajo. 
 
-
-
-|Tonnage|Tonnage Value|
+|Tonelaje|Valor de tonelaje|
 | :- | :-: |
-|Light|1|
-|Light 2 (L2)|2|
-|Medium|5|
-|Heavy|10|
-|Super Heavy|15|
-|Super Heavy 2 (S2)|30|
+|Ligero|1|
+|Ligero 2 (L2)|2|
+|Mediano|5|
+|Pesado|10|
+|Super pesado|15|
+|Super pesado 2 (S2)|30|
