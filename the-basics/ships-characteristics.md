@@ -7,6 +7,7 @@ sidebar_position: 1
 
 The strengths and weakness of different ships and weapon systems in the game are shown through their characteristics. These show how fast they are, how much damage they can take and so on. You can see an example of a ship s stat sheet below.
 
+
 **UCM Lysander - Stealth Lighter** (27 pts)
 
 **Points Cost (Pts) -** All ships in the game cost points to field in your fleet. Ships with a higher points cost will generally be more potent, but you will not be able to field as many. This number is for a single ship within that group.
