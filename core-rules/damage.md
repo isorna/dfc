@@ -1,3 +1,4 @@
+
 ---
 sidebar_label: 'Daño'
 sidebar_position: 7
@@ -17,7 +18,7 @@ _Por ejemplo; en la descripción de una nave se indica que ésta posee una bater
 
 Cuando una nave sufre daño en el Casco sus Contramedidas pasivas (si las tiene) y armadura pueden prevenir el daño causado. 
 
-RLanza 1D6 por cada punto de daño en Casco causado y compáralo con el valor de armadura incluido en la descripción de la nave. Cualquier D6 cuyo resultado iguale o supere el valor de Salvación por armadura indicado bloquea 1 punto de daño que no tiene efecto. 
+Lanza 1D6 por cada punto de daño en Casco causado y compáralo con el valor de armadura incluido en la descripción de la nave. Cualquier D6 cuyo resultado iguale o supere el valor de Salvación por armadura indicado bloquea 1 punto de daño que no tiene efecto. 
 
 Si una nave posee más de una salvación por armadura, el jugador elige el mejor valor disponible y compara las tiradas de dados con dicho valor. 
 
@@ -29,7 +30,7 @@ _Varias naves avanzadas tienen mecanismos de contramedidas "pasivas" como escudo
 
 Las Contramedidas pasivas se muestran como un valor adicional en el atributo de Armadura (Por ejemplo, 3+/4+ indica una Contramedida pasiva de 4+). Las contramedidas pasivas son muy efectivas porque proporcionan a la nave protección contra daños críticos que podrían de otra manera destrozar su armadura completamente.
 
-TLa contraparte de las contramedidas pasivas es que suelen incrementar la Señal de la nave y puede evitar que utilice sus Defensas de Punto  mientras las contramedidas se encuentran operativas - cualquier negativo aparece indicado en la información específica de la nave, o en reglas específicas de la facción (por ejemplo, en Shaltari).
+La contraparte de las contramedidas pasivas es que suelen incrementar la Señal de la nave y puede evitar que utilice sus Defensas de Punto  mientras las contramedidas se encuentran operativas - cualquier negativo aparece indicado en la información específica de la nave, o en reglas específicas de la facción (por ejemplo, en Shaltari).
 
 **Cuando una nave tiene más de un tipo de salvación, el jugador elige cuál es la mejor aplicable y se comparan todas las tiradas de salvación con dicho valor.**
 
@@ -41,13 +42,13 @@ Las Contramedidas Pasivas funcionan en una amplia variedad de formas entre las d
 
 Varias (generalmente las menos potentes) Contramedidas pasivas pueden utilizarse continuamente, mientras que otras versiones mucho más potentes requieren que el jugador decida si quiere activarlas o no (ya que suelen ofrecer efectos negativos al utilizarlas).
 
-PLos jugadores deben elegir si quieren levantar escudos en el momento que se eligen las órdenes especiales para un Grupo de Batalla. Cada nave puede elegir voluntaria e individualmente si activa o no las Contramedidas Pasivas, y en caso de activarlas, permanecen operativas hasta la siguiente activación de la nave en el siguiente turno. La activación o no de las Contramedidas pasivas en cada nave se indica con marcadores. Hay que considerar que activar los escudos puede tener efectos negativos además de los efectos positivos de as Contramedidas pasivas.
+Los jugadores deben elegir si quieren levantar escudos en el momento que se eligen las órdenes especiales para un Grupo de Batalla. Cada nave puede elegir voluntaria e individualmente si activa o no las Contramedidas Pasivas, y en caso de activarlas, permanecen operativas hasta la siguiente activación de la nave en el siguiente turno. La activación o no de las Contramedidas pasivas en cada nave se indica con marcadores. Hay que considerar que activar los escudos puede tener efectos negativos además de los efectos positivos de as Contramedidas pasivas.
 
 ### Defensa de Punto (PD)
 
 Las naves generalmente tienen Defensas de punto como otra linea de defensa que protege específicamente contra daño provocado por **Lanzamiento de activos y sistemas de armas de corto alcance".**
 
-WCuando una nave recibe daño de este tipo de fuentes lanza un número de dadso igual al valor de PD de la nave. **ECada dado de Punto de defensa que obtenga un resultado de 5 o 6 bloqueará un punto de Daño en el casco antes de realizar las tiradas de salvación por armadura.**
+Cuando una nave recibe daño de este tipo de fuentes lanza un número de dadso igual al valor de PD de la nave. **ECada dado de Punto de defensa que obtenga un resultado de 5 o 6 bloqueará un punto de Daño en el casco antes de realizar las tiradas de salvación por armadura.**
 
 Los impactos críticos **pueden** ser bloqueados por Defensas de punto, pero cada punto de daño crítico requiere **dos** éxitos en Defensa de punto en lugar de uno.
 
@@ -65,7 +66,7 @@ Cuando una nave experimenta Daño paralizante, lanza 1d6 y consulta la tabla rel
 
 ### Resultado de daño adicional y tiradas de salvación por armadura
 
-Varios resultados de Daño paralizante infligen daños adicionales en Casco en las naves. Estos daños adicionales nunca permiten tiradas de salvación por armadura, ya que representan el colapso interno de la estructura de la nave, fallos en cascada y o sistemas fundidos (literalmente). rny Crippling Damage results inflict additional Hull damage on the ship. Armour saving throws never apply against Crippling Damage as it represents the ship suffering internal collapses, cascade failures and systems quite literally melting down. Hay que señalar que es muy probable que las naves más ligeras y pequeñas, como las fragatas, puedan ser destruidas a causa del daño paralizante.
+Varios resultados de Daño paralizante infligen daños adicionales en Casco en las naves. Estos daños adicionales nunca permiten tiradas de salvación por armadura, ya que representan el colapso interno de la estructura de la nave, fallos en cascada y o sistemas fundidos (literalmente). Hay que señalar que es muy probable que las naves más ligeras y pequeñas, como las fragatas, puedan ser destruidas a causa del daño paralizante.
 
 ### Tabla de Daño paralizante
 
@@ -79,7 +80,7 @@ Varios resultados de Daño paralizante infligen daños adicionales en Casco en l
 ||5-6|**Brecha en el casco:** Sin efecto adicional.|2|No|Yes|
 |5-6 Sistemas principales|1-2|**Motores deshabilitados:** El Impulso se reduce al 50% (redondeado hacia arriba), y no puede girar o cambiar de órbita. |2|Yes|Yes|
 ||3-4|**Armas desactivadas:** La siguiente vez que se active la nave no puede disparar ningún arma o utilizar Lanzamiento de activos. En siguientes activaciones, la nave podrá disparar y lanzar activos de la manera habitual. |3|No|No|
-||5-6|**Reactor sobrecargado:** RVuelve a tirar otra vez en la tabla de Daño paralizante.|3|No|Yes|
+||5-6|**Reactor sobrecargado:** Vuelve a tirar otra vez en la tabla de Daño paralizante.|3|No|Yes|
 
 ### Tabla de Daño paralizante en Dreadnoughts
 
@@ -92,61 +93,61 @@ Varios resultados de Daño paralizante infligen daños adicionales en Casco en l
 ||3-4|***Mampara rota:** Sin efecto adicional.|1|No|No|
 ||5-6|**Daño en sistemas auxiliares:** Sin efecto adicional.|2|No|Yes|
 |5-6 Sistemas principales|1-2|**Motores destruidos:** El valor de Impulso se reduce en 2 y sufre 1d3 daños de Casco si va en máximo impulso o cambio de rumbo.|0|No|No|
-||3-4|**Arma destruida:** One weapon system at random may not be used for the rest of the game.|0|No|No|
-||5-6|**Primary Core Leak:** Suffer 3 additional points of Hull damage at the end of the Clean-Up Phase for the rest of the game.|0|No|Yes|
+||3-4|**Arma destruida:** Un sistema de armas elegido al azar no puede ser utilizado durante el resto de la partida.|0|No|No|
+||5-6|**Fuga en el reactor primario:** Sufre 3 puntos de daño de Casco adicionales al final de la fase de limpieza durante el resto de la partida.|0|No|Yes|
 
-## 7. Roll for Catastrophic Damage
+## 7. Tirada de daño catastrófico
 
-When a ship has no Hull points remaining it is destroyed by Catastrophic Damage. Roll a D6 on the table below to see if its destruction has any additional effects that apply to other ships nearby. Ships with the Dreadnought special rule have their own Catastrophic Damage table.
+Cuando una nave no tiene puntos de Casco restante es destruida por Daño catastrófico. Cuando esto ocurra, lanza 1d6 para ver si su destrucción tiene algún efecto adicional aplicable a otras naves cercanas. Las nave con la regla especial Dreadnought tienen su propia Tabla de Daño catastrófico. 
 
-**Ships with a starting hull value of less than 4 are simply removed from play - do not roll on this table.**
+**Naves con un valor inicial de Casco inferior a 4 simplemente se retiran de juego - no lances en esta tabla**
 
-**Ships in Atmosphere are simply removed from play   do not roll on this table.**
+**Naves en la Atmósfera son sencillamente eliminadas del juego - no lances en esta tabla.**
 
-**Larger ships tend to go with a bigger bang so add +1 to the roll if the Ship had a starting Hull characteristic of 10 or more.**
+**Las naves más voluminosas tienden a destruirse acompañadas de mayores explosiones, para representar esto, añade un +1 a la tirada si la nave tiene un valor inicial de puntos de Casco de 10 o superior.**
 
-Most Catastrophic Damage results can cause a ship to explode in some fashion. **The size of the explosion is determined by the starting Hull size of the ship.**
+La mayoría de resultados de Daño catastrófico pueden resultar en la explosión de la nave de distintas formas. **El tamaño de la explosión es determinado por el valor inicial de Casco de la nave.**
 
-* Ships with a Hull characteristic of 4-6 explode with a D3" radius.
-* Ships with a Hull characteristic of 7+ explode with a D6" radius.
+* Naves con un valor de Casco de 4-6 explotan con un radio de 1d3".
+* Naves con un valor de Casco de 7+ explotan con un radio de 1d6".
 
-Note that the explosion only ever effects ships on the **same Orbital Layer** as the destroyed ship.
+Hay que tener en cuenta que la explosión únicamente afecta a naves que se encuentran en la  **misma altura orbital** que la nave destruida.
 
-### Catastrophic Damage Table
+### Tabla de Daño catastrófico
 
-|D6 roll|Result to all ships in explosion range|
+|Tirada D6|Resultado para todas las naves afectadas|
 | :-: | :- |
-|1-2|**Burn Up:** No additional effect.|
-|3|**Blazing Wreck:** Gain a Minor Spike. If using Silent Running special orders, Signature is returned to normal instead.|
-|4|**Shredded:** Suffer 1 point of Hull damage. Armour and Passive Countermeasures may be used as normal.|
-|5|**Explosion:** Suffer 2 points of Hull damage. Armour and Passive Countermeasures may be used as normal.|
-|6|**Radiation Burst:** Suffer 2 points of Hull damage. Armour and Passive Countermeasures may **not** be used.|
-|7+|**Distortion Bubble:** Suffer D6 points of Hull damage (roll for each ship individually). Armour and Passive Countermeasures may **not** be used.|
+|1-2|**Incineración:** Sin efecto adicional.|
+|3|**Pecio ardiente:** Las naves gana un pico menor. Si estaban utilizando la orden especial de Movimiento sigiloso, su Señal vuelve a su valor normal en su lugar.|
+|4|**Triturado:** Las naves sufren 1 punto de daño de Casco. La Armadura y Contramedidas pasivas pueden ser utilizadas normalmente.|
+|5|**Explosión:** Las naves sufren 2 puntos de Daño en Casco. La Armadura y Contramedidas pasivas pueden ser utilizadas normalmente.|
+|6|**Ráfaga de radiación:** Las naves sufren 2 puntos de Daño en Casco. La Armadura y Contramedidas pasivas **no** pueden ser utilizadas para bloquear el daño.|
+|7+|**Burbuja de distorsión:** Las naves sufren 1D6 Puntos de Daño en Casco (haz una tirada individual para cada nave). La Armadura y Contramedidas pasivas **no** pueden ser utilizadas.|
 
-|D6 roll|Dreadnought Catastrophic Damage Table|
+|Tirada D6|Tabla de daño catastrófico de Dreadnoughts|
 | :-: | :- |
-|2|**Fiery Descent:** Any sector within 8" of the ship suffers D6 Hull Points of damage. Tokens in these Sectors are destroyed on a roll of 2+ (roll separately for each).|
-|3|**Immolation:** All ships within 8" gain a Major Spike and D3 Fires (see Crippling Damage).|
-|4|**Superstructure Failure:** All ships within 12" take 2D6 damage on a roll of 5+ (roll separately for each). Armour and Passive saves may be made as normal.|
-|5|**Magazine Detonation:** All ships within 12" take 2 damage. Armour and Passive saves may be made as normal.|
-|7+|**Space-Time Rent:** All ships with 6 or more starting Hull within 8" take 3+D3 damage. Armour and Passive saves may be made as normal. All ships with 5 or less starting Hull within 8" are removed from play with no Catastrophic Damage rolls.|
+|2|**Descenso violento:** Cualquier sector totalmente a 8" de la nave sufre 1d6 puntos de Daño de Casco. Los marcadores en esos sectores son destruidos con una tirada de 2+ (lanza para cada marcador individualmente).|
+|3|**Immolación:** Todas las naves completamente a 8" obtienen un Pico mañyor y 1d3 Fuegos (Ver Daño paralizante).|
+|4|**Fallo en la súper estructura:** Todas las naves completamente a 12" sufren 2d6 daños en el Casco con una tirada de 5+ (lanza para cada nave de forma individual=. Las tiradas de Armadura y Contramedidas pasivas pueden usarse de forma habitual.|
+|5|**Detonación del cargador:** Todas las naves completamente a 12" sufren 2 daños. Armadura y Contramedidas pasivas pueden ser utilizadas normalmente.|
+|7+|**Alteración del espacio-tiempo:** Todas las naves con un valor de Casco de 6 o más que se encuentren completamente a 8" sufren 3+d3 puntos de daño. Las tiradas de Armadura y Contramedidas pasivas pueden utilizarse normalmente. Todas las naves con 5 puntos de Casco iniciales o inferior son eliminadas del juego, sin realizar tiradas de Daño catastrófico.|
 
-## Damage control
+## Control de daños
 
-Roll a D6 for each crippling damage effect that requires repair **in the Roundup Phase of the game turn.** Armour and Passive Countermeasures cannot prevent Hull damage from this source.
+Lanza 1d6 por cada Daño paralizante que requiera reparación **en la fase final del turno de juego.** La Armadura o Contramedidas pasivas no pueden prevenir Daños en el Casco que procedan de esta fuente.
 
-### Damage Control Table
+### Tabla de control de daños
 
-|D6 roll|Result|
+|Tirada en d6|Resultado|
 | :-: | :- |
-|1|The ship suffers one point of Hull damage (no saves) and the Crippling Damage is not repaired. Roll again for repair at the end of the next game turn.|
-|2-3|Crippling Damage is not repaired. Roll again for repair at the end of the next game turn.|
-|4-6|The Crippling Damage is repaired and has no further effect.|
+|1|La nave sufre un punto de daño en el Casco (no se permiten tiradas de salvación) y el Daño paralizante no se repara. Vuelve a tirar de nuevo para reparar al final del siguiente turno de juego.|
+|2-3|El Daño Paralizante no se repara. Vuelve a tirar de nuevo al final del siguiente turno de juego.|
+|4-6|El Daño paralizante es reparado y no hay ningún efecto adicional.|
 
-### Orbital Decay
+### Caída Orbital
 
-Several Crippling Damage results make a ship subject to Orbital Decay. Its gravity nullifiers have ceased working, and it has started to plummet down to the planet.
+Varios resultados de Daño paralizante hacen que una nave esté sujeta a Caída orbital. Sus anuladores de gravedad han dejado de funcionar, haciendo que la nave comience a precipitarse contra la superficie del planeta.
 
-Orbital Decay is an additional crippling damage effect that causes the ship to move down one Orbital layer in the Roundup Phase. It may be rolled for as part of Damage Control in the Roundup Phase, in the same way as any other Crippling effect.
+La Caída Orbital es un efecto adicional de Daño paralizante que causa que la nave se mueva un nivel orbital hacia abajo en la fase de final de ronda. Puede ser lanzada como parte del Control de daños en dicha fase, de la misma manera que cualquier otro efecto Paralizante.
 
-**Any ship that does not have the Atmospheric Rule that moves into atmosphere because of Orbital Decay is Destroyed   remove it from play without rolling on the Catastrophic damage table.**
+**Cualquier nave que no tenga la regla Atmosférico que se mueve al nivel de Atmósfera debido a una Caída orbital es eliminada directamente de juego sin realizar tirada en la Tabla de Daño Catastrófico.**
