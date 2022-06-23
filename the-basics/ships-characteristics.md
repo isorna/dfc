@@ -5,27 +5,26 @@ sidebar_position: 1
 
 # Características de las naves
 
-The strengths and weakness of different ships and weapon systems in the game are shown through their characteristics. These show how fast they are, how much damage they can take and so on. You can see an example of a ship s stat sheet below.
-
+Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en el juego se ve ven a través de sus características. Estas nos enseña como de rápidas son, cuanto daño hacen y demás. Se puede ver un ejemplo de las estadísticas de una nave debajo. 
 
 **UCM Lysander - Stealth Lighter** (27 pts)
 
-**Points Cost (Pts) -** All ships in the game cost points to field in your fleet. Ships with a higher points cost will generally be more potent, but you will not be able to field as many. This number is for a single ship within that group.
+**coste en puntos (Pts) -** Todas las naves en el juego tiene un coste en puntos. Las naves con un coste superior generalmente son más potentes, pero no podrás llevar tantas como quieras. Estos puntos son por nave que va en el grupo de batalla. 
 
-|Name|Scan|Sig|Thrust|Hull|A|PD|G|T|Special|
+|Nombre|Radar|Señal|Alcance|Casco|A|PD|G|T|Especial|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
-|Lysander|6"|0"|12"|2|6+|2|1-3|L|Atmospheric, Full Cloak, Launch, Open, Rare|
-**Stats Bar -** This shows all the key characteristics of a ship. From how fast it moves, to how survivable it is, its tonnage, and much more. We ll be going into detail on the stats bar over the next few pages.
+|Lysander|6"|0"|12"|2|6+|2|1-3|L|Atmosférico, Camuflaje completo, Lanzamiento, Abierto, Rara|
+**Barra de estadísticas -** Esto enseña todas las características lave de la nave. Cuanto se mueve, cuanta supervivencia tiene, cual es su tonelaje y mucho más. Debajo detallaremos más sobre estas características. 
 
-|Type|Lock|Attack|Damage|Arc|Special|
+|Tipo|Precision|Ataques|Daño|Arco|Especial|
 | :- | :-: | :-: | :-: | :-: | :- |
-|Barracuda Missile Bay|4+|2|1|F/S/R|Close Action|
-**Weapon Systems -** This shows what weapons the ship is armed with. Accuracy, damage potential, arc of fire and more are shown here.
+|Barracuda Missile Bay|4+|2|1|F/S/R|Corto alcance|
+**Sistema de armas -** Aquí se muestra que armas lleva una nave. Precision, daño, daño potencial, arco de disparo y demas es enseñado aquí. 
 
-|Load|Launch|Special|
+|Carga|Lanzamientos|Especial|
 | :- | :-: | :-: |
-|Dropships|1|-|
-**Launch Capacity -** Some ships are able to launch Dropships, Bulk Landers and more. If the ship has a launch capacity, it is shown here. Ships without any do not have this bar on their stat sheet.
+|Descarga de naves|1
+**Capacidad de lanzamiento -** Alguna naves son capaces de lanzar naves, módulos de aterrizaje y demás. Si la nave tiene capacidad de lanzamiento, se enseña aquí. Naves sin esa capacitar no tiene esta característica. 
 
 :::note Stealth Observation
 This ship can Survey a Cluster regardless of its Battlegroup Tonnage value.
