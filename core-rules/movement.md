@@ -5,24 +5,24 @@ sidebar_position: 5
 
 # Movimiento
 
-A group does not have to maintain a specific formation when it moves and each ship can move individually. For a move to be legal all of the Group s ships must obey the coherency rules at the end of their movement.
+Un grupo no tiene que mantener una formación específica cuando se mueve, y cada nave puede moverse individualmente. No obstante, para que el movimiento de un grupo sea legal, todas las naves que forman dicho grupo deben cumplir las reglas de coherencia al final de su movimiento. 
 
-## Moving between orbital layers
+## Movimiento entre capas orbitales
 
-A ship may move voluntarily up or down one orbital layer (e.g. from High Orbit to Low Orbit, or Atmosphere to Low Orbit) as a part of its movement, once per turn. However, it must be able to turn to do so. This means that ships that have **Weapons Free, Active Scan** or **Silent Running** special orders on them or ships that cannot turn for any other reason may **not** change Orbital Layers.
+Una nave puede cambiar de capa orbital voluntariamente, ascendiendo o descendiendo una capa orbital (por ejemplo, de Órbita alta a baja, o de Atmósfera a Órbita Baja) una vez por turno como parte de su movimiento. Sin embargo, para realizar estos cambios, la nave debe ser capaz de girar. Esto significa que las naves que han realizado órdenes especiales de **Fuego a discrección, Escáner Activo** o **Movimiento sigiloso** o naves que no pueden girar por cualquier otra razón **no** pueden cambiar de capa orbital. 
 
-Ships may go down an Orbital Layer at any point in their movement for no penalty to their movement (other than those associated with going into Atmosphere - see the Atmosphere section for details).
+Las naves pueden descender a una Capa orbital directamente inferior a la que se encuentran en cualquier punto de su movimiento sin penalización a su capacidad de movimiento (exceptuando el descenso a la capa de Atmósfera, la cual tiene sus propias reglas especiales - ver la sección Atmósfera para consultar detalles). 
 
-**A ship must expend 4  of its available Thrust to move up an Orbital Layer. A ship that does not have 4  of Thrust available may not move up a layer.**
+**Una nave debe gastar 4 de su Impulso disponible para moverse a una Capa orbital directamente superior a la que se encuentre actualmente. Si no posee un valor mínimo de 4 de Impulso disponible, no puede realizar dicho cambio.**
 
-## Ramming
+## Embestida
 
-With the vast speeds involved in space travel, when two objects collide it mostly results in both objects being obliterated. With this in mind, even the most insane or bloodthirsty captains will avoid ramming their ship into another for risk of both being consumed in the inevitable explosion. However, in certain circumstances, when there is nothing else to loose, incredibly desperate captains have been known to rush dangerously close towards the enemy in the hopes of taking them with them. In such circumstances it is often the close range exchanges of weapon systems or the critical overloading of the ships jump drives that do the most damage, on rare occasions though the doomed ship will manage to make contact with their target, frequently consuming both in the destructive energies unleashed.
+Con las amplias velocidades involucradas en el viaje espacial, cuando dos objetos colisionan generalmente el resultado es la destrucción de ambos objetos. Teniendo esto en mente, incluso el más loco o sanguinario capitán suele evitar embestir su nave contra otra para evitar el riesgo de que ambas sean consumidas en la inevitable explosión. Sin embargo, en determinadas circunstancias, cuando no hay nada que perder, capitanes increiblemente desesperados han sido conocidos por avalanzarse peligrosamente cerca del enemigo con la esperanza de llevárselo junto a ellos. En tales circunstancias, a menudo son los intercambios de corto alcance de los sistemas de armas, o la sobrecarga crítica de los impulsores de salto de las naves los que causan el mayor daño, aunque en raras ocasiones la nave condenada logrará hacer contacto con su objetivo, consumiendo con frecuencia a ambas en las destructivas energías desatadas. 
 
-Only large ships have the mass to survive the desperate defensive fire thrown up by the enemy ship and as such, **only ships of medium tonnage or larger my attempt this manoeuvre.** As a captain must be desperate to attempt such an action his ship must abide by the following criteria:
+Únicamente las naves de cierta envergadura tienen la masa para sobrevivir al desesperado fuego devensivo arrojado por la nave enemiga, y por ello, **únicamente naves de tonelaje medio o superior pueden intentar esta maniobra.** Dado que un capitán debe estar totalmente desesperado para ejecutar una acción semejante, su nave debe cumplir una serie de criterios:
 
-* The ship must have two or fewer Hull Points remaining.
-* The ship must choose Standard Orders this turn and may not fire.
-* If the ship ends its activation within 3 of an enemy ship it may attempt to ram them.
+* La nave debe tene 2 o menos puntos de Casco restantes.
+* La nave debe escoger órdenes estandar este turno y no puede disparar.
+* Si la nave finaliza su activación a 3 pulgadas de un enemigo, puede intentar embestirlo. 
 
-Roll a dice. On a 1-2 the attempt has failed and the enemy ship succeeds in destroying the Ramming ship; remove the ship from play and do not roll for Catastrophic Damage. On the roll of a 3+ the Ramming action is a success and they have successfully crashed into/detonated their jump drives/unleashed a devastating final volley. Remove the Ramming ship and do not roll on the Catastrophic Damage table. The target ship takes a number of Lock 3+ hits equal to the Ramming ship s original Hull value.
+Lanza un dado. Con un 1-2  el intento falla y la nave enemiga tiene éxito en destruir a la nave que está embistiendo; retira la nave del juego sin realizar tirada de Daño catastrófico. Si el resultado de la tirada es de 3+, la acción de Embestida tiene éxito y ha conseguido chocar/detonar sus impulsores de salto/desatar una descarga final devastadora. Retira la nave que ha realizado la embestida sin tirar en la tabla de Daño catastrófico. La nave objetivo recibe un número de impactos de Puntería 3+ igual al valor de Casco original de la nave que realizó la Embestida.
