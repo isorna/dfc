@@ -5,54 +5,54 @@ sidebar_position: 4
 
 # Órdenes de las naves
 
-When activating any ships in a Battlegroup, the player may opt to use Standard Orders **or** one of many special orders. Generally a ship may turn, then move, then fire its weapons. A ship must do those in that order unless otherwise specified, although the amount of each depends on the order given.
+Cuando una nave de un Grupo de Batalla se activa, el jugador puede elegir entre darle Órdenes estándar **o** una de las diversas ordenes especiales. Generalmente una nave puede girar, mover, y disparar sus armas. Una nave debe hacer dichas acciones en ese orden específico, salvo que haya otra regla que especifique otra secuencia, sin embargo, la cantidad de cada tipo de acción dependerá de la orden asignada. 
 
-Choose whether or not to have a ship on special orders before moving or shooting with it. Special orders are powerful abilities that allow greater tactical flexibility. Each comes with their own pros and cons, often trading usefulness for an increased visibility (see Spikes for more details).
+Antes de realizar cualquier acción con una nave (mover, disparar o girar), el jugador debe declarar si va a utilizar alguna orden especial. Las órdenes especiales son poderosas habilidades que permiten una mayor flexibilidad táctica. Cada una viene con sus propios pros y contras, a menudo suponiendo una mejora en la utilidad de la acción a cambio de una mayor visibilidad (consultar la sección Picos para obtener más detalles).
 
-**All the ships in a battlegroup have to work together so only one  special  order can be chosen each time the battlegroup activates.** The individual ships in each of the battlegroup s groups can opt to use the battlegroup special order chosen for that turn or to use Standard Orders instead.
+**Todas las naves de un grupo de batalla deben trabajar juntas, por tanto, solo se puede impartir una única orden especial cada vez que dicho Grupo de batalla se activa.** A título individual, cada nave perteneciente al grupo de batalla puede elegir entre utilizar la orden especial o utilizar una Orden estándar en su lugar.
 
-**Ships outside their group cohesion range (see above) can only use standard orders.**
+**Las naves que se encuentren fuera de rango de coherencia (ver arriba) solo pueden utilizar órdenes estándar.**
 
-## Standard orders
+## Órdenes estándar
 
-Remove a Minor Spike from the ship at the beginning of its activation.
+Elimina un Pico menor de la nave al inicio de su activación.
 
-The ship may turn by up to 45 degrees at the **beginning** of its activation, and then must move between half and full its Thrust value. It may then fire up to one weapon system.
+La nave puede realizar un giro de hasta 45 grados al **inicio** de su activación,y luego mover entre la mitad y su máximo valor de Impulso. La nave puede entonces disparar un sistema de armas. 
 
-## Special Orders
+## Órdenes especiales
 
-### Station Keeping
+### Posición estacionaria
 
-The ship may use from none to half of its Thrust value to move, turn by up to 45 degrees at the **beginning or end** of its movement and may then fire up to one weapon system. Add a Minor Spike to the ship at the end of its activation.
+La nave puede moverse entre 0 y la mitad de su valor de Impulso, girar hasta 45 grados **al inicio o al final** de su movimiento, y luego disparar hasta un sistema de armas. Añade un Pico menor a la nave al final de su activación. 
 
-### Course Change
+### Cambio de rumbo
 
-The ship must move between half and full its Thrust value, and may turn up to 45 degrees **twice** at any point in its movement. It may then fire up to one weapon system. Add a Minor Spike to the ship at the end of its activation.
+La nave puede mover entre la mitad y su máximo valor de Impulso, y puede girar hasta 45 grados **dos veces** en cualquier punto de su movimento. Tras esto, puede disparar hasta un sistema de armas. Añade un Pico menor a la nave al final de su activación. 
 
-### Max Thrust
+### Impulso máximo
 
-The ship may turn up to 45 degrees at the beginning of its movement and then must move **between its full and double its Thrust value.** **It may not fire any weapon systems.** Add a Minor Spike to the ship at the end of its activation.
+La nave puede girar hasta 45 grados al inicio de su movimiento y luego debe mover **entre el total y el doble de su valor de Impulso**. **La nave no puede disparar ningún sistema de armas al ejecutar esta orden**. Añade un Pico menor a la nave al final de su activación. 
 
-A ship on Max Thrust may not use launch assets.
+Una nave que utilice Impulso máximo no puede utilizar Lanzamiento de activos.
 
-### Silent Running
+### Movimiento sigiloso
 
-The ship may not turn, and must move between half and full its Thrust value.
+La nave no puede girar, y debe mover entre la mitad y su valor total de Impulso.
 
-It may not fire any weapons systems. Remove all energy spikes from the ship at the end of its activation. **The ship s Signature is reduced to 0 until the start of its next activation.** Use the status wheel on the ship s base to indicate that it is silent running.
+La nave no puede disparar ningún sistema de armas. Elimina todos los picos de energía de la nave al final de su activación. **La Señak de la nave se reduce a 0 hasta el inicio de su siguiente activación.** Utiliza el indicador apropiado en el dial de la base de la nave para señalar que se encuentra en Movimiento sigiloso. 
 
-A ship on Silent Running may not use launch assets.
+Una nave que realice un Movimiento sigiloso no puede realizar Lanzamiento de activos.
 
-### Weapons free
+### ¡Fuego a discrección!
 
-The ship may not turn, but must move between half and full its Thrust value. It may then fire any number of weapon systems. Add a Major Spike to the ship at the end of its activation.
+La nave no puede girar, pero debe mover entre la mitad y su valor máximo de Impulso. Tras esto, puede disparar cualquier número de sistemas de armas que posea. Añade un Pico mayor a la nave al final de su activación. 
 
-### Active Scan
+### Activar Escáner
 
-The ship may not turn, and must move between half and full its Thrust value. It may then fire up to one weapon system. Also place a Minor Spike on any one enemy ship on the tabletop. Add a Major Spike to the ship at the end of its activation.
+La nave no puede girar, y debe moverse entre la mitad y el máximo de su valor de Impulso. Tras esto, puede disparar hasta un sistema de armas. También coloca un Pico menor en una única nave enemiga sobre el tablero de juego. Añade un Pico mayor a la nave al final de su activación. h
 
-**Ships in Atmosphere and/or with less than 4 hull points on their starting profile may not use this order.**
+**Las naves que se encuentren en la Atmósfera y/o posean menos de 4 puntos de casco en su perfil inicial no pueden utilizar esta orden.**
 
-**Only one ship per Group may use this order.**
+**Solo una nave por grupo puede utilizar esta orden.**
 
-A ship using Active Scan can attempt to reveal a ship that is Silent Running, although success is by no means assured. When choosing a target ship to Active Scan, roll a die. On a 4+ the Silent Runner is spotted   reset the status wheel to show that its normal Signature applies. In this case no additional energy spike is added to the revealed ship although subsequent Active Scans or effects that add spikes will add the appropriate spike level.
+Una nave que utilice Activar escáner puede intentar revelar una nave que realiza Movimiento sigiloso, aunque el éxito no está asegurado. Cuando se elige la nave objetivo enemiga sobre la que aplicar Activar escáner, lanza un dado. Con un resultado de 4+, la nave que realizaba Movimiento sigiloso es descubierta, y se debe cambiar el indicador del dial de la base de la misma a su estado normal, señalando que se aplica su valor normal de Señal. En este caso no se añaden Picos adicionales a la nave revelada, salvo que posteriormente se le aplique otro Activar escáner u otro efecto que añada Picos, en cuyo caso, se aplicarán normalmente. 
