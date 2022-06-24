@@ -5,17 +5,17 @@ sidebar_position: 3
 
 # Escenografía
 
-While the void of space doesn t have as much scenery as a typical wargame, there are still plenty of opportunities for things to get in the way of your carefully laid plans!
+Aunque el vacío espacial no tiene tanta escenografía como un wargame típico, sigue habiendo muchas posibilidades de que algo se interponga en tus perfectamente trazados!
 
 ## Orbital Debris
 
-Orbiting every inhabited planet are many thousands of objects ranging from space junk and wreckage through to satellites and mighty bastions of defence and commerce.
+Orbitando alrededor de todo planeta habitado hay miles de objetos desde basura espacial y restos a satélites o poderosos bastiones de defensa y comercio
 
-In Dropfleet Commander these areas and obstacles are grouped into three distinct categories; **Debris Fields, Planetary Rings** and **Large Solid Objects.**
+EN Dropfleet Commander estas áreas y obstáculos se agrupan en 3 categorías distintas; **Campos de Escombros, Anillos Planetarios** y **Objetos Sólidos Grandes**
 
-## Debris Fields
+## Campos de Escombros
 
-There are two types of Debris Field in Dropfleet Commander: **Fine** and **Dense**. These fields are typically 6" by 3" but feel free to make the fields as large as you dare!
+Hay dos tipos de Campos de Escombros en Dropfleet Commander: **Finos** y **Densos**. Estos campos normalmente son de 6" por 3" pero sientete libre de hacer los campos todo lo grande que te atrevas! 
 
 When Debris Fields are placed on the battlefield they are considered to be in both High and Low Orbit, any ship that moves or turns within a field will receive damage from the various objects, resolve the damage as soon as the ship moves or turns within the field. Only roll once per ship per field per turn – if a ship moves through multiple fields in the same turn then roll separately for each.
 
