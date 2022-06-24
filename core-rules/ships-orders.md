@@ -43,11 +43,11 @@ La nave no puede disparar ningún sistema de armas. Elimina todos los picos de e
 
 Una nave que realice un Movimiento sigiloso no puede realizar Lanzamiento de activos.
 
-### ¡Fuego a discrección!
+### Fuego a discrección
 
 La nave no puede girar, pero debe mover entre la mitad y su valor máximo de Impulso. Tras esto, puede disparar cualquier número de sistemas de armas que posea. Añade un Pico mayor a la nave al final de su activación. 
 
-### Activar Escáner
+### Escáner Activo
 
 La nave no puede girar, y debe moverse entre la mitad y el máximo de su valor de Impulso. Tras esto, puede disparar hasta un sistema de armas. También coloca un Pico menor en una única nave enemiga sobre el tablero de juego. Añade un Pico mayor a la nave al final de su activación. h
 
