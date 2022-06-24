@@ -58,24 +58,23 @@ Estas contramedidas sonconsideradas en uso constante y son tenidas en cuenta par
 Esta característica es la capacidad máxima de movimiento de una nave por turno. Hay varios factores que pueden afectar a esta característica como órdenes o daño. Bajo circunstancias normales la nave se tiene que mover como mínimo la mitad de su movimiento cada rurno(revisar la sección las reglas de ordenes y ordenes especiales para más detalle) 
 
 ### Casco
+El casco son los puntos de daño que puede aguantar antes de quedar destruida. El casco es una regla del tamaño de la nave y de la integridad estructural. Esto significa que es posible para algunas naves tengan buena armadura pero tengan pocos puntos de daño y viceversa. Los puntos de daño perdidos se pueden visualizar usando pegatinas que vienen con la base o si los jugadores lo prefieren con dados al lado de la nave. 
 
-Hull is the number of damage points a ship can withstand before it is destroyed. Hull is a function of overall size and inherent structural integrity. This means it is possible for ships with good armour to have a weak hull and vice versa. Lost Hull points can be tracked on a ship s base using the pegs and number system provided, or if players prefer with a dice/counter placed beside the ship.
+### Armadura (A)
 
-### Armour (A)
+_En comparación con las naves civiles, las naves de guerra  siempre van acorazadas de una forma que son más resistentes al daño. Esto puede ir desde un blinjade mejor en los componentes e incorporar componentes duplicados de emergencia detrás de metros de grosor de blindaje._
 
-_In comparison to civilian vessels, true warships are always  armoured  in some way to make them more resistant to damage. This can range from the basic hardening of individual components and incorporating multiple back-up systems to being sheathed in metres-thick plates of highly advanced armour._
+Las características de la armadura es para las tiradas de salvación, se tira un d6 por cada punto de casco dañado. Si la tirada no iguala o supera el valor de armadura entonces la nave sufre ese daño. Estas tiradas se ven reflejadas como 3+,4+,etc.
 
-In game terms the Armour characteristic is a saving throw on a D6 against each point of Hull damage taken expressed as 3+, 4+ etc. When a ship is damaged roll a D6 for each point of damage inflicted on it. Each successful armour save prevents one point of Hull damage.
+### Puntos de defensa (PD)
 
-### Point Defence (PD)
+_Todas las naves de combate llevan de alguna manera puntos de defensa que le protege contra pequeños objetos. Los puntos de defensa son equivalente a contramedidas de las unidades de tierra. Los sistemas identifica y neutraliza las posibles amenazas hacia la naves como meteoritos o misiles nucleares._
 
-_All fighting ships carry some sort of point defence to protect themselves against small objects. Point Defences are the equivalent of Active Countermeasures on ground based units; systems that identify and neutralise incoming threats to the ship   everything from meteorites to nuclear-tipped missiles._
+_Las armas pueden ser de diferentes tipos:lasers, armas de gauss, misiles, antiaéreos, arcos de plasma, etc. Todos ellos son pequeños, sistemas rápidos de disparar con el tiempo de respuesta necesario para interceptar amenazas en el corto alcance._
 
-_The exact weapons used can take many forms: pulse lasers, rapid fire gauss guns, interceptor missiles, flak rockets, energised plasma arcs   the list is endless. All of these are small, fast-firing weapon systems with the response time necessary to intercept tiny, rapidly-moving targets at close range._
+Para la mayoría los puntos de defensa es más importante la cantidad a la calidad. El número que indica esta característica es el número de dados que una nave puede tirar para hacer autodefensa al enemigo cuando ataca con armas que tengan la regla armas de corto alcance o sobre cazas, bombarderos o toreros. Estas reglas son explicadas en otro apartado. 
 
-For the most part Point Defence relies on quantity rather than quality. The number indicated by this characteristic indicates the number of dice the ship can roll in self-defence when attacked by enemy Close Action weapons and some Launch Assets. These rules are covered later on.
-
-### Group (G)
+### Grupo (G)
 
 Group indicates the normal operating parameters for ships of this class within the larger fleet. Smaller vessels such as frigates will tend to operate in groups of one to four of the same type of ship working together, while large vessels might only be found together in one or twos. The Group characteristic is used when choosing a fleet before the game (see Fleet Selection).
 
