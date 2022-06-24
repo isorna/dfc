@@ -76,13 +76,13 @@ Para la mayoría los puntos de defensa es más importante la cantidad a la calid
 
 ### Grupo (G)
 
-Group indicates the normal operating parameters for ships of this class within the larger fleet. Smaller vessels such as frigates will tend to operate in groups of one to four of the same type of ship working together, while large vessels might only be found together in one or twos. The Group characteristic is used when choosing a fleet before the game (see Fleet Selection).
+El grupo infica el número de naves que se necesita para operar en el grupo de batalla, las naves pequeñas como fragatas tienden a operar en grupos de uno a cuatro de naves de la misma clase juntas, mientras  las naves grandes pueden ir en grupos de dos o de forma solitaria. La característica de grupo se usa cuando se escoje la flota antes de la partida(mirar en la selección de flota). 
 
-### Tonnage (T)
+### Tonelaje (T)
 
-There are four main Tonnage categories in Dropfleet commander: **Light (L), Medium (M), Heavy (H) and Super Heavy (S).** There are also some ships that fall between the classes such as L2 and H2. As with the Group characteristic, Tonnage is primarily used in conjunction with Fleet Selection as players will often have to consider the Tonnage of the vessels under their command. Tonnage also figures into scenarios where victory conditions are often calculated using the tonnage of surviving vessels.
+Hay cuatro categorías de tonelaje en dropfleet commander: Ligero (L), Mediano (M), Pesado (H) y super pesado (S). **También hay naves que están entre dos categorías como L2 y H2. Así como la característica de grupo, el tonelaje se usa principalmente en la selección de flota como jugador a veces consideradas el tonelaje de las naves bajo tu mando. El tonelaje también figura en las condiciones de victoria de los escenarios donde se usa el porcentaje de tonelaje de las naves que sobrevivio a la partida. 
 
-### Special
+### Especiales
 
 This section lists any special rules that may apply to the ship. This represents particular traits of a ship s design, special abilities or weaknesses the vessel may have. A detailed list of all common ship Special Rules can be found in the  Ship Special Rules  Section.
 
