@@ -1,4 +1,3 @@
-
 ---
 sidebar_label: 'Daño'
 sidebar_position: 7
@@ -8,21 +7,21 @@ sidebar_position: 7
 
 ## 4. Daño total infligido al casco
 
-Cada dado de ataque que iguale o supere el valor de Puntería del arma inflige el número de puntos de Daño indicados en el perfil del arma. Generalmente éste tiene un valor de 1 por dado de aaque, pero algunas armas especialmente destructivas pueden infligir más. 
+Cada dado de ataque que iguale o supere el valor de Puntería del arma inflige el número de puntos de Daño indicados en el perfil del arma. Generalmente éste tiene un valor de 1 por dado de aaque, pero algunas armas especialmente destructivas pueden infligir más.
 
-Varios sistemas de armas son impredecibles y pueden causar un número variable de puntos de daño por cada impacto exitoso (ejemplo, D6, D6+1, etc). Lanza cualquier dado adicional necesario para determinar la cantidad total de daño causada antes de realizar las tiradas de salvación por armadura pertinentes. 
+Varios sistemas de armas son impredecibles y pueden causar un número variable de puntos de daño por cada impacto exitoso (ejemplo, D6, D6+1, etc). Lanza cualquier dado adicional necesario para determinar la cantidad total de daño causada antes de realizar las tiradas de salvación por armadura pertinentes.
 
 _Por ejemplo; en la descripción de una nave se indica que ésta posee una batería de cañones de rail con un valor de Puntería de 4+, 3 Ataques y Daño 1. Esto significa que cuando el sistema de armas es disparado se lanzan 3 dados que causan un impacto a 4+ cada uno, y cada impacto exitoso causa 1 punto de daño de Casco en el objetivo._
 
 ## 5. Lanzar tiradas de salvación por armadura y reducir puntos de casco
 
-Cuando una nave sufre daño en el Casco sus Contramedidas pasivas (si las tiene) y armadura pueden prevenir el daño causado. 
+Cuando una nave sufre daño en el Casco sus Contramedidas pasivas (si las tiene) y armadura pueden prevenir el daño causado.
 
-Lanza 1D6 por cada punto de daño en Casco causado y compáralo con el valor de armadura incluido en la descripción de la nave. Cualquier D6 cuyo resultado iguale o supere el valor de Salvación por armadura indicado bloquea 1 punto de daño que no tiene efecto. 
+Lanza 1D6 por cada punto de daño en Casco causado y compáralo con el valor de armadura incluido en la descripción de la nave. Cualquier D6 cuyo resultado iguale o supere el valor de Salvación por armadura indicado bloquea 1 punto de daño que no tiene efecto.
 
-Si una nave posee más de una salvación por armadura, el jugador elige el mejor valor disponible y compara las tiradas de dados con dicho valor. 
+Si una nave posee más de una salvación por armadura, el jugador elige el mejor valor disponible y compara las tiradas de dados con dicho valor.
 
-Cualquier daño no salvado reduce los puntos de Casco de la nave objetivo. Marca dicha reducción en el dial de daño de la nave, o utilizando contadores o dados. Cualquier nave que pierda todos sus puntos de Casco es destruida y debe realizarse una tirada de daño catastrófico para ver cómo de violenta es la destrucción de la nave. 
+Cualquier daño no salvado reduce los puntos de Casco de la nave objetivo. Marca dicha reducción en el dial de daño de la nave, o utilizando contadores o dados. Cualquier nave que pierda todos sus puntos de Casco es destruida y debe realizarse una tirada de daño catastrófico para ver cómo de violenta es la destrucción de la nave.
 
 ### Contramedidas pasivas
 
@@ -38,7 +37,7 @@ _Por ejemplo, una nave tiene una salvación de 3+/4+. Recibe 5 impactos, de los 
 
 ### ¡Activad los escudos!
 
-Las Contramedidas Pasivas funcionan en una amplia variedad de formas entre las diferentes razas. Varias de ellas consisten en burbujas de energía que ofrecen una firme defensa contra cualquier ataque, mientras otras únicamente sirven para proteger ciertas areas clave de una nave, haciéndolas menos efectivas en conjunto. 
+Las Contramedidas Pasivas funcionan en una amplia variedad de formas entre las diferentes razas. Varias de ellas consisten en burbujas de energía que ofrecen una firme defensa contra cualquier ataque, mientras otras únicamente sirven para proteger ciertas areas clave de una nave, haciéndolas menos efectivas en conjunto.
 
 Varias (generalmente las menos potentes) Contramedidas pasivas pueden utilizarse continuamente, mientras que otras versiones mucho más potentes requieren que el jugador decida si quiere activarlas o no (ya que suelen ofrecer efectos negativos al utilizarlas).
 
@@ -98,7 +97,7 @@ Varios resultados de Daño paralizante infligen daños adicionales en Casco en l
 
 ## 7. Tirada de daño catastrófico
 
-Cuando una nave no tiene puntos de Casco restante es destruida por Daño catastrófico. Cuando esto ocurra, lanza 1d6 para ver si su destrucción tiene algún efecto adicional aplicable a otras naves cercanas. Las nave con la regla especial Dreadnought tienen su propia Tabla de Daño catastrófico. 
+Cuando una nave no tiene puntos de Casco restante es destruida por Daño catastrófico. Cuando esto ocurra, lanza 1d6 para ver si su destrucción tiene algún efecto adicional aplicable a otras naves cercanas. Las nave con la regla especial Dreadnought tienen su propia Tabla de Daño catastrófico.
 
 **Naves con un valor inicial de Casco inferior a 4 simplemente se retiran de juego - no lances en esta tabla**
 
