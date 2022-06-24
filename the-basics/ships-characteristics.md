@@ -11,7 +11,7 @@ Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en 
 
 **coste en puntos (Pts) -** Todas las naves en el juego tiene un coste en puntos. Las naves con un coste superior generalmente son más potentes, pero no podrás llevar tantas como quieras. Estos puntos son por nave que va en el grupo de batalla. 
 
-|Nombre|Radar|Señal|Alcance|Casco|A|PD|G|T|Especial|
+|Nombre|Radar|Señal|Movimiento|Casco|A|PD|G|T|Especial|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 |Lysander|6"|0"|12"|2|6+|2|1-3|L|Atmosférico, Camuflaje completo, Lanzamiento, Abierto, Rara|
 
@@ -29,35 +29,35 @@ Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en 
 
 **Capacidad de lanzamiento -** Alguna naves son capaces de lanzar naves, módulos de aterrizaje y demás. Si la nave tiene capacidad de lanzamiento, se enseña aquí. Naves sin esa capacitar no tiene esta característica. 
 
-:::note Stealth Observation
-This ship can Survey a Cluster regardless of its Battlegroup Tonnage value.
+:::note observaciones de sigilo
+Esta nave puede reconocer un Cluster sin importar el valor de tonelaje del grupo de batalla. 
 :::
 
-**Special Rules -** Some ships have unique special rules that are detailed here.
+**Reglas especiales -** Algunas naves tienen reglas especiales únicas que son detalladas aquí. 
 
-## Stats Bar
+## Barra de estadisticas
 
-Each ship has its own unique stats bar. Each column shows a different aspect of the ship. Getting to know these stats is the first step towards learning how to play Dropfleet Commander.
+Cada nave tiene su propia barra de estadísticas. Cada columna nos enseña diferentes aspectos de la nave. Sabiendo que estos datos son los primeros pasos para saber cómo jugar a Dropfleet Commander. 
 
-### Name
+### Nombre
 
-What the ship type is called. Certain ships may have individual and unique names, but they always belong to a  class  of ship. The name of the ship s class is shown here.
+Aquí nos muestra como se llama el modelo de la nave. Algunas naves tienen nombre único, pero siempre pertenecen a una clase de nave. 
 
-### Scan
+### Radar
 
-The Scan characteristic shows how good a ship is at spotting the enemy through a combination of sophisticated sensors, predictive software and crew competence. Scan range is primarily a  technology  characteristic dictated by the best possible equipment that can be crammed on board so most ships from a particular race will have the same Scan value. Certain weapon systems can only be used within Scan range or become more effective when used within Scan range.
+La característica de radar nos enseña como de buena es la nave para detectar a naves enemigas. Esto es consecuencia de sensores sotisficados, software y la tripulación. El rango del radar es principalmente una tecnología para detectar de la mejor forma posible por lo tanto casi todas las naves de la misma facción tendrán el mismo valor de radar. Algunos sistemas de armamento sólo pueden ser usado si la nave enemiga está a rango de radar o en su defecto será más efectiva. 
 
-### Signature
+### Señal
 
-_Signature shows how visible a ship is on enemy sensors and how far away it can be spotted. Most ships use forms of active countermeasures like chaff, ECM (electronic countermeasures jamming) and other technologies to hide the ship by reducing its signature as much as possible._
+_La característica de se al nos dice como de visible es nuestra nave a los radares de las naves enemigas y desde que distancia pueden ser descubiertas. La mayoría de de naves tienen contramedidas, bengalas ECM(sistema de interferencias electrónicos) y otras tecnologías para ocultar o reducir la señal de la nave._
 
-These countermeasures are considered to be in constant use and are taken into account in the ship s overall Signature. Certain kinds of damage, hard manoeuvring and firing weapon systems can all act to temporarily increase a ship s Signature. Signature can also be reduced in some circumstances, such as by issuing the Silent Running order for example.
+Estas contramedidas sonconsideradas en uso constante y son tenidas en cuenta para el resultado final de la señal de la nave. Ciertos tipos de daño, maniobras difíciles y disparo de armas puede incrementar la señal de la nave de forma temporal. En ciertas circunstancias la señal se puede reducir, como con la orden modo silencioso por ejemplo. 
 
-### Thrust
+### Movimiento
 
-Thrust is a ship s maximum move distance per game turn in inches. Several factors such as the ship s orders or battle damage can affect available Thrust. Under ordinary circumstances a ship must move at least half of its available Thrust for movement each turn (see the Orders and Special Orders sections of the rules for more details).
+Esta característica es la capacidad máxima de movimiento de una nave por turno. Hay varios factores que pueden afectar a esta característica como órdenes o daño. Bajo circunstancias normales la nave se tiene que mover como mínimo la mitad de su movimiento cada rurno(revisar la sección las reglas de ordenes y ordenes especiales para más detalle) 
 
-### Hull
+### Casco
 
 Hull is the number of damage points a ship can withstand before it is destroyed. Hull is a function of overall size and inherent structural integrity. This means it is possible for ships with good armour to have a weak hull and vice versa. Lost Hull points can be tracked on a ship s base using the pegs and number system provided, or if players prefer with a dice/counter placed beside the ship.
 
