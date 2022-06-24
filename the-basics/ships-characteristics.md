@@ -88,36 +88,36 @@ En esta sección están las reglas especiales que pueden aplicarse a la nave. Es
 
 Algunas naves tienen reglas únicas que son específicas para ese tipo de nave y esa faccio, como sensor jamming abilities o bonus sutiacionales. Cualquier regla especial que no este en la sección de la barra de estadísticas se mostrará en la siguiente barra de detalle de las reglas únicas usadas. 
 
-## Weapon System Characteristics
+## Características de los sistemas de armamentos 
 
-Most ships in Dropfleet are armed with one or more weapon systems. These can range from a mass of turret-mounted rail cannons to huge spinal-mount energy weapons capable of cutting enemy craft in half with a single blast.
+La mayoría de las naves en dropfleet están armadas con una o varios sistemas de armas. Estas pueden ir desde torre torretas montadas con railgun o montañas de armas de energía capaz de cortar por la mitad a las naves enemigas. 
 
-### Lock
+### Precisión
 
-Lock is the weapon system s  to hit  roll and represents a combination of tracking speed and power-up delay as well as inherent accuracy. When rolling to hit, each of the weapon system s Attack dice scores a hit if it equals or beats the Lock value.
+El sistema de protección de un sistema de armas representa la capacidad de impactar a una nave enemiga. Cuando se hace una tirada de impactar cada uno de los sistemas de armas tira los dados e impacta si es igual o superior al valor de precisión. 
 
-### Attack
+### Ataque
 
-Attack shows the number of Attack dice the weapon system rolls, with each dice typically representing a salvo or volley from the same weapon system. Each attack dice has to score equal or higher than the weapon s Lock value to score a hit.
+Esta característica nos enseña la capacidad de ataques que tiene cada sistema de armas. 
 
-### Damage
+### Daño
 
-Some weapon systems hit harder than others and will do a corresponding amount of damage to an enemy hull. Damage indicates the number of Hull points inflicted by each Attack dice from the weapon system which successfully hits and damages a ship.
+Algunos sistemas de armas impactan con mayor daño que otras, esto corresponde a la cantidad de daño que puede causar al casco del enemigo. Esta característica indica cuantos puntos de casco causa cada impacto de cada sistema de armas en caso de que sea exitoso. 
 
-### Arc
+### Arco
 
-Each weapon system has a designated fire arc it can make attacks into. There are 4 arcs: **F Front, F (N) Front Narrow, R Rear, S Side.** Side facing weapons may also have an addition notation, i.e. Right or Left. If the weapon has no extra note and only says S it may fire to either side - left or right. If it has the (Right) or (Left) notation it may only fire on that side (in addition to any other arcs shown).
+Cada sistema de armas tiene designando un arco de fuego. Hay cuatro o arcos **F frontal, F(N) Frontal reducido, R Posterior, S Lateral** Las armas laterales pueden tener también sólo un lado, por ejemplo derecha o izquierda. Si el sistema de armas no tiene ninguna a anotación puede disparar por ambos lados - izquierda o derecha. Si tiene la palabra (Right) o (Left)  entonces solo puede disparar por ese lado (además de otros arcos que estén en la ficha). 
 
-Weapon arcs are normally 90 degrees but some weapons systems are restricted to a 22 degree narrow (N) arc instead. Ship bases include these arcs for ease of use thin ridges delineate front, side and rear arcs, and the raised area at the front the base shows the front narrow arc.
+Los arcos de las armas tienen 90 grados pero algunas sistemas de armas lo tienen restringido a 22 grados como el F(N). Las bases de las naves incluyen la de limitación de estos arcos para que sea de fácil manejo
 
-_e.g. a ship has three weapons profiles. One has arc: F/S/R, the second has arc: S/R, and the last has arc: F/S (Right)._
+_Por ejemplo una nave con tres perfiles de sistemas de armas. Una tiene un arco de F/S/R, el segundo tiene un arco de S/R y el tercero tiene un arco de F/S(Right)._
 
-_In this case the first weapon would be able to fire from its Front arc, either Side arc or its Rear arc._
+_En este caso el primer sistema de armas es capaz de disparar por todos los arcos (frontal, laterales o posterior)._
 
-_The second weapon could fire from either one of its Side arcs or its Rear arc._
+_El segundo sistema de armas puede disparar por los dos laterales o por la parte posterior._
 
-_The last weapon may only fire from the Front arc or the arc on its Right side, as it has the S (Right) notation._
+_El último sistema de armas sólo puede disparar por el arco frontal y por su lateral derecho, al tener la anotación (Right)._
 
-### Special
+### Especial 
 
-A number of weapon systems have special rules to reflect their effects. See Special Weapons Rules for more information.
+Varios sistemas de armas tienen reglas especiales para reflejar sus efectos. Consulte las Reglas de armas especiales para obtener más información.
