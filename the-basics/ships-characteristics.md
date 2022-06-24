@@ -84,9 +84,9 @@ Hay cuatro categorías de tonelaje en dropfleet commander: Ligero (L), Mediano (
 
 ### Especiales
 
-This section lists any special rules that may apply to the ship. This represents particular traits of a ship s design, special abilities or weaknesses the vessel may have. A detailed list of all common ship Special Rules can be found in the  Ship Special Rules  Section.
+En esta sección están las reglas especiales que pueden aplicarse a la nave. Esto representa las particularidades del diseño de la nave, habilidades especiales o debilidades que pueda tener la nave. La lista detallada de las reglas especiales se puede encontrar en la sección de reglas especiales. 
 
-Some ships have unique rules that are specific to that faction and ship class alone, such as sensor jamming abilities or situational bonuses. Any unique Special Rules not in the  Special  section of a ship s stats bar will be shown following the bar with details of the unique rules used.
+Algunas naves tienen reglas únicas que son específicas para ese tipo de nave y esa faccio, como sensor jamming abilities o bonus sutiacionales. Cualquier regla especial que no este en la sección de la barra de estadísticas se mostrará en la siguiente barra de detalle de las reglas únicas usadas. 
 
 ## Weapon System Characteristics
 
