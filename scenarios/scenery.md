@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Escenografía
 
-Aunque el vacío espacial no tiene tanta escenografía como un wargame típico, ¡sigue habiendo muchas posibilidades de que algo se interponga en tus perfectamente trazados!
+Aunque el vacío espacial no tiene tanta escenografía como un wargame típico, ¡sigue habiendo muchas posibilidades de que algo se interponga en tus perfectamente trazados planes!
 
 ## Orbital Debris
 
