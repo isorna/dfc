@@ -98,7 +98,7 @@ Precisión la tirada para dar en el blanco del sistema de armas y representa una
 
 ### Ataque
 
-Esta característica nos enseña la capacidad de ataques que tiene cada sistema de armas. 
+Ataque muestra el número de dados de Ataque que tira el sistema de armas, y cada dado representa normalmente un disparo o andanada del mismo sistema de armas. Cada dado de ataque debe tener una puntuación igual o superior al valor de bloqueo del arma para lograr un impacto.
 
 ### Daño
 
