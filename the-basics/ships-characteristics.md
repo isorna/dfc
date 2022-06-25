@@ -80,7 +80,7 @@ Group indica los parámetros operativos normales para naves de esta clase dentro
 
 ### Tonelaje (T)
 
-Hay cuatro categorías de tonelaje en dropfleet commander: Ligero (L), Mediano (M), Pesado (H) y super pesado (S). **También hay naves que están entre dos categorías como L2 y H2. Así como la característica de grupo, el tonelaje se usa principalmente en la selección de flota como jugador a veces consideradas el tonelaje de las naves bajo tu mando. El tonelaje también figura en las condiciones de victoria de los escenarios donde se usa el porcentaje de tonelaje de las naves que sobrevivio a la partida. 
+Hay cuatro categorías de tonelaje en Dropfleet commander: Ligero (L), Mediano (M), Pesado (H) y Sùper pesado (S). **También hay naves que están entre dos categorías como L2 y H2. Así como la característica de grupo, el tonelaje se usa principalmente en la selección de flota ya que los jugadores tendrán a menudo que tener en cuenta el tonelaje de las naves bajo tu mando. El tonelaje también figura en las condiciones de victoria de los escenarios donde se usa el porcentaje de tonelaje de las naves que sobrevivió a la partida. 
 
 ### Especiales
 
