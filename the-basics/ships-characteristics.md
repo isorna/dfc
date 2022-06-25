@@ -9,7 +9,7 @@ Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en 
 
 **UCM Lysander - Stealth Lighter** (27 pts)
 
-**coste en puntos (Pts) -** Todas las naves en el juego tiene un coste en puntos. Las naves con un coste superior generalmente son más potentes, pero no podrás llevar tantas como quieras. Estos puntos son por nave que va en el grupo de batalla. 
+**Coste en puntos (Pts) -** Todas las naves en el juego tiene un coste en puntos. Las naves con un coste superior generalmente son más potentes, pero no podrás llevar tantas como quieras. Estos puntos son por nave que va en el grupo de batalla. 
 
 |Nombre|Radar|Señal|Movimiento|Casco|A|PD|G|T|Especial|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
