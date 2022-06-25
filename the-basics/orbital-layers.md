@@ -7,24 +7,24 @@ sidebar_position: 4
 
 _Las reglas básicas de Dropfleet cubren el combate espacial, pero la verdad es que batallas en mitad del espacio son bastantes raras. El verdadero motivo de las batallas espaciales es la conquista de planetas en el sistema solar. Debido a esto la mayoría de combates ocurren cerca de planetas habitables (o al menos conolizables), lunas o cuerpos celestiales._
 
-Once an enemy fleet moves in to try to knock down satellite coverage and bombard targets on the surface it is only a matter of time before a full-blown invasion will be launched. This is the point where a defending fleet is forced to stand and fight or surrender control of the planet altogether.
+Una vez que la flota enemiga mueve, esta intentó destruir los satélites y bombardear los objetivos que hay en tierra antes de la invasión. En este punto es donde la flota de defensa se ve en la situación o de aguantar y luchar o rendirse y con ello dar el control del planeta. 
 
-There are three  heights  or layers in orbital combat, with the table surface nominally representing ground level and ships floating somewhere in the layers above.
+Hay tres capas orbitales de combate, estas son:
 
-## High Orbit/Space
+## Orbita alta/Espacio
 
-Combat is rare in actual deep space but common in high orbit. Most large ships are designed to operate at this level, and as such are most effective in High orbit. Severe damage when at lower orbital layers is liable to cause Orbital Decay, a situation that can very easily become terminal for such large vessels.
+Combatir en el espacio profundo pasa en raras ocasiones pero si es común en órbitas altas. Las naves más grandes están diseñados para operar en este nivel, y además son más efectivas. Cuando tienen un daño severo en orbita baja puede ocurrir que tengan pérdida de orbita, en esta situación puede verse la nave comprometida a caer a orbita atmosférica. 
 
-## Low Orbit
+## Orbita baja
 
-The exact parameters for what constitutes Low Orbit can vary a lot from planet to planet depending on composition and atmosphere. This  interface  layer is the most common battleground for ships as attacking ships must come down to Low Orbit at some point to launch an invasion force, bombard the surface, and claim key orbits.
+Los parámetros de la orbita baja puede variar de planeta en planeta débito a su composición y atmósfera. Esta orbita es la más común entre las naves de ataque a tierra para lanzar la invasión, bombardear objetivos terrestres o reclamar objetivos. 
 
-## Atmosphere
+## Atmosfera
 
-Few ships are Atmosphere-capable, and even Strike Craft or munitions have to be specially configured to operate in Atmosphere without burning up on entry. However, to conquer a planet the invading force must enter Atmosphere in order to make a landing.
+Pocas naves pueden actuar dentro de la atmósfera, desde los portaaviones o las municiones tienen que estar especialmente configuradas para operar en la atmósfera y no quemarse en la entrada. Sin embargo, para conquistar un plante se tiene que entrar en la atmósfera para aterrizar. 
 
-## Limitations in Atmosphere
+## Limitaciones en la atmósfera 
 
-**Atmosphere may only be entered by ships with the Atmospheric special rule.** Any other ships are destroyed on entry. Ships in Atmosphere have their available Thrust reduced to 2". Ships moving into Atmosphere therefore lose any remaining movement apart from this 2".
+**solo las naves que tengan la regla especial Atmospheric pueden entrar en la atmósfera** cualquier otra nave quedará destruida al entrar. Las naves en la atmósfera se le reduce el empuje en 2 pulgadas. Las naves que se mueven a la atmósfera pierden el movimiento restante que le quedaría en esa fase además de las dos pulgadas. 
 
-**Ships moving out of Atmosphere into Low Orbit must do so at the start of their movement,** and follow the rules for moving up an Orbital Layer and do not suffer this penalty. (see Moving between Orbital Layers).
+**Las naves pueden mover de atmósfera a orbita bjaal inicio de su movimiento** y seguir las reglas de subir de orbita además de no sufrí penalización. (ver mover entre diferentes capas de orbitas). 
