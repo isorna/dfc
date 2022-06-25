@@ -53,21 +53,21 @@ Los impactos críticos **pueden** ser bloqueados por Defensas de punto, pero cad
 
 _Por ejemplo; un crucero tiene un valor de PD de 6 es atacado y sufre 4 daños de Casco normales y 2 puntos de daño crítico en el Casco procedente de un ataque con armas de corto alcance. Lanza 6 dados de Defensa de punto y obtiene 1, 2, 3, 4, 5, 6, lo que supone 2 éxitos. Por tanto, puede bloquear 2 impactos normales de daño en el casco, o uno de los daños críticos._
 
-## 6. Tirada de  Daño paralizante
+## 6. Tirada de  Daño incapacitante
 
-Cuando una nave ha perdido un total del 50% o más de sus puntos de Casco iniciales, sufre Daño paralizante. Esto requiere un único chequeo para representar que varios sistemas principales han sufrido mucho daño, desconexión de sistemas secundarios y el daño continuado en la batalla se cobran su precio en la nave.
+Cuando una nave ha perdido un total del 50% o más de sus puntos de Casco iniciales, sufre Daño incapacitante. Esto requiere un único chequeo para representar que varios sistemas principales han sufrido mucho daño, desconexión de sistemas secundarios y el daño continuado en la batalla se cobran su precio en la nave.
 
-Una nave con la regla especial Dreadnought sufre Daño paralizante cuando el casco se reduce a 18 puntos de Casco o menos y 10 puntos de Casco o menos en lugar del 50% habitual.
+Una nave con la regla especial Dreadnought sufre Daño incapacitante cuando el casco se reduce a 18 puntos de Casco o menos y 10 puntos de Casco o menos en lugar del 50% habitual.
 
-Cuando una nave experimenta Daño paralizante, lanza 1d6 y consulta la tabla relevante en la siguiente página para ver que Daño paralizante ha experimentado, y lanza luego un segundo d6 en la sub-tabla relacionada para descubrir el resultado. Los Dreadnoughts usan unas tablas especiales de Daño paralizante y Daño catastrófico, aunque el procedimiento es exactamente el mismo que con las tablas normales.
+Cuando una nave experimenta Daño incapacitante, lanza 1d6 y consulta la tabla relevante en la siguiente página para ver que Daño incapacitante ha experimentado, y lanza luego un segundo d6 en la sub-tabla relacionada para descubrir el resultado. Los Dreadnoughts usan unas tablas especiales de Daño incapacitante y Daño catastrófico, aunque el procedimiento es exactamente el mismo que con las tablas normales.
 
-**Naves con un valor de Casco de 4 o menos nunca están sujetos a ser Paralizados y nunca realizan tiradas en la tabla de Daño paralizante.**
+**Naves con un valor de Casco de 4 o menos nunca están sujetos a ser incapacitadas y nunca realizan tiradas en la tabla de Daño incapacitante.**
 
 ### Resultado de daño adicional y tiradas de salvación por armadura
 
-Varios resultados de Daño paralizante infligen daños adicionales en Casco en las naves. Estos daños adicionales nunca permiten tiradas de salvación por armadura, ya que representan el colapso interno de la estructura de la nave, fallos en cascada y o sistemas fundidos (literalmente). Hay que señalar que es muy probable que las naves más ligeras y pequeñas, como las fragatas, puedan ser destruidas a causa del daño paralizante.
+Varios resultados de Daño incapacitante infligen daños adicionales en Casco en las naves. Estos daños adicionales nunca permiten tiradas de salvación por armadura, ya que representan el colapso interno de la estructura de la nave, fallos en cascada y o sistemas fundidos (literalmente). Hay que señalar que es muy probable que las naves más ligeras y pequeñas, como las fragatas, puedan ser destruidas a causa del daño incapacitante.
 
-### Tabla de Daño paralizante
+### Tabla de Daño incapacitante
 
 |1er d6|2º d6|Resultado en la nave|Daño extra en Casco|¿Reparable?|Caida orbital|
 | :-: | :-: | :- | :-: | :-: | :-: |
@@ -81,7 +81,7 @@ Varios resultados de Daño paralizante infligen daños adicionales en Casco en l
 ||3-4|**Armas desactivadas:** La siguiente vez que se active la nave no puede disparar ningún arma o utilizar Lanzamiento de activos. En siguientes activaciones, la nave podrá disparar y lanzar activos de la manera habitual. |3|No|No|
 ||5-6|**Reactor sobrecargado:** Vuelve a tirar otra vez en la tabla de Daño paralizante.|3|No|Yes|
 
-### Tabla de Daño paralizante en Dreadnoughts
+### Tabla de Daño inapacitante en Dreadnoughts
 
 |1er d6|2º d6|Resultado en la nave|Daño extra en Casco|¿Reparable?|Caida orbital|
 | :-: | :-: | :- | :-: | :-: | :-: |
@@ -110,7 +110,7 @@ La mayoría de resultados de Daño catastrófico pueden resultar en la explosió
 * Naves con un valor de Casco de 4-6 explotan con un radio de 1d3".
 * Naves con un valor de Casco de 7+ explotan con un radio de 1d6".
 
-Hay que tener en cuenta que la explosión únicamente afecta a naves que se encuentran en la  **misma altura orbital** que la nave destruida.
+Hay que tener en cuenta que la explosión únicamente afecta a naves que se encuentran en la  **misma capa orbital** que la nave destruida.
 
 ### Tabla de Daño catastrófico
 
@@ -139,14 +139,14 @@ Lanza 1d6 por cada Daño paralizante que requiera reparación **en la fase final
 
 |Tirada en d6|Resultado|
 | :-: | :- |
-|1|La nave sufre un punto de daño en el Casco (no se permiten tiradas de salvación) y el Daño paralizante no se repara. Vuelve a tirar de nuevo para reparar al final del siguiente turno de juego.|
-|2-3|El Daño Paralizante no se repara. Vuelve a tirar de nuevo al final del siguiente turno de juego.|
-|4-6|El Daño paralizante es reparado y no hay ningún efecto adicional.|
+|1|La nave sufre un punto de daño en el Casco (no se permiten tiradas de salvación) y el Daño incapacitante no se repara. Vuelve a tirar de nuevo para reparar al final del siguiente turno de juego.|
+|2-3|El Daño incapacitante no se repara. Vuelve a tirar de nuevo al final del siguiente turno de juego.|
+|4-6|El Daño incapacitante es reparado y no hay ningún efecto adicional.|
 
 ### Caída Orbital
 
-Varios resultados de Daño paralizante hacen que una nave esté sujeta a Caída orbital. Sus anuladores de gravedad han dejado de funcionar, haciendo que la nave comience a precipitarse contra la superficie del planeta.
+Varios resultados de Daño incapacitante hacen que una nave esté sujeta a Caída orbital. Sus anuladores de gravedad han dejado de funcionar, haciendo que la nave comience a precipitarse contra la superficie del planeta.
 
-La Caída Orbital es un efecto adicional de Daño paralizante que causa que la nave se mueva un nivel orbital hacia abajo en la fase de final de ronda. Puede ser lanzada como parte del Control de daños en dicha fase, de la misma manera que cualquier otro efecto Paralizante.
+La Caída Orbital es un efecto adicional de Daño incapacitante que causa que la nave se mueva un nivel orbital hacia abajo en la fase de final de ronda. Puede ser lanzada como parte del Control de daños en dicha fase, de la misma manera que cualquier otro efecto Paralizante.
 
 **Cualquier nave que no tenga la regla Atmosférico que se mueve al nivel de Atmósfera debido a una Caída orbital es eliminada directamente de juego sin realizar tirada en la Tabla de Daño Catastrófico.**
