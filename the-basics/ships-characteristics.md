@@ -118,6 +118,6 @@ _El segundo sistema de armas puede disparar por los dos laterales o por la parte
 
 _El último sistema de armas sólo puede disparar por el arco frontal y por su lateral derecho, al tener la anotación (Right)._
 
-### Especial 
+### Especial
 
 Varios sistemas de armas tienen reglas especiales para reflejar sus efectos. Consulte las Reglas de armas especiales para obtener más información.
