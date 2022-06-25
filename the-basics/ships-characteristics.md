@@ -88,7 +88,7 @@ En esta sección están las reglas especiales que pueden aplicarse a la nave. É
 
 Algunas naves tienen reglas únicas que son específicas para ese tipo de nave y esa facción, como sensor jamming abilities o bonus situacionales. Cualquier regla especial que no esté en la sección de la barra de estadísticas se mostrará en la siguiente barra de detalle de las reglas únicas que usa. 
 
-## Características de los sistemas de armamentos 
+## Características de los sistemas de armamento
 
 La mayoría de las naves en dropfleet están armadas con una o varios sistemas de armas. Estas pueden ir desde torre torretas montadas con railgun o montañas de armas de energía capaz de cortar por la mitad a las naves enemigas. 
 
