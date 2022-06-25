@@ -17,7 +17,7 @@ EN Dropfleet Commander estas áreas y obstáculos se agrupan en 3 categorías di
 
 Hay dos tipos de Campos de Escombros en Dropfleet Commander: **Finos** y **Densos**. Estos campos normalmente son de 6" por 3" ¡pero sientete libre de hacer los campos todo lo grandes que quieras! 
 
-Cuando se colocan Campos de Escombros en el campo de batalla se considera que están tanto en órbita alta como en órbita baja, cualquier nave que se mueva o gire dentro de un campo recibirá daño de los diversos objetos que lo componen, resuelve el daño tan pronto como se mueve o gira la nave dentro del campo. Lanza los dado solo una vez por cada nave y campo en cada turno – si una nave se mueve a través de múltiples campos en un mismo turno lanza los dados independientemente por cada campo.
+Cuando se colocan Campos de Escombros en el campo de batalla se considera que están tanto en órbita alta como en órbita baja, cualquier nave que se mueva o gire dentro de un campo recibirá daño de los diversos objetos que lo componen, resuelve el daño tan pronto como se mueve o gira la nave dentro del campo. Tira solo una vez por cada nave y campo en cada turno – si una nave se mueve a través de múltiples campos en un mismo turno lanza los dados independientemente por cada campo.
 
 Las naves disparando a través/desde un campo verán la puntería de sus sistemas de armas modificada y sus valores de escáner reducidos (hasta un mínimo de 0") debido a los escombros. Si el objetivo se encuentra tapado por más de 6" de campo(s) de escombros, entonces se les considera fuera de alcance y ningún sistema de armas puede ser disparado contra ellas.
 
