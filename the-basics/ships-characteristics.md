@@ -94,7 +94,7 @@ La mayoría de las naves en Dropfleet están armadas con una o varios sistemas d
 
 ### Puntería
 
-El sistema de protección de un sistema de armas representa la capacidad de impactar a una nave enemiga. Cuando se hace una tirada de impactar cada uno de los sistemas de armas tira los dados e impacta si es igual o superior al valor de precisión. 
+Precisión la tirada para dar en el blanco del sistema de armas y representa una combinación de velocidad de seguimiento y retraso en el encendido, así como precisión inherente. Cuando se hace una tirada de impactar cada uno de los sistemas de armas tira los dados e impacta si es igual o superior al valor de precisión. 
 
 ### Ataque
 
