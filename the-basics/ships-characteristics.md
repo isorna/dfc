@@ -64,7 +64,7 @@ El casco son los puntos de daño que puede aguantar antes de quedar destruida. E
 
 _En comparación con las naves civiles, las naves de guerra  siempre van acorazadas de una forma que son más resistentes al daño. Esto puede ir desde un blinjade mejor en los componentes e incorporar componentes duplicados de emergencia detrás de metros de grosor de blindaje._
 
-Las características de la armadura es para las tiradas de salvación, se tira un d6 por cada punto de casco dañado. Si la tirada no iguala o supera el valor de armadura entonces la nave sufre ese daño. Estas tiradas se ven reflejadas como 3+,4+,etc.
+En términos de juego, la característica Armadura es una tirada de salvación en 1D6 contra cada punto de daño recibido en el casco expresado como 3+, 4+, etc. Cuando un barco está dañado, tira 1D6 por cada punto de daño infligido. Cada salvación por armadura exitosa previene un punto de daño al casco.
 
 ### Puntos de defensa (PD)
 
