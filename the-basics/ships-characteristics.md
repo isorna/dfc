@@ -102,7 +102,7 @@ Ataque muestra el número de dados de Ataque que tira el sistema de armas, y cad
 
 ### Daño
 
-Algunos sistemas de armas impactan con mayor daño que otras, esto corresponde a la cantidad de daño que puede causar al casco del enemigo. Esta característica indica cuantos puntos de casco causa cada impacto de cada sistema de armas en caso de que sea exitoso. 
+Algunos sistemas de armas impactan más fuerte que otros y causarán en dicha medida daño al casco del enemigo. El Daño indica el número de puntos de Casco infligidos por cada dado de Ataque del sistema de armas que impacta y daña con éxito a una nave.
 
 ### Arco
 
