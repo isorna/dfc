@@ -90,7 +90,7 @@ Algunas naves tienen reglas únicas que son específicas para ese tipo de nave y
 
 ## Características de los sistemas de armamento
 
-La mayoría de las naves en dropfleet están armadas con una o varios sistemas de armas. Estas pueden ir desde torre torretas montadas con railgun o montañas de armas de energía capaz de cortar por la mitad a las naves enemigas. 
+La mayoría de las naves en Dropfleet están armadas con una o varios sistemas de armas. Estos pueden variar desde una masa de cañones de riel montados en torretas hasta enormes armas de energía montadas en la columna capaces de cortar naves enemigas por la mitad con un solo disparo.
 
 ### Precisión
 
