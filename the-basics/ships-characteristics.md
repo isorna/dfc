@@ -66,7 +66,7 @@ _En comparación con las naves civiles, las naves de guerra  siempre van acoraza
 
 En términos de juego, la característica Armadura es una tirada de salvación en 1D6 contra cada punto de daño recibido en el casco expresado como 3+, 4+, etc. Cuando un barco está dañado, tira 1D6 por cada punto de daño infligido. Cada salvación por armadura exitosa previene un punto de daño al casco.
 
-### Puntos de defensa (PD)
+### Defensa de punto (PD)
 
 _Todas las naves de combate llevan de alguna manera puntos de defensa que le protege contra pequeños objetos. Los puntos de defensa son equivalente a contramedidas de las unidades de tierra. Los sistemas identifica y neutraliza las posibles amenazas hacia la naves como meteoritos o misiles nucleares._
 
