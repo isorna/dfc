@@ -120,4 +120,4 @@ _El último sistema de armas sólo puede disparar por el arco frontal y por su l
 
 ### Especial
 
-Varios sistemas de armas tienen reglas especiales para reflejar sus efectos. Consulte las Reglas de armas especiales para obtener más información.
+Varios sistemas de armas tienen reglas especiales para reflejar sus efectos. Consulta las Reglas de armas especiales para obtener más información.
