@@ -86,7 +86,7 @@ Hay cuatro categorías de tonelaje en Dropfleet commander: Ligero (L), Mediano (
 
 En esta sección están las reglas especiales que pueden aplicarse a la nave. Ésto representa las características particulares del diseño de una nave, habilidades especiales o debilidades que pueda tener la nave. La lista detallada de las reglas especiales se puede encontrar en la sección de reglas especiales. 
 
-Algunas naves tienen reglas únicas que son específicas para ese tipo de nave y esa faccio, como sensor jamming abilities o bonus sutiacionales. Cualquier regla especial que no este en la sección de la barra de estadísticas se mostrará en la siguiente barra de detalle de las reglas únicas usadas. 
+Algunas naves tienen reglas únicas que son específicas para ese tipo de nave y esa facción, como sensor jamming abilities o bonus situacionales. Cualquier regla especial que no esté en la sección de la barra de estadísticas se mostrará en la siguiente barra de detalle de las reglas únicas que usa. 
 
 ## Características de los sistemas de armamentos 
 
