@@ -92,7 +92,7 @@ Algunas naves tienen reglas únicas que son específicas para ese tipo de nave y
 
 La mayoría de las naves en Dropfleet están armadas con una o varios sistemas de armas. Estos pueden variar desde una masa de cañones de riel montados en torretas hasta enormes armas de energía montadas en la columna capaces de cortar naves enemigas por la mitad con un solo disparo.
 
-### Precisión
+### Puntería
 
 El sistema de protección de un sistema de armas representa la capacidad de impactar a una nave enemiga. Cuando se hace una tirada de impactar cada uno de los sistemas de armas tira los dados e impacta si es igual o superior al valor de precisión. 
 
