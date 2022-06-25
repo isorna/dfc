@@ -17,11 +17,11 @@ Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en 
 |Lysander|6"|0"|12"|2|6+|2|1-3|L|Atmosférico, Camuflaje completo, Lanzamiento, Abierto, Rara|
 **Barra de estadísticas -** Esto enseña todas las características lave de la nave. Cuanto se mueve, cuanta supervivencia tiene, cual es su tonelaje y mucho más. Entraremos en detalles en la barra de estadísticas en las próximas páginas.
 
-|Tipo|Precision|Ataques|Daño|Arco|Especial|
+|Tipo|Precisión|Ataques|Daño|Arco|Especial|
 | :- | :-: | :-: | :-: | :-: | :- |
 |Barracuda Missile Bay|4+|2|1|F/S/R|Corto alcance|
 
-**Sistema de armas -** Aquí se muestra que armas lleva una nave. Precision, daño, daño potencial, arco de disparo y demas es enseñado aquí. 
+**Sistema de armas -** Aquí se muestra que armas lleva una nave. Precisión, daño potencial, arco de disparo y demás aparecen aquí. 
 
 |Carga|Lanzamientos|Especial|
 | :- | :-: | :-: |
