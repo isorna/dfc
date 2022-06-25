@@ -14,7 +14,7 @@ Una vez un grupo de naves finaliza su movimiento, todas sus naves pueden dispara
 1. Tirar para impactar.
 1. Determinar daño de Casco total infligido.
 1. Realizar tiradas de salvación y reducir puntos de Casco de la nave defensora.
-1. Realizar tiradas de Daño paralizante si los puntos de Casco se reducen al 50% o menos.
+1. Realizar tiradas de Daño incapacitante si los puntos de Casco se reducen al 50% o menos.
 1. Realizar tiradas de Daño catastrófico si el valor de puntos de Casco se reduce a 0 o menos.
 
 ## 1. Comprobar Rango de detección y arco de fuego.
