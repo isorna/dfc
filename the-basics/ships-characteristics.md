@@ -14,7 +14,6 @@ Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en 
 |Nombre|Radar|Señal|Movimiento|Casco|A|PD|G|T|Especial|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
 |Lysander|6"|0"|12"|2|6+|2|1-3|L|Atmosférico, Camuflaje completo, Lanzamiento, Abierto, Rara|
-
 **Barra de estadísticas -** Esto enseña todas las características lave de la nave. Cuanto se mueve, cuanta supervivencia tiene, cual es su tonelaje y mucho más. Debajo detallaremos más sobre estas características. 
 
 |Tipo|Precision|Ataques|Daño|Arco|Especial|
