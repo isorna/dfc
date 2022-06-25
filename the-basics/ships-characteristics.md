@@ -29,7 +29,7 @@ Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en 
 
 **Capacidad de lanzamiento -** Alguna naves son capaces de lanzar naves, módulos de aterrizaje y demás. Si la nave tiene capacidad de lanzamiento, se enseña aquí. Naves sin esa capacitar no tiene esta característica. 
 
-:::note observaciones de sigilo
+:::note Observaciones de sigilo
 Esta nave puede reconocer un Cluster sin importar el valor de tonelaje del grupo de batalla. 
 :::
 
