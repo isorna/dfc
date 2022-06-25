@@ -5,7 +5,7 @@ sidebar_position: 4
 
 # Capas orbitales
 
-_The basic Dropfleet rules cover fighting in space, but the truth is that battles out in the void between stars are rare events. The true prize in any interstellar conflict is gaining control of the planets in a solar system. Because of this the majority of combat between ships occurs in close proximity to a habitable (or at least colonisable) planet, moon or comparable celestial body._
+_Las reglas básicas de Dropfleet cubren el combate espacial, pero la verdad es que batallas en mitad del espacio son bastantes raras. El verdadero motivo de las batallas espaciales es la conquista de planetas en el sistema solar. Debido a esto la mayoría de combates ocurren cerca de planetas habitables (o al menos conolizables), lunas o cuerpos celestiales._
 
 Once an enemy fleet moves in to try to knock down satellite coverage and bombard targets on the surface it is only a matter of time before a full-blown invasion will be launched. This is the point where a defending fleet is forced to stand and fight or surrender control of the planet altogether.
 
