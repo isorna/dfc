@@ -53,7 +53,7 @@ _La característica de se al nos dice como de visible es nuestra nave a los rada
 
 Estas contramedidas sonconsideradas en uso constante y son tenidas en cuenta para el resultado final de la señal de la nave. Ciertos tipos de daño, maniobras difíciles y disparo de armas puede incrementar la señal de la nave de forma temporal. En ciertas circunstancias la señal se puede reducir, como con la orden modo silencioso por ejemplo. 
 
-### Movimiento
+### Impulso
 
 Esta característica es la capacidad máxima de movimiento de una nave por turno. Hay varios factores que pueden afectar a esta característica como órdenes o daño. Bajo circunstancias normales la nave se tiene que mover como mínimo la mitad de su movimiento cada rurno(revisar la sección las reglas de ordenes y ordenes especiales para más detalle) 
 
