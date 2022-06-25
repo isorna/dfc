@@ -55,7 +55,7 @@ Estas contramedidas sonconsideradas en uso constante y son tenidas en cuenta par
 
 ### Impulso
 
-Esta característica es la capacidad máxima de movimiento de una nave por turno. Hay varios factores que pueden afectar a esta característica como órdenes o daño. Bajo circunstancias normales la nave se tiene que mover como mínimo la mitad de su movimiento cada rurno(revisar la sección las reglas de ordenes y ordenes especiales para más detalle) 
+Esta característica es la capacidad máxima de movimiento de una nave por turno. Hay varios factores que pueden afectar a esta característica como órdenes o daño. Bajo circunstancias normales la nave se tiene que mover como mínimo la mitad de su movimiento cada rurno (revisar la sección las reglas de órdenes y órdenes especiales para más detalle).
 
 ### Casco
 El casco son los puntos de daño que puede aguantar antes de quedar destruida. El casco es una regla del tamaño de la nave y de la integridad estructural. Esto significa que es posible para algunas naves tengan buena armadura pero tengan pocos puntos de daño y viceversa. Los puntos de daño perdidos se pueden visualizar usando pegatinas que vienen con la base o si los jugadores lo prefieren con dados al lado de la nave. 
