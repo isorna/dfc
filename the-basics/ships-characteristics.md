@@ -76,7 +76,7 @@ Principalmente la defensa de punto depende más de la cantidad que la calidad. E
 
 ### Grupo (G)
 
-El grupo infica el número de naves que se necesita para operar en el grupo de batalla, las naves pequeñas como fragatas tienden a operar en grupos de uno a cuatro de naves de la misma clase juntas, mientras  las naves grandes pueden ir en grupos de dos o de forma solitaria. La característica de grupo se usa cuando se escoje la flota antes de la partida(mirar en la selección de flota). 
+Group indica los parámetros operativos normales para naves de esta clase dentro de la flota más grande. Las naves más pequeñas, como las fragatas, tenderán a operar en grupos de uno a cuatro del mismo tipo de nave que trabajan juntas, mientras que las naves grandes solo se pueden encontrar juntas de una en una o en pareja. La característica de Grupo se usa al elegir una flota antes del juego (ver Selección de Flota).
 
 ### Tonelaje (T)
 
