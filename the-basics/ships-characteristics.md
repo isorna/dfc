@@ -70,7 +70,7 @@ En términos de juego, la característica Armadura es una tirada de salvación e
 
 _Todas las naves de combate llevan algún tipo de defensa de punto que le protege contra pequeños objetos. Los puntos de defensa son equivalente a contramedidas de las unidades de tierra. Los sistemas identifica y neutraliza las posibles amenazas hacia la naves como meteoritos o misiles nucleares._
 
-_Las armas pueden ser de diferentes tipos:lasers, armas de gauss, misiles, antiaéreos, arcos de plasma, etc. Todos ellos son pequeños, sistemas rápidos de disparar con el tiempo de respuesta necesario para interceptar amenazas en el corto alcance._
+_Las armas pueden ser de diferentes tipos: lásers, armas de gauss, misiles, antiaéreos, arcos de plasma, etc. Todos ellos son pequeños, sistemas rápidos de disparar con el tiempo de respuesta necesario para interceptar amenazas en el corto alcance._
 
 Para la mayoría los puntos de defensa es más importante la cantidad a la calidad. El número que indica esta característica es el número de dados que una nave puede tirar para hacer autodefensa al enemigo cuando ataca con armas que tengan la regla armas de corto alcance o sobre cazas, bombarderos o toreros. Estas reglas son explicadas en otro apartado. 
 
