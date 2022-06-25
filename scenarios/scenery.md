@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Escenografía
 
-Aunque el vacío espacial no tiene tanta escenografía como un wargame típico, sigue habiendo muchas posibilidades de que algo se interponga en tus perfectamente trazados!
+Aunque el vacío espacial no tiene tanta escenografía como un wargame típico, ¡sigue habiendo muchas posibilidades de que algo se interponga en tus perfectamente trazados!
 
 ## Orbital Debris
 
@@ -15,65 +15,63 @@ EN Dropfleet Commander estas áreas y obstáculos se agrupan en 3 categorías di
 
 ## Campos de Escombros
 
-Hay dos tipos de Campos de Escombros en Dropfleet Commander: **Finos** y **Densos**. Estos campos normalmente son de 6" por 3" pero sientete libre de hacer los campos todo lo grande que te atrevas! 
+Hay dos tipos de Campos de Escombros en Dropfleet Commander: **Finos** y **Densos**. Estos campos normalmente son de 6" por 3" ¡pero sientete libre de hacer los campos todo lo grande que te atrevas! 
 
-When Debris Fields are placed on the battlefield they are considered to be in both High and Low Orbit, any ship that moves or turns within a field will receive damage from the various objects, resolve the damage as soon as the ship moves or turns within the field. Only roll once per ship per field per turn – if a ship moves through multiple fields in the same turn then roll separately for each.
+Cuando se colocan Campos de Escombros en el campo de batalla se considera que están tanto en órbita alta como en órbita baja, cualquier nave que se mueva o gire dentro de un campo recibirá daño de los diversos objetos que lo componen, resuelve el daño tan pronto como se mueve o gira la nave dentro del campo. Lanza los dado solo una vez por cada nave y campo en cada turno – si una nave se mueve a través de múltiples campos en un mismo turno lanza los dados independientemente por cada campo.
 
-Ships shooting at a target through/in the field have the Lock of their weapon systems modified and their scan values reduced
-(to a minimum of 0") due to the debris. If the target is obscured by over 6" of Debris Field(s), then they are considered out of range and no weapon systems may be fired against them.
+Las naves disparando a través/desde un campo verán la puntería de sus sistemas de armas modificada y sus valores de escáner reducidos (hasta un mínimo de 0") debido a los escombros. Si el objetivo se encuentra tapado por más de 6" de campo(s) de escombros, entonces se les considera fuera de alcance y ningún sistema de armas puede ser disparado contra ellas.
 
-### Damage to ships entering debris fields
+### Daño a naves que entran en campos de escombros
 
-|Debris Field|Lock|Attack|Damage|Lock Penalty|Scan Penalty|
+|Campo de escombros|puntería|Ataques|Daño|penalización a puntería|penalización a escáner|
 | :-: | :-: | :-: | :-: | :-: | :-: |
-|Fine|3+|2|1|+1|-6"|
-|Dense|2+|2|1|+2|-12"|
+|Fino|3+|2|1|+1|-6"|
+|Denso|2+|2|1|+2|-12"|
 
-### Planetary Ring
+### Anillo Planetario
 
-Planetary Rings are vast celestial phenomena that surround many planets. In game terms they are represented by an infinitely thin line that crosses the battlefield. They are only in high orbit so ships may drop to low orbit or atmosphere to avoid their effects. A Planetary Ring reduces the scan of any ship attempting to fire a weapon system through it by 6" and increases the weapon systems Lock by +1.
+Los Anillos Planetarios son vastos fenómenos celestiales que rodean muchos planetas. En términos de juego se representan como una línea infinitamente fina que cruza el campo de batalla. Solo se encuentran en órbita alta así que las naves pueden descender a órbita baja o a la atmósfera para evitar sus efectos. Un Anillos Planetario reduce el escáner de cualquier nave que trate de disparar un sistema de armas a través de él en 6" e incrementa el valor de puntería del sistema de armas en +1.  
 
-If a ship moves through a planetary ring while the ship is in high orbit, it will receive 2 Lock 2+ hits with 1 Damage.
+Si una nave se mueve a través de un anillo planetario mientras está en órbita alta, recibirá 2 ataques de puntería 2+ y 1 de daño.
 
-### Large Solid Objects (LSOs)
+### Objetos Sólidos Grandes (OSGs)
 
-These are most commonly large asteroids or even small moons. They should be approximately 2" to 6" in radius and occupy both High and Low Orbit. LSOs completely block the line of sight for any ship attempting to fire through them and if a ship or token would move over any part of the LSO they are removed from play.
+Estos comúnmente son asteroides grandes o incluso pequeñas lunas. Deberían tener un radio entre 2" y 6" aproximadamente y ocupan tanto la órbita alta como la baja. OSGs bloquean completamente la línea de visión de cualquier nave que intente disparar a través de ellos y si una nave o token se mueve sobre cualquier parte del OSG serán retiradas del juego.
 
-### Orbital Debris and Launch Assets
+### Escombros Orbitales y los activos de lanzamiento
 
-Launch Assets (see page 59) are just as vulnerable to the effects of Orbital Debris as ships and as such the following rules apply. If a Launch Asset is moved through a Fine Debris Field it is removed on the roll of a 3+, and if it moves through a Dense Debris Field it is removed on the roll of a 5+, roll once per token.
+Los activos de lanzamiento (ver página 59) son tan vulnerables a los efectos de los escombros orbitales como las naves y las siguientes reglas se les aplican. Si un activo de lanzamiento se mueve a través de un Campo de Escombros Finos es retirado con un 3+ en una tirada, y si se mueve a través de un Campo de Escombros Denso es retirado con un 5+ en una tirada, haz una única tirada por cada ficha.
 
-If a ship with Launch Asset tokens on it enters any Debris Field, roll immediately to see if the tokens are removed (then roll to damage the ship as normal).
+Si una nave que lleve fichas de activos de lanzamiento entra en cualquier Campo de Escombros, tira inmediatamente para ver si se retiran las fichas (y después tira para dañar la nave de forma normal)
 
-## Space Stations
+## Estaciones Espaciales
 
-In Dropfleet Commander we refer to these constructs large enough to interact with as 'Space Stations'. For simplicities sake we group these into three categories: **Small**, **Medium** and **Large**. Space Stations are treated as ships in game (in that they can be targeted etc) although they do not move and follow the exceptions below.
+En Dropfleet Commander nos referimos a estos constructos suficientemente grandes como para interactuar con ellos como 'Estaciones Espaciales'. Por simplicidad las agrupamos en tres categorías: **pequeñas**, **medianas** y **grandes**. Las Estaciones Espaciales son tratadas como naves en el juego (en que puede hacerseles objetivo etc) aunque no se mueven y siguen las siguientes excepciones.
 
-Space Stations are always deployed in Low Orbit unless stated otherwise in the Scenario and may not change Orbital Layer.
+Las Estaciones Espaciales se despliegan siempre en órbita baja salvo que se especifique de otra manera en el escenario y no pueden cambiar de capa orbital.
 
-Due to their size Space Stations can absorb substantial damage before being destroyed. The table on the right shows the characteristics of the Space Stations as similar to ships. They do not suffer Crippling Damage and when they are reduced to 0 Hull points they are removed from play along with any Ground Asset tokens on board, they do not roll for Catastrophic Damage.
+Debido a su tamaño las Estaciones Espaciales pueden absorver una cantidad sustancial de daño antes de ser destruidas. La siguiente tabla muestra las características de las Estaciones Espaciales similar a las de las naves. No sufren daño paralizante y cuando su valor de casco se reduce a 0 se retiran del juego junto a cualquier ficha de activo terrestre sobre ellas, nunca tiran por daños catastróficos.
 
-|Name|Scan|Sig|Thrust|Hull|A|PD|G|T|Special|
+|Nombre|Escáner|Señal|Movimiento|Casco|A|DP|G|T|Especial|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
-|Small Space Station|6"|4"|0"|8|3+|5|-|-|-|
-|Medium Space Station|6"|6"|0"|12|3+|8|-|-|-|
-|Large Space Station|6"|8"|0"|16|3+|12|-|-|-|
+|Estación Espacial pequeña|6"|4"|0"|8|3+|5|-|-|-|
+|Estación Espacial mediana|6"|6"|0"|12|3+|8|-|-|-|
+|Estación Espacial grande|6"|8"|0"|16|3+|12|-|-|-|
 
-Many Space Stations come equipped with military grade defences to protect them from a multitude of threats. A Space Station can have any number of weapon systems mounted on it but the scenario will dictate which weapon systems, if any, a Space Station has. These weapons may be fired by the Controlling Player at the start of the Launch Assets phase (if multiple players control Space Stations then resolve the firing in Initiative Order). The weapons on a Space Station are shown on the right and each scenario will list which weapons each Space Station is using. These weapons do not need to be represented on the model as they change between scenarios. These are suggested weapon systems - feel free to invent your own for custom scenarios!
+Muchas estaciones Espaciales vienen equipadas con defensas de tipo militar para protegerse de una multitud de amenazas. Una Estación Espacial puede tener cualquier número de sistemas de armas instaladas en ella pero el escenario especificará qué sistemas tiene, si es que tiene alguno. Estas armas pueden ser disparadas por el jugador que las controla al principio de la fase de activos de lanzamiento (si varios jugadores controlan Estaciones Espaciales se resolveran en orden de iniciativa). Las armas de una Estación Espacial se muestran abajo y cada escenario especificará que armas utiliza cada Estación Espacial. Estas armas no es necesario que estén representadas en la miniatura ya que cambian entre escenarios. Estos son algunos sistemas de armas que sugerimos - sientete libre de inventar sistemas propios para tus escenarios.
 
-|Type|Lock|Attack|Damage|Arc|Special|
+|nombre|puntería|Ataques|Daño|Arco|Especial|
 | :- | :-: | :-: | :-: | :-: | :- |
 |Mass Driver Armament|3+|2|1|F/S/R|-|
 |Laser Armament|3+|2|1|F/S/R|Burnthrough (4), Flash|
 |Missile Armament|3+|4|1|F/S/R|Close Action|
 
-## Placing Scenery
+## Colocando Escenografía
 
-Each Scenario will define exactly where scoring scenery should be placed. In addition, most Scenarios will define a rough amount of additional scenery (Debris Fields, Planetary Rings etc) that you should use.
+Cada escenario definirá exactamente donde deben colcarse los objetivos. Además, la mayoría de escenarios definiran una cantidad aproximada de escenografía adicional (Campos de Escombros, Anillos Planetarios etc) que deberíais usar. 
+A veces, la colocación de esta escenografía vendrá definida con exactitud. Otras veces, el escenario requerirá que se coloquen Campos de Escombros de forma 'homogenea'. Cuando el escenario así lo pida, deberíais ceñiros a las siguientes directrices:
 
-Sometimes, the placement of these will be defined precisely. At other times, the Scenario will require Debris Fields to be 'evenly spaced'. When the Scenario asks for this, you should stick to the following guidelines:
-
-* No part of any Debris Field should be placed within 6" of any board edge, Space Station, Cluster or any other Debris Field.
-* There should be roughly the same quantity of Debris Fields within each table quarter.
-* In tournament play, the Tournament organiser should place scenery before games.
-* If their size is not defined by the scenario, a typical Debris Field is between 4"-8" across in their longest dimension. Fine Fields should generally be larger than Dense ones.
+* Ningún Campo de Escombros debe estar situado a 6" o menos de ningún borde del campo de batalla., Estación Espacial, Clúster u otro Campo de Escombros.
+* Debería haber un número aproximado de Campos De Escombros en cada cuadrante del tablero.
+* En torneos, el organizaod del torneo debería colocar la escenografía antes de las partidas
+* Si su tamaño no está definido por el escenario, un Campo de Escombros tipico medirá entre 4"-8" en su lado más largo. Los Campos Finos deberíam ser generalmente más grandes que los Densos
