@@ -106,7 +106,7 @@ Algunos sistemas de armas impactan más fuerte que otros y causarán en dicha me
 
 ### Arco
 
-Cada sistema de armas tiene designando un arco de fuego. Hay cuatro o arcos **F frontal, F(N) Frontal reducido, R Posterior, S Lateral** Las armas laterales pueden tener también sólo un lado, por ejemplo derecha o izquierda. Si el sistema de armas no tiene ninguna a anotación puede disparar por ambos lados - izquierda o derecha. Si tiene la palabra (Right) o (Left)  entonces solo puede disparar por ese lado (además de otros arcos que estén en la ficha). 
+Cada sistema de armas tiene designando un arco de fuego. Hay cuatro o arcos **F Frontal, F(N) Frontal Narrow (Frontal estrecho), R Rear (Posterior), S Side (Lateral)** Las armas laterales pueden tener también sólo un lado, por ejemplo derecha o izquierda. Si el sistema de armas no tiene ninguna anotación y sólo dice S puede disparar por ambos lados - izquierda o derecha. Si tiene la palabra (Right) o (Left)  entonces sólo puede disparar por ese lado (además de otros arcos que estén en la ficha). 
 
 Los arcos de las armas tienen 90 grados pero algunas sistemas de armas lo tienen restringido a 22 grados como el F(N). Las bases de las naves incluyen la de limitación de estos arcos para que sea de fácil manejo
 
