@@ -5,116 +5,119 @@ sidebar_position: 1
 
 # Características de las naves
 
-The strengths and weakness of different ships and weapon systems in the game are shown through their characteristics. These show how fast they are, how much damage they can take and so on. You can see an example of a ship s stat sheet below.
+Las fortalezas y debilidades de las diferentes naves y sistemas de armamento en el juego se ve ven a través de sus características. Estas nos enseña como de rápidas son, cuanto daño hacen y demás. Se puede ver un ejemplo de las estadísticas de una nave debajo. 
 
 **UCM Lysander - Stealth Lighter** (27 pts)
 
-**Points Cost (Pts) -** All ships in the game cost points to field in your fleet. Ships with a higher points cost will generally be more potent, but you will not be able to field as many. This number is for a single ship within that group.
+**Coste en puntos (Pts) -** Todas las naves en el juego tiene un coste en puntos. Las naves con un coste superior generalmente son más potentes, pero no podrás llevar tantas como quieras. Estos puntos son por nave que va en el grupo de batalla. 
 
-|Name|Scan|Sig|Thrust|Hull|A|PD|G|T|Special|
+|Nombre|Radar|Señal|Movimiento|Casco|A|PD|G|T|Especial|
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :- |
-|Lysander|6"|0"|12"|2|6+|2|1-3|L|Atmospheric, Full Cloak, Launch, Open, Rare|
-**Stats Bar -** This shows all the key characteristics of a ship. From how fast it moves, to how survivable it is, its tonnage, and much more. We ll be going into detail on the stats bar over the next few pages.
 
-|Type|Lock|Attack|Damage|Arc|Special|
+|Lysander|6"|0"|12"|2|6+|2|1-3|L|Atmosférico, Camuflaje completo, Lanzamiento, Abierto, Rara|
+**Barra de estadísticas -** Esto enseña todas las características lave de la nave. Cuanto se mueve, cuanta supervivencia tiene, cual es su tonelaje y mucho más. Entraremos en detalles en la barra de estadísticas en las próximas páginas.
+
+|Tipo|Precisión|Ataques|Daño|Arco|Especial|
 | :- | :-: | :-: | :-: | :-: | :- |
-|Barracuda Missile Bay|4+|2|1|F/S/R|Close Action|
-**Weapon Systems -** This shows what weapons the ship is armed with. Accuracy, damage potential, arc of fire and more are shown here.
+|Barracuda Missile Bay|4+|2|1|F/S/R|Corto alcance|
 
-|Load|Launch|Special|
+**Sistema de armas -** Aquí se muestra que armas lleva una nave. Precisión, daño potencial, arco de disparo y demás aparecen aquí. 
+
+|Carga|Lanzamientos|Especial|
 | :- | :-: | :-: |
-|Dropships|1|-|
-**Launch Capacity -** Some ships are able to launch Dropships, Bulk Landers and more. If the ship has a launch capacity, it is shown here. Ships without any do not have this bar on their stat sheet.
+|Descarga de naves|1
 
-:::note Stealth Observation
-This ship can Survey a Cluster regardless of its Battlegroup Tonnage value.
+**Capacidad de lanzamiento -** Alguna naves son capaces de lanzar naves, módulos de aterrizaje y demás. Si la nave tiene capacidad de lanzamiento, se enseña aquí. Naves sin esa capacitar no tiene esta característica. 
+
+:::note Observaciones de sigilo
+Esta nave puede reconocer un Clúster sin importar el valor de tonelaje del grupo de batalla. 
 :::
-**Special Rules -** Some ships have unique special rules that are detailed here.
 
-## Stats Bar
+**Reglas especiales -** Algunas naves tienen reglas especiales únicas que son detalladas aquí. 
 
-Each ship has its own unique stats bar. Each column shows a different aspect of the ship. Getting to know these stats is the first step towards learning how to play Dropfleet Commander.
+## Barra de estadisticas
 
-### Name
+Cada nave tiene su propia barra de estadísticas. Cada columna nos enseña diferentes aspectos de la nave. Sabiendo que estos datos son los primeros pasos para saber cómo jugar a Dropfleet Commander. 
 
-What the ship type is called. Certain ships may have individual and unique names, but they always belong to a  class  of ship. The name of the ship s class is shown here.
+### Nombre
 
-### Scan
+Aquí nos muestra como se llama el modelo de la nave. Algunas naves tienen nombre único, pero siempre pertenecen a una clase de nave. 
 
-The Scan characteristic shows how good a ship is at spotting the enemy through a combination of sophisticated sensors, predictive software and crew competence. Scan range is primarily a  technology  characteristic dictated by the best possible equipment that can be crammed on board so most ships from a particular race will have the same Scan value. Certain weapon systems can only be used within Scan range or become more effective when used within Scan range.
+### Radar
 
-### Signature
+La característica de radar nos enseña como de buena es la nave para detectar a naves enemigas. Esto es consecuencia de sensores sotisficados, software y la tripulación. El rango del radar es principalmente una tecnología para detectar de la mejor forma posible por lo tanto casi todas las naves de la misma facción tendrán el mismo valor de radar. Algunos sistemas de armamento sólo pueden ser usado si la nave enemiga está a rango de radar o en su defecto será más efectiva. 
 
-_Signature shows how visible a ship is on enemy sensors and how far away it can be spotted. Most ships use forms of active countermeasures like chaff, ECM (electronic countermeasures jamming) and other technologies to hide the ship by reducing its signature as much as possible._
+### Señal
 
-These countermeasures are considered to be in constant use and are taken into account in the ship s overall Signature. Certain kinds of damage, hard manoeuvring and firing weapon systems can all act to temporarily increase a ship s Signature. Signature can also be reduced in some circumstances, such as by issuing the Silent Running order for example.
+_La característica de se al nos dice como de visible es nuestra nave a los radares de las naves enemigas y desde que distancia pueden ser descubiertas. La mayoría de de naves tienen contramedidas, bengalas ECM(sistema de interferencias electrónicos) y otras tecnologías para ocultar o reducir la señal de la nave._
 
-### Thrust
+Estas contramedidas sonconsideradas en uso constante y son tenidas en cuenta para el resultado final de la señal de la nave. Ciertos tipos de daño, maniobras difíciles y disparo de armas puede incrementar la señal de la nave de forma temporal. En ciertas circunstancias la señal se puede reducir, como con la orden modo silencioso por ejemplo. 
 
-Thrust is a ship s maximum move distance per game turn in inches. Several factors such as the ship s orders or battle damage can affect available Thrust. Under ordinary circumstances a ship must move at least half of its available Thrust for movement each turn (see the Orders and Special Orders sections of the rules for more details).
+### Impulso
 
-### Hull
+Esta característica es la capacidad máxima de movimiento de una nave por turno. Hay varios factores que pueden afectar a esta característica como órdenes o daño. Bajo circunstancias normales la nave se tiene que mover como mínimo la mitad de su movimiento cada rurno (revisar la sección las reglas de órdenes y órdenes especiales para más detalle).
 
-Hull is the number of damage points a ship can withstand before it is destroyed. Hull is a function of overall size and inherent structural integrity. This means it is possible for ships with good armour to have a weak hull and vice versa. Lost Hull points can be tracked on a ship s base using the pegs and number system provided, or if players prefer with a dice/counter placed beside the ship.
+### Casco
+El casco son los puntos de daño que puede aguantar antes de quedar destruida. El casco es una regla del tamaño de la nave y de la integridad estructural. Esto significa que es posible para algunas naves tengan buena armadura pero tengan pocos puntos de daño y viceversa. Los puntos de daño perdidos se pueden visualizar usando pegatinas que vienen con la base o si los jugadores lo prefieren con dados al lado de la nave. 
 
-### Armour (A)
+### Armadura (A)
 
-_In comparison to civilian vessels, true warships are always  armoured  in some way to make them more resistant to damage. This can range from the basic hardening of individual components and incorporating multiple back-up systems to being sheathed in metres-thick plates of highly advanced armour._
+_En comparación con las naves civiles, las naves de guerra  siempre van acorazadas de una forma que son más resistentes al daño. Esto puede ir desde un blinjade mejor en los componentes e incorporar componentes duplicados de emergencia detrás de metros de grosor de blindaje._
 
-In game terms the Armour characteristic is a saving throw on a D6 against each point of Hull damage taken expressed as 3+, 4+ etc. When a ship is damaged roll a D6 for each point of damage inflicted on it. Each successful armour save prevents one point of Hull damage.
+En términos de juego, la característica Armadura es una tirada de salvación en 1D6 contra cada punto de daño recibido en el casco expresado como 3+, 4+, etc. Cuando un barco está dañado, tira 1D6 por cada punto de daño infligido. Cada salvación por armadura exitosa previene un punto de daño al casco.
 
-### Point Defence (PD)
+### Defensa de punto (PD)
 
-_All fighting ships carry some sort of point defence to protect themselves against small objects. Point Defences are the equivalent of Active Countermeasures on ground based units; systems that identify and neutralise incoming threats to the ship   everything from meteorites to nuclear-tipped missiles._
+_Todas las naves de combate llevan algún tipo de defensa de punto que le protege contra pequeños objetos. Los puntos de defensa son equivalente a contramedidas de las unidades de tierra. Los sistemas identifica y neutraliza las posibles amenazas hacia la naves como meteoritos o misiles nucleares._
 
-_The exact weapons used can take many forms: pulse lasers, rapid fire gauss guns, interceptor missiles, flak rockets, energised plasma arcs   the list is endless. All of these are small, fast-firing weapon systems with the response time necessary to intercept tiny, rapidly-moving targets at close range._
+_Las armas pueden ser de diferentes tipos: lásers, armas de gauss, misiles, antiaéreos, arcos de plasma, etc. Todos ellos son pequeños, sistemas rápidos de disparar con el tiempo de respuesta necesario para interceptar amenazas en el corto alcance._
 
-For the most part Point Defence relies on quantity rather than quality. The number indicated by this characteristic indicates the number of dice the ship can roll in self-defence when attacked by enemy Close Action weapons and some Launch Assets. These rules are covered later on.
+Principalmente la defensa de punto depende más de la cantidad que la calidad. El número que indica esta característica es el número de dados que una nave puede tirar para hacer autodefensa al enemigo cuando ataca con armas que tengan la regla armas de corto alcance o sobre cazas, bombarderos o toreros. Estas reglas son explicadas en otro apartado. 
 
-### Group (G)
+### Grupo (G)
 
-Group indicates the normal operating parameters for ships of this class within the larger fleet. Smaller vessels such as frigates will tend to operate in groups of one to four of the same type of ship working together, while large vessels might only be found together in one or twos. The Group characteristic is used when choosing a fleet before the game (see Fleet Selection).
+Group indica los parámetros operativos normales para naves de esta clase dentro de la flota más grande. Las naves más pequeñas, como las fragatas, tenderán a operar en grupos de uno a cuatro del mismo tipo de nave que trabajan juntas, mientras que las naves grandes solo se pueden encontrar juntas de una en una o en pareja. La característica de Grupo se usa al elegir una flota antes del juego (ver Selección de Flota).
 
-### Tonnage (T)
+### Tonelaje (T)
 
-There are four main Tonnage categories in Dropfleet commander: **Light (L), Medium (M), Heavy (H) and Super Heavy (S).** There are also some ships that fall between the classes such as L2 and H2. As with the Group characteristic, Tonnage is primarily used in conjunction with Fleet Selection as players will often have to consider the Tonnage of the vessels under their command. Tonnage also figures into scenarios where victory conditions are often calculated using the tonnage of surviving vessels.
+Hay cuatro categorías de tonelaje en Dropfleet commander: Ligero (L), Mediano (M), Pesado (H) y Sùper pesado (S). **También hay naves que están entre dos categorías como L2 y H2. Así como la característica de grupo, el tonelaje se usa principalmente en la selección de flota ya que los jugadores tendrán a menudo que tener en cuenta el tonelaje de las naves bajo tu mando. El tonelaje también figura en las condiciones de victoria de los escenarios donde se usa el porcentaje de tonelaje de las naves que sobrevivió a la partida. 
 
-### Special
+### Especial
 
-This section lists any special rules that may apply to the ship. This represents particular traits of a ship s design, special abilities or weaknesses the vessel may have. A detailed list of all common ship Special Rules can be found in the  Ship Special Rules  Section.
+En esta sección están las reglas especiales que pueden aplicarse a la nave. Ésto representa las características particulares del diseño de una nave, habilidades especiales o debilidades que pueda tener la nave. La lista detallada de las reglas especiales se puede encontrar en la sección de reglas especiales. 
 
-Some ships have unique rules that are specific to that faction and ship class alone, such as sensor jamming abilities or situational bonuses. Any unique Special Rules not in the  Special  section of a ship s stats bar will be shown following the bar with details of the unique rules used.
+Algunas naves tienen reglas únicas que son específicas para ese tipo de nave y esa facción, como sensor jamming abilities o bonus situacionales. Cualquier regla especial que no esté en la sección de la barra de estadísticas se mostrará en la siguiente barra de detalle de las reglas únicas que usa. 
 
-## Weapon System Characteristics
+## Características de los sistemas de armamento
 
-Most ships in Dropfleet are armed with one or more weapon systems. These can range from a mass of turret-mounted rail cannons to huge spinal-mount energy weapons capable of cutting enemy craft in half with a single blast.
+La mayoría de las naves en Dropfleet están armadas con una o varios sistemas de armas. Estos pueden variar desde una masa de cañones de riel montados en torretas hasta enormes armas de energía montadas en la columna capaces de cortar naves enemigas por la mitad con un solo disparo.
 
-### Lock
+### Puntería
 
-Lock is the weapon system s  to hit  roll and represents a combination of tracking speed and power-up delay as well as inherent accuracy. When rolling to hit, each of the weapon system s Attack dice scores a hit if it equals or beats the Lock value.
+Precisión la tirada para dar en el blanco del sistema de armas y representa una combinación de velocidad de seguimiento y retraso en el encendido, así como precisión inherente. Cuando se hace una tirada de impactar cada uno de los sistemas de armas tira los dados e impacta si es igual o superior al valor de precisión. 
 
-### Attack
+### Ataque
 
-Attack shows the number of Attack dice the weapon system rolls, with each dice typically representing a salvo or volley from the same weapon system. Each attack dice has to score equal or higher than the weapon s Lock value to score a hit.
+Ataque muestra el número de dados de Ataque que tira el sistema de armas, y cada dado representa normalmente un disparo o andanada del mismo sistema de armas. Cada dado de ataque debe tener una puntuación igual o superior al valor de bloqueo del arma para lograr un impacto.
 
-### Damage
+### Daño
 
-Some weapon systems hit harder than others and will do a corresponding amount of damage to an enemy hull. Damage indicates the number of Hull points inflicted by each Attack dice from the weapon system which successfully hits and damages a ship.
+Algunos sistemas de armas impactan más fuerte que otros y causarán en dicha medida daño al casco del enemigo. El Daño indica el número de puntos de Casco infligidos por cada dado de Ataque del sistema de armas que impacta y daña con éxito a una nave.
 
-### Arc
+### Arco
 
-Each weapon system has a designated fire arc it can make attacks into. There are 4 arcs: **F Front, F (N) Front Narrow, R Rear, S Side.** Side facing weapons may also have an addition notation, i.e. Right or Left. If the weapon has no extra note and only says S it may fire to either side - left or right. If it has the (Right) or (Left) notation it may only fire on that side (in addition to any other arcs shown).
+Cada sistema de armas tiene designando un arco de fuego. Hay cuatro o arcos **F Frontal, F(N) Frontal Narrow (Frontal estrecho), R Rear (Posterior), S Side (Lateral)** Las armas laterales pueden tener también sólo un lado, por ejemplo derecha o izquierda. Si el sistema de armas no tiene ninguna anotación y sólo dice S puede disparar por ambos lados - izquierda o derecha. Si tiene la palabra (Right) o (Left)  entonces sólo puede disparar por ese lado (además de otros arcos que estén en la ficha). 
 
-Weapon arcs are normally 90 degrees but some weapons systems are restricted to a 22 degree narrow (N) arc instead. Ship bases include these arcs for ease of use thin ridges delineate front, side and rear arcs, and the raised area at the front the base shows the front narrow arc.
+Los arcos de las armas normalmente son de 90 grados pero algunas sistemas de armas lo tienen restringido a 22 grados como el F(N). Las bases de las naves incluyen estos arcos para facilitar su uso, las crestas delgadas delinean los arcos delantero, lateral y trasero, y el área elevada en la parte delantera de la base muestra el arco estrecho delantero.
 
-_e.g. a ship has three weapons profiles. One has arc: F/S/R, the second has arc: S/R, and the last has arc: F/S (Right)._
+_Por ejemplo una nave con tres perfiles de sistemas de armas. Una tiene un arco de F/S/R, el segundo tiene un arco de S/R y el tercero tiene un arco de F/S(Right)._
 
-_In this case the first weapon would be able to fire from its Front arc, either Side arc or its Rear arc._
+_En este caso el primer sistema de armas es capaz de disparar por todos los arcos (frontal, laterales o posterior)._
 
-_The second weapon could fire from either one of its Side arcs or its Rear arc._
+_El segundo sistema de armas puede disparar por los dos laterales o por la parte posterior._
 
-_The last weapon may only fire from the Front arc or the arc on its Right side, as it has the S (Right) notation._
+_El último sistema de armas sólo puede disparar por el arco frontal y por su lateral derecho, al tener la anotación (Right)._
 
-### Special
+### Especial
 
-A number of weapon systems have special rules to reflect their effects. See Special Weapons Rules for more information.
+Varios sistemas de armas tienen reglas especiales para reflejar sus efectos. Consulta las Reglas de armas especiales para obtener más información.
