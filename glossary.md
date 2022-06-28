@@ -70,6 +70,6 @@ sidebar_position: 7
 	* [Bulk Lander](/docs/dfc/core-rules/launch-assets#bulk-lander)
 	* [Torpedoes](/docs/dfc/core-rules/launch-assets#torpedoes)
  * Building Your Fleet
-	* [Fleet Roster](/docs/dfc/core-rules/building-your-fleet#the-fleet-roster)
-	* [Battlegroups](/docs/dfc/core-rules/building-your-fleet#battlegroup-type)
-	* [Launch Capacity](/docs/dfc/core-rules/building-your-fleet#launch-capacity)
+	* [Fleet Roster](/docs/dfc/building-your-fleet#the-fleet-roster)
+	* [Battlegroups](/docs/dfc/building-your-fleet#battlegroup-type)
+	* [Launch Capacity](/docs/dfc/building-your-fleet#launch-capacity)
