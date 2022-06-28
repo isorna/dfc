@@ -7,7 +7,7 @@ sidebar_position: 3
 
 Aunque el vacío espacial no tiene tanta escenografía como un wargame típico, ¡sigue habiendo muchas posibilidades de que algo se interponga en tus perfectamente trazados planes!
 
-## Orbital Debris
+## Escombros Orbitales
 
 Orbitando alrededor de todo planeta habitado hay miles de objetos desde basura espacial y restos a satélites o poderosos bastiones de defensa y comercio
 
