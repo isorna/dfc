@@ -69,23 +69,23 @@ Las naves con la regla Abierta no necesitan mantener coherencia con otros miembr
 
 ### Solitaria
 
-Las naves con esta regla Ships with this rule may ignore Battlegroup (but not Group) coherency rules, and the Battlegroup will suffer no negative modifiers to their Strategy Rating while ships with this rule are out of Battlegroup coherency.
+Las naves con esta regla pueden ignorar las reglas de coherencia de Grupo de Batalla (pero no de grupo), y el Grupo de Batalla no tendrá penalizadores a su valor de estrategia mientras naves con esta regla estén fuera de coherencia.
 
-### Partial Cloak
+### Camuflaje Parcial
 
-A ship with the Partial Cloak special rule can only ever receive a Minor Spike, it may never be increased to a Major Spike. If a rule or weapon would cause this ship to gain Major Spike, it instead gains a Minor Spike (or nothing at all if it already has a Minor Spike). This rule ceases to work when the ship is Crippled.
+Una nave con la regla especial Camuflaje Parcial solo puede recibir Picos Menores, nunca puede verse incrementado a Pico Mayor. Si una regla o arma va a causar que esta nave gane un Pico Mayor, en vez de eso gana un Pico Menor (o nada si ya tenía un Pico Menor). Esta regla deja de funcionar cuando la nave es incapacitada.
 
-### Rare
+### Rara
 
-_Rare ships are simply not available in large numbers due to their specialised nature or high demand._
+_Las naves Raras simplemente no están disponibles en grandes números debido a su naturaleza especializada o alta demanda._
 
-You may only take a maximum of one of each Rare Group in a Skirmish sized game, two in a Clash and three in a Battle.
+Solo puede seleccionar un máximo de una nave Rara de cada tipo en una partida de tamaño escaramuza, dos en enfrentamiento y 3 en batalla.
 
-### Reinforced Armour
+### Armadura Reforzada
 
-_Some ships have unbelievably dense armour sometimes mated with hull shapes perfectly designed to deflect attacks._
+_Algunas naves tienen un blindaje increiblemente denso a veces acoplado al casco con formas perfectamente diseñadas para deflectar ataques._
 
-A ship with Reinforced-Armour only suffers Critical Hits from attack dice that score three more above their Lock number instead of two.
+Una nave con Armadura Reforzada solo sufrirá Impactos Críticos si el dado de ataque supera su tirada de Puntería por tres o más en vez de por dos o más.
 
 ### Regenerate (X)
 
