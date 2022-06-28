@@ -17,7 +17,7 @@ Una nave con Armadura Ablativa incrementa su armadura en 2 puntos (por ejemplo a
 
 ### Égida (X)
 
-_Las naves ëgida suelen estar equipadas con sensores y armamento que permite un tiempo de respuesta cegadoramente rápido frente a naves y municiones de ataque. Normalmente son desplegadas como exploradoras o para ayudar a proteger otras naves en batalla._
+_Las naves Égida suelen estar equipadas con sensores y armamento que permite un tiempo de respuesta cegadoramente rápido frente a naves y municiones de ataque. Normalmente son desplegadas como exploradoras o para ayudar a proteger otras naves en batalla._
 
 Las naves con la regla especial Égida añaden una bonificación al valor de la defensa de punto de cualquier nave amiga a 4" de ellas igual al número mostrado entre paréntesis. Para ser afectada, las naves deben estar en la misma capa orbital que la nave Égida, además la bonificación tambien se aplica a la propia nave Égida.
 
