@@ -11,7 +11,7 @@ _Mientras que la mayoria de eventualidades y naves han sido cubiertas en las reg
 
 ### Armadura Ablativa
 
-_Las naves construidas en sus inicios por los humanos usaban grandes bloques y placas fabricadas en compuestos cerámicos. Estos tenían excelentes cualidades defensivas pero se descubrió que su efectividad se degradaba rápidamente durate el combate._
+_Las naves construidas en sus inicios por los humanos usaban grandes bloques y placas fabricadas en compuestos cerámicos. Estos tenían excelentes cualidades defensivas pero se descubrió que su efectividad se degradaba rápidamente durante el combate._
 
 Una nave con Armadura Ablativa incrementa su armadura en 2 puntos (por ejemplo armadura de 5+ se convierte en armadura de 3+) hasta que sea incapacitada. En ese punto esta bonificación se pierde para el resto de la partida.
 
