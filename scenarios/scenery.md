@@ -73,5 +73,5 @@ A veces, la colocación de esta escenografía vendrá definida con exactitud. Ot
 
 * Ningún Campo de Escombros debe estar situado a 6" o menos de ningún borde del campo de batalla., Estación Espacial, Clúster u otro Campo de Escombros.
 * Debería haber un número aproximado de Campos De Escombros en cada cuadrante del tablero.
-* En torneos, el organizaod del torneo debería colocar la escenografía antes de las partidas
+* En torneos, el organizador del torneo debería colocar la escenografía antes de las partidas
 * Si su tamaño no está definido por el escenario, un Campo de Escombros tipico medirá entre 4"-8" en su lado más largo. Los Campos Finos deberíam ser generalmente más grandes que los Densos
