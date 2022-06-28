@@ -7,71 +7,69 @@ sidebar_position: 6
 
 ## Reglas especiales de las naves
 
-_While most eventualities and ship types are covered in the rules above, certain ships have abilities and attributes that are out of the ordinary and require special rules to address this._
+_Mientras que la mayoria de eventualidades y naves han sido cubiertas en las reglas anteriores, ciertas naves poseen habilidades y atributos fuera de lo ordinario y requieren de reglas especiales que las contemplen._
 
-### Ablative Armour
+### Armadura Ablativa
 
-_Early human-built ships used large blocks and plates cast out of ceramic composites. These had excellent defensive qualities but were found to degrade rapidly in effectivess during heavy combat._
+_Las naves construidas en sus inicios por los humanos usaban grandes bloques y placas fabricadas en compuestos cerámicos. Estos tenían excelentes cualidades defensivas pero se descubrió que su efectividad se degradaba rápidamente durate el combate._
 
-A ship with Ablative Armour increases its Armour by 2 points (e.g. 5+ Armour becomes 3+ Armour) until it is Crippled. At that point this bonus is lost for the rest of the game.
+Una nave con Armadura Ablativa incrementa su armadura en 2 puntos (por ejemplo armadura de 5+ se convierte en armadura de 3+) hasta que sea incapacitada. En ese punto esta bonificación se pierde para el resto de la partida.
 
-### Aegis (X)
+### Égida (X)
 
-_Aegis ships are typically equipped with sensors and weaponry that permit a blindingly fast response time against Strike Craft and munitions. They are normally deployed as scouts or to help protect other ships in battle._
+_Las naves ëgida suelen estar equipadas con sensores y armamento que permite un tiempo de respuesta cegadoramente rápido frente a naves y municiones de ataque. Normalmente son desplegadas como exploradoras o para ayudar a proteger otras naves en batalla._
 
-Ships with the Aegis special rule add a bonus to the Point Defence value of any friendly ships within 4" of them equal to the number shown in brackets. In order to be affected, ships must be on the same Orbital Layer as the Aegis ship, additionally the bonus also applies to the Aegis ship itself.
+Las naves con la regla especial Égida añaden una bonificación al valor de la defensa de punto de cualquier nave amiga a 4" de ellas igual al número mostrado entre paréntesis. Para ser afectada, las naves deben estar en la misma capa orbital que la nave Égida, además la bonificación tambien se aplica a la propia nave Égida.
 
-_For example: A ship with the Aegis (5) special rule is within 4" of a friendly ship with a PD characteristic of 4. As long as they remain within 4" the friendly ship counts as having a PD of 9._
+_Por ejemplo: Una nave con la regla especial Égida (5) se encuentra a 4" de una nave amiga con un característica DP de 4. Mientras se mantengan a 4" la nave amiga contará como si tuviera una DP de 9._
 
-### Atmospheric
+### Atmosférica
 
-Only ships with the Atmospheric special rule are capable of entering the Atmospheric layers during Orbital Combat.
+Solo las naves con la regla especial Atmosférica pueden entrar en la capa de atmósfera durante un combate orbital.
 
-### Beast
+### Bestial
 
-_Some technologies integrate their crews so closely with their ship control systems that the vessels behave more like living creatures than machines._
+_Algunas tecnologías integran a sus tripulaciones tan estrechamente con los sistemas de control de la nave que las naves se comportan más como criaturas vivas que com máquinas._
 
-The Lock numbers of all of a Beast ship's weapon systems are reduced by one when it suffers a Crippling Damage result. However, the strain of overload causes the beast ship to suffer another Crippling Damage result at the end of each activation.
+Los valores de puntería de todas los sistemas de armas de una nave bestial se reducen en uno cuando sufren un resultado de Daño Incapacitante. Sin embargo la tensión por sobrecarga causará que la nave bestial sufra otro resultado de Daño Incapacitante al final de cada activación.
 
-### Detector
+### Localizadora
 
-_Detector ships have extraordinarily acute sensors and high speed information dissemination systems that relay their scanning feeds to the rest of the fleet._
+_Las naves Localizadoras tienen unos sensores extraordinariamente precisos y sistemas de diseminación de información de alta velocidad que transmiten sus datos de escaneo al resto de la flota._
 
-Detector ships may always use Active Scan special orders even if their battlegroup has chosen a different special order for the turn. Every Detector ship in a Group may Active Scan, not just one - choose all Detector ships you wish to Active Scan simultaneously.
+Las naves Localizadoras siempre pueden usar la orden especial Escaneo Activo incluso si su grupo de combate a seleccionado una orden especial diferente para el turno. Toda nave Localizadora en un grupo puede hacer Escaneo Activo, no solo una - escoge a la vez todas las naves Localizadoras que quieres que hagan Escaneo Activo.
 
-### Dreadnought
+### Acorazado
+Un grupo de combate que contenga un Acorazado no puede contener ninguna otra nave. Un acorazado tiene un tonelaje de 30 (de ahi el S2 en su perfil). Un grupo de combate que contenga un Acorazado puede exceder el maximo permitido habitualmente de 33% del coste total de la flota en puntos.
+Si llevas uno, tu almirante **debe** ir montado en el Acorazado
 
-A Battlegroup containing a Dreadnought may not contain any other ships. A Dreadnought has a tonnage of 30 (hench the S2 in the profile). A Battlegroup containing a Dreadnought may exceed the normally allowed 33% of your fleet's points cost.
+Los Acorazados usan tablas especiales de Daño Incapacitante  y Daño Catastrófico, mostradas en la sección sobre daño. Además, tira en la tabla de Daño Incapacitante cuando la nave vea su casco reducido a 18 o menos y a 10 o menos en vez de cuando sea reducido al 50% de su casco inicial como es habitual.
 
-If taken, your Admiral **must** be mounted in a Dreadnought.
+### Camuflaje Total
 
-Dreadnoughts use special Crippling Damage and Catastrophic Damage tables, shown in the damage section. In addition, roll on the Crippling Damage table when the ship is reduced to 18 Hull or less and 10 Hull or less instead of the usual 50% of original hull.
+_ Unas pocas naves raras son tan eficientes cubriendo sus emisiones que son vitualmente fantasmas._
 
-### Full-Cloak
+Una nave con la regla especial Camuflaje Total nunca puede recibir una pico de energía por ninguna razón, hasta que esté incapacitada.
 
-_A few rare ships are so efficient at covering their emissions that they are virtually ghosts._
+### Lanzadera
 
-A ship with the Full Cloak special rule can never receive an energy spike for any reason, until it is Crippled.
+Naves con la regla especial Lanzadera son capaces de portar y utilizar activos lanzables.Las naves con capacidad de lanzadera tendrán su capacidad de lanzamiento anotada en su descripción junto al tipo de carga estandar que porta (por ejemplo cazas, bombarderos o torpedos, el que se apropiado) Ships with the Launch special rule are capable of carrying and using Launch Assets. Launch capable ships will have their launch capacity noted in their descriptions along with the standard type load carried (i.e. Fighters, Bombers or Torpedoes as appropriate)
 
-### Launch
+### Vigía
 
-Ships with the Launch special rule are capable of carrying and using Launch Assets. Launch capable ships will have their launch capacity noted in their descriptions along with the standard type load carried (i.e. Fighters, Bombers or Torpedoes as appropriate).
+_Estas naves disponen de impulsores de baja potencia y tamaño, pero están configuradas específicamente para el rol de densa orbital._
 
-### Monitor
+Los Vigías no pueden usar las ordenes especiales de Cambio de Rumbo ni Impulso Máximo. Las armas disparadas por Vigías no sufren penalizador a su puntería por disparar órbita alta a baja o viceversa.
 
-_These ships feature undersized and underpowered drives, but are configured specifically for the orbital defence role._
+### Abierta
 
-Monitors may not usre Course Change or Max Thrust special orders. Weapons fired by Monitords suffer no Lock penalty for firing between Low and High Orbit.
+_Algunas naves están diseñadas para operar solas y apartadas de otros miembros de su Grupo de Combate._
 
-### Open
+Las naves con la regla Abierta no necesitan mantener coherencia con otros miembros de su Grupo o Grupo de Combate y su Grupo de Combate no tendrá penalizadores a su valor de estrategia mientras naves con esta regla estén fuera de coherencia.
 
-_Some ships are designed to operate alone and away from other members of their Battlegroup._
+### Solitaria
 
-Ships with the Open rule do not need to maintain coherency with other members of their Group or Battlegroup and the Battlegroup will suffer no negative modifiers to their strategy rating while ships with this rule are out of coherency.
-
-### Outlier
-
-Ships with this rule may ignore Battlegroup (but not Group) coherency rules, and the Battlegroup will suffer no negative modifiers to their Strategy Rating while ships with this rule are out of Battlegroup coherency.
+Las naves con esta regla Ships with this rule may ignore Battlegroup (but not Group) coherency rules, and the Battlegroup will suffer no negative modifiers to their Strategy Rating while ships with this rule are out of Battlegroup coherency.
 
 ### Partial Cloak
 
