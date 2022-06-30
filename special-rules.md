@@ -87,43 +87,42 @@ _Algunas naves tienen un blindaje increiblemente denso a veces acoplado al casco
 
 Una nave con Armadura Reforzada solo sufrirá Impactos Críticos si el dado de ataque supera su tirada de Puntería por tres o más en vez de por dos o más.
 
-### Regenerate (X)
+### Regenerar (X)
 
-_Ships with the Regenerate characteristic have self-sealing hulls and rapid replication technology that allows them to quickly repair damage in combat._
+_Las naves capaces de Regenerar tienen cascos con autosellado y tecnología de autoreplicación rápida que les permite reparar rápidamente el daño en combate._
 
-A ship with Regenerate can make a number of damage control rolls equal to (x) in the Roundup phase of the turn to regain lost hull points.
-
+Una nave con Regenerar puede hacer un numero de tiradas de control de daños igual a (X) en la fase de final de turno para recuperar puntos de casco perdidos.
 _For example, a ship with Regenerate (3) could roll up to three damage control dice to restore lost hull points during the Roundup phase of the turn._
 
-Crippling Damage shuts down the ship's ability to Regenerate lost hull points for the remainder of the game. The ship can still attempt to repair Crippling Damage results as usual, but the Regenerate ability cannot be repaired. Regenerate damage control rolls also may not be modified for any reason. Note that there is still a chance of the ship taking additional Hull damage if it rolls a 1 on a Regenerate damage control dice - things don't always work right.
+El daño incapacitante negará la capacidad de Regenerar puntos de casco perdido para el resto de la partida. La nave todavía podrá reparar resultados de Daño Incapacitante de forma normal, pero la habilidad de Regenerar no se podrá reparar. Las tiradas de control de daños para Regenerar no pueden modificarse de ninguna manera. Notese que existe una posibilidad de que la nave sufra daño de casco adicional si saca un 1 en la tirada de Regenerar - las cosas no siempre funcionan debidamente.
 
-### Stealth
+### Furtiva
 
-_Stealth ships are constructed with additional subsystems to disguise limited use of weapons and mask the presence of a firing ship._
+_Las naves furtivas se construyen con subsistemas adicionales para encubrir el uso limitado de armas y enmascarar la presencia de una nave al disparar._
 
-A ship with the Stealth special rule may fire a single weapon system when using Silent Running special orders (note this also means it can use close action weapons when Silent Running).
+Una nave con la regla especial Furtiva puede disparar un único sistema de armas cuando usa la orden especial Movimiento Sigiloso (por lo tanto esto significa que también podrá utilizar armas de corto alcance cuando use Movimiento Sigiloso)
 
-The Stealth special rule only applies while the ship is still uncrippled, so once it loses 50%+ of its Hull the Stealth rule no longer applies.
+La habilidad especial Furtiva solo funciona mientras la nave no haya sufrido Daño Incapacitante, asi que una vez pierde el 50% de su casco la regla Furtiva deja de aplicarse
 
-### Vectored
+### Ágil
 
-_Some ships are incredibly agile, able to turn and change direction in the blink of an eye._
+_Algunas naves son increíblemente ágiles, capaces de girar y cambiar de dirección en un abrir y cerrar de ojos._
 
-Ships with this rule are able to turn at any point in their movement, instead of when the order they have chosen states.
+Las naves con esta regla pueden girar en cualquier punto de su movimiento, en vez de cuando diga la orden que hayan seleccionado.
 
-## Weapon System Special Rules
+## Reglas Especiales de Sistemas de armas
 
-### Air-to-Air
+### Aire-Aire
 
-_Weapons systems designed for use in space are less effective when trying to fire through a planet's Atmosphere - projectiles burn up due to friction and energy weapons ionise uncontrollably. A few specialist ships, however, have weapon systems purpose-made for use in atmosphere._
+_Los sistemas de armas diseñados para uso en el espacio son menos efectivas cuando se intenta dispararlas en la atmósfera de un planeta - Los proyectiles arden debido a la fricción y las armas de energía se ionizan de forma incontrolable. Unas pocas naves especializadas sinembargo tienen sistemas de armas creados especificamente para su uso en atmosfera._
 
-While in atmosphere, weapons with this rule ignore the usual penalty to Lock Value and gain -1 to their Lock value when firing at ships in atmosphere. All other penalties still apply, including needing a 6+ to shoot at ground targets. Air to Air weapons gain no benefit from this rule when firing from outside atmosphere. Air to Air weapons that also have the Close Action rule may be fired at targets in atmosphere in addition to other Orbital Layers.
+Mientras esté en la atmosfera, las armas con esta regla ignoran la penalización habitual a su puntería y obtienen un -1 a su valor de puntería al disparar a naves que estén en la atmósfera. Todos lo demás penalizadores siguen aplicandose, incluido el necesitar 6+ para disparar a obejtivos en tierra. Las armas Aire-Aire no ganan ningún beneficio de esta regla cuando disparan a naves fuera de la atmósfera. Las armas Aire-Aire que tambien tengan la regla de Corto Alcance pueden ser disparadas a objetivos en la atmósfera además de a objetivos en otras capas orbitales.
 
-### Alternate fire weapons (Alt-X)
+### Armas con disparo Alternativo (Alt-X)
 
-_Some weapon systems, most notably energy-based weaponry, can be fired with a variable focus or power output to generate significantly different effects._
+_Algunos sistemas de armas, sobre todo armamento con base energética, pueden ser disparados con diferente concentración o niveles de energía para generar efectos significativamente diferentes._
 
-A weapon system with Alternate fire modes will be represented by two or more lines on the weapon system characteristics with Alt followed by a number (e.g. Alt-1) in the special section. Only one weapon system with the same Alt number on the weapon characteristics may be fired by the same ship each turn.
+Un sistema de armas con modos de disparo Alternativos estará representado por dos o más filas en el perfil del sistea de armas con Alt seguido de un número (por ejemplo Alt-1) en el recuadro de especial. Solo un sistema de armas con el mismo Alt-número en el perfil del arma puede dispararse en cada turno por cada nave
 
 ### Bloom
 
