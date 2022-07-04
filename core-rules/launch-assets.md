@@ -1,185 +1,182 @@
 ---
-sidebar_label: 'Lanzamiento de activos'
+sidebar_label: 'Activos de lanzamiento'
 sidebar_position: 9
 ---
 
 # Lanzamiento de activos
 
-Ships may carry smaller subordinate craft on board in the form of strike craft like Dropships, Fighters and Bombers or munitions   ship-killing Torpedoes and similar systems. Collectively these are called **Launch Assets** in Dropfleet and they all operate using the same game rules. Launch Assets are represented by tokens on the tabletop - either flat counters or bases with teeny tiny models on them.
+las naves pueden llevar a bordo naves subordinadas más pequeñas en forma de naves de ataque como módulos de aterrizaje, cazas, bombarderos o municiones como torpedos que causen destructivos efectos en las naves objetivo y sistemas similares. Todos estos elementos se denominan en Dropfleet **Activos de lanzamiento** y todos siguen las mismas reglas de juego. Los activos de lanzamiento están representados por fichas en la mesa, bien en forma de marcadores o peanas con modelos apropiados.
 
-An individual Launch Asset token represents a flight of Fighters/Bombers or a group of Torpedoes. Standard sizes for Strike Craft and munitions markers are the 20mm x 20mm tokens supplied. Note that Dropships and Bulk Landers do not have tokens as they resolve instantly and do not spend any time on the table.
+Una ficha de Activo de Lanzamiento individual representa un escuadrón de Cazas/Bombarderos o un grupo de Torpedos. Los tamaños estándar para escuadrones de ataque y marcadores de municiones son las fichas de 20 mm x 20 mm suministradas.Por otro lado, las naves de descenso y módulos de aterrizaje no tienen marcadores, ya que se resuelven instantáneamente y no tienen que situarse de ninguna forma en mesa cuando son lanzados.
 
-In the rules that follow all models that can deploy Launch Assets are referred to as 'carriers'. A carrier will most likely be a ship in practice, but it could be a ground- based airfield, orbital dock or other launch facility. In such cases these are still counted as  carriers  for rules purposes when it comes to Launch Assets.
+En las reglas que se describen a continuación, todos los modelos que pueden implementar activos de lanzamiento se denominan "Transportes". Lo más probable es que un transporte sea una nave en la práctica, pero podría ser un aeródromo con base en tierra, un muelle orbital u otra instalación de lanzamiento. En tales casos, estos todavía se cuentan como transportes a los efectos de las reglas cuando se trata de Activos de lanzamiento.
 
-## Carrier Characteristics
+## Características de los transportes
 
-Each Carrier has characteristics for its Launch Capability. An example of which is below:
+Cada transporte tiene una característica para indicar su Capacidad de Lanzamiento. A continuación se muestra un ejemplo:
 
-|Load|Launch|Special|
+|Carga|Lanzamiento|Especial|
 | :-: | :-: | :-: |
-|Torpedoes|1|-|
-|Fighters & Bombers|6|-|
+|Torpedos|1|-|
+|Cazas & Bombarderos|6|-|
 
-* **Load:** The type of launch assets the carrier can use. There may be a choice of different types but the carrier is still limited by its overall capacity and launch ability.
-* **Launch:** How many tokens the carrier can launch in one turn.
+* **Carga:** El tipo de activo de lanzamiento que el transporte puede utilizar. Puede tener una selección de varios tipos pero cada trasnporte está limitado por su propia capacidad de lanzamiento total y su habilizad de lanzamiento. 
+* **Lanzamiento:** Indica el número de marcadores que el transporte puede lanzar cada vez en un turno. 
 
-## Launch Asset Characteristics
+## Características de los Activos de lanzamiento
 
-Launch Assets often  work similarly to a weapon profile, although some have their own unique rules. Some examples are shown below.
+Los activos de lanzamiento generalmente funcionan de una manera similar a un perfil de arma, aunque algunos tienen sus propias reglas especiales. A continuación se muestran varios ejemplos: 
 
-|Type|Thrust|Lock|Attack|Damage|
+|Tipo|Impulso|Puntería|Ataque|Daño|
 | :-: | :-: | :-: | :-: | :-: |
-|UCM Bomber|12"|3+|2|1|
-|UCM Torpedo|9"|2+|6|1|
+|Bombardero UCM|12"|3+|2|1|
+|Torpedo UCM|9"|2+|6|1|
 
-|Type|Thrust|Point Defence Bonus|
+|Tipo|Impulso|Mejora de Defensa de Punto|
 | :-: | :-: | :-: |
-|UCM Fighter|20"|+3|
-|UCM Dropship|3"|-|
+|Caza UCM|20"|+3|
+|Nave de desembarco UCM|3"|-|
 
-* **Thrust:** The maximum distance it can travel to reach its target in a single phase.
-* **Lock, Attack, Damage & Special:** All function identically to weapon system characteristics.
-* **Point Defence Bonus:** Extra PD added to a ship these are used on.
+* **Impulso:** La máxima distancia que el Activo de lanzamiento puede viajar para alcanzar su objetivo en una misma fase. 
+* **Puntería, Ataque, Daño&Especial:** Todas estas características funcionan exactamente igual que las características de los Sistemas de armas. 
+* **Mejora de Defensa de punto:** PD adicional añadido a una nave cuadno se usan sobre ésta.
 
-## Launching Assets
+## Lanzando Activos
 
-Carriers have the opportunity to use their Launch Assets during the Roundup phase after Ground Combat has been resolved.
+Los transportes tienen la oportunidad de usar sus activos de lanzamiento durante la fase de finalz de turno después de que se haya resuelto el combate terrestre.
 
-Use the same Initiative values determined in the Ground Combat segment. Use the same rules for determining them if you have not done so already.
+Usa los mismos valores de Iniciativa determinados en la sub fase de Combate Terrestre. En caso de no haber combate terrestre, se utilizan las mismas reglas para determinar la iniciativa que en dicha fase.
 
-Each turn players should complete each stage below in order of Initiative before moving onto the next phase.
+Cada turno, los jugadores deben completar cada etapa a continuación, por orden de Iniciativa, antes de pasar a la siguiente fase.
 
-This step is always resolved in the following order:
+Esta fase siempre se resuelve en el siguiente orden:
 
-1. **Torpedoes**
-1. **Bombers & Fire Ships**
-1. **Fighters**
-1. **Dropships & Bulk Landers**
+1. **Torpedos**
+1. **Bombarderos y Barcos de Fuego**
+1. **Cazas**
+1. **Naves de descenso y Módulos de aterrizaje**
 
-The player with the lowest Initiative selects a Group with which to launch. They place all tokens they wish to launch from this Group next to the ship(s) or Sectors they are targeting.
+El jugador con la Iniciativa más baja selecciona un Grupo con el que lanzar. A continuación, Coloca todas las fichas que desean lanzar desde este Grupo junto a los barcos o Sectores objetivo.
 
-Much like Close Action weapons, Launch Assets do not count against the number of weapon systems the ship may fire during a turn due to special orders, but likewise **if the carrier can t fire for any reason it cannot use Launch Assets**.
+Al igual que las armas de corto alcance, los activos de lanzamiento no cuentan para la cantidad de sistemas de armas que el barco puede disparar durante un turno debido a órdenes especiales, pero del mismo modo **si el transporte no puede disparar por algún motivo, no puede usar los activos de lanzamiento**.
 
-Once the tokens are placed, the player with the next lowest Initiative may choose to launch those assets from a Group that has not launched yet this turn.
+Una vez que se colocan los marcadores, el jugador con la siguiente Iniciativa más baja puede optar por lanzar los activos de un Grupo que aún no se haya lanzado este turno.
 
-Repeat this until every player has launched that asset, then move onto the next asset type.
+Este paso se repite hasta que todos los jugadores hayan lanzado ese tipo de activo, a continuación, se pasa al siguiente tipo de activo y se repite de nuevo la secuencia.
 
-**A ship that launches any Launch Assets gains a Minor Spike.**
+**Una nave que lanza cualquier Activo de Lanzamiento gana un Pico Menor.**
 
-_Note: If you choose to activate a Ship Group it must launch something, you may not choose not to launch anything as a way to make your opponent reveal their plans!_
+_Nota: si eliges activar un grupo de naves, dicho grupo debe realizar algún tipo de lanzamiento, ¡no puedes elegir no lanzar nada como una forma de hacer que tu oponente revele sus planes!_
 
-### Time To Target
+### Tiempo hasta el objetivo
 
-Launch Assets have to travel to their target and may even have to spend some time hunting for it, space is big, they are small and their sensor gear is limited in comparison to that of a ship. The time to target depends on the range from the launching carrier to the target:
+Los activos de lanzamiento tienen que viajar a su objetivo e incluso pueden tener que pasar algún tiempo buscándolo, el espacio es grande, los Activos son pequeños y su equipo de sensores es limitado en comparación con el de una nave. El tiempo hasta el objetivo depende del rango desde el transporte que realiza el lanzamiento hasta el objetivo:
 
-* If the target is **within the asset s Thrust** it s a quick sprint and the Launch Asset takes effect this turn.
-* If the target is **more than its Thrust but within double its Thrust** a longer journey is necessary and there is a slight delay before the launch assets arrive. Place the launch assets in contact with the target s base (or with each other if there is no more room left around the base), they will take effect at the end of the target s activation in the next game turn. **Dropships and Bulk Landers cannot use this option, and must launch to a target within their Thrust.**
+* Si el objetivo está **dentro del Impulso del activo**, es un sprint rápido y el Activo de lanzamiento surte efecto este turno.
+* Si el objetivo es **más que su impulso pero dentro del doble de su valor de Impulso**, es necesario un viaje más largo y hay un ligero retraso antes de que lleguen los activos hasta su objetivo. Coloque los activos de lanzamiento en contacto con la base del objetivo (o lo más próximo posible a ésta si no queda más espacio alrededor de la base), teniendo en cuenta que dichos marcadores tendrán efecto al final de la activación del objetivo en el próximo turno de juego. **Las naves de descenso y Módulos de aterrizaje no pueden usar esta opción y deben lanzarse a un objetivo dentro de su Impulso.**
 
-Note that Launch Assets can be used against targets that are outside the normal Scan + Signature range, simply measure a straight line between the launching ship and its target. If that line would take them through a Debris Field, they must test to see if they are destroyed. Roll once for each Launch Asset each time it moves through a Debris Field. A Fine Debris Field removes Launch Assets on a 3+ and a Dense Debris Field removes Launch Assets on a 5+.
+Hay que tener en cuenta que los Activos de lanzamiento se pueden usar contra objetivos que están fuera del rango normal de Escáner + Señal, simplemente se traza una línea recta entre la nave que realiza de lanzamiento y su objetivo. Si esa línea los lleva a través de un campo de escombros, realizarse una tirada para ver si son destruidos. Tira una vez por cada activo de lanzamiento cada vez que se mueva a través de un campo de escombros. Un campo de escombros ligero elimina activos de lanzamiento con un resultado de 3+ y un campo de escombros denso elimina activos de lanzamiento con un resultado de 5+.
 
-### Launch Assets in Orbital Combat
+### Activos de lanzamiento en Combate Orbital
 
-Launch Assets are limited to operating in certain Orbital Layers. The configuration and design specifications required for operating in atmosphere are very different to those needed in high orbit. As such the following limitations apply:
+Los activos de lanzamiento están limitados a operar en ciertas Capas orbitales. La configuración y especificaciones de diseño requeridos para operar en atmósfera son muy diferentes a los requeridos para órbitas altas. A continuación se detallan las limitaciones aplicadas para cada tipo de Activo: 
 
-* **Dropships:** May operate in Atmosphere only or Low Orbit if they are launching against a Space Station within 3".
-* **Bulk Landers:** May operate in Atmosphere and Low Orbit only.
-* **All other Launch Assets:** May operate in Low and High Orbit only. Other Launch Assets originating from surface-based carriers deploy into and operate in Low and High Orbit only.
+* **Naves de descenso:** Pueden operar únicamente en Atmósfera o en Órbita baja, en este último caso solo si son lanzados contra una Estación Espacial a 3". 
+* **Módulos de aterrizaje:** Pueden operar únicamente en Atmósfera y Órbita baja.
+* **Resto de Activos de lanzamiento:** Pueden operar tanto en Órbita baja como alta. Otros activos de lanzamiento que se originan en transportes o hangares de superficie se despliegan y operan solo en órbita baja y alta.
 
-If a ship with Launch Assets in contact with it enters Atmosphere, the Launch Assets are removed from play as they either burn up or return to their carrier.
+Si una nave con Activos de lanzamiento entra en contacto con la Atmósfera, los Activos de lanzamiento se eliminan del juego cuando se queman o regresan a su transportes.
 
-## Launch Asset Effects
+## Efectos de Activos de lanzamiento
 
-Once all the Groups containing Launch Assets have deployed their assets, you must then resolve their effects.
+Una vez que todos los Grupos que contienen Activos de lanzamiento hayan desplegado sus activos, deben resolverse sus efectos.
 
-Firstly, place any ground tokens from Dropships and Bulk Landers. Next, starting with the player with the highest Initiative, select 1 enemy ship to resolve the effects of any tokens against it. Then the player with the next highest Initiative selects 1 enemy ship to resolve and so on until all the of the launch asset tokens have been resolved.
+En primer lugar, se coloca cualquier ficha de tierra de Naves de descenso y Módulos de aterrizaje. A continuación, comenzando por el jugador con la Iniciativa más alta, selecciona 1 nave enemiga para resolver los efectos de cualquier ficha de Activos de lanzmaiento en su contra. Luego, el jugador con la siguiente Iniciativa más alta selecciona 1 nave enemiga para resolver efectos y así sucesivamente hasta que se hayan resuelto todas las fichas de activos de lanzamiento.
 
-Launch assets generally function like a special kind of weapon system, but because of their unique properties there s some special rules that apply to them.
+Los activos de lanzamiento generalmente funcionan como un tipo especial de sistema de armas, pero debido a sus propiedades únicas, se les aplican algunas reglas especiales.
 
-The effects of a Launch Asset depend on its type and what it s in contact with.
+Los efectos de un activo de lanzamiento dependen de su tipo y con qué está en contacto.
 
-**Once a launch asset has taken effect the token is removed immediately.**
+**Una vez que un activo de lanzamiento ha tenido efecto, el marcador se elimina de inmediato.**
 
-### Fighters
+### Cazas
 
-_Fighters are lightweight, agile craft intended as dedicated interceptors of opposing Strike Craft and Close Action weapons. Fighters serve an interceptor role for ships by flying in close support and improving a friendly unit s Point Defence._
+_Los cazas son naves ligeras y ágiles pensadas como interceptores dedicados a bloquear armas de ataque y de corto alcance opuestas. Los cazas desempeñan un papel de interceptor para las naves al volar en apoyo cercano y mejorar la Defensa de punto de una unidad amiga._
 
-Fighters lack the firepower necessary to make a dent on larger enemies so in Dropfleet they are limited to a purely defensive role.
+Los cazas carecen de la potencia de fuego necesaria para hacer mella en los enemigos más grandes, por lo que en Dropfleet están limitados a un papel puramente defensivo.
 
-Fighter tokens can take effect at various times throughout the game.
+Las fichas de caza pueden surtir efecto en varios momentos a lo largo del juego.
+**Los cazas pueden surtir efecto desde el momento en que se colocan en adelante, incluso si se lanzan usando el doble de su rango de Impulso.**
 
-**Fighters may take effect from when they are placed onwards, even if launched using twice their thrust range.**
+Los cazas pueden lanzarse contra naves amigas o enemigas, y sus reglas cambian según el objetivo:
 
-Fighters can be launched against friendly or enemy ships, and their rules change depending on their target:
+**Naves amigas:** añade dados de bonificación a su característica PD contra un solo ataque de Activos de lanzamiento o armas de corto alcance. El jugador propietario debe decidir si gastar o no los cazas contra un ataque una vez que se conoce el daño, pero antes de que se lancen los dados de PD. Si la unidad protegida se mueve, el marcador de caza se mueve con ella.
 
-**Friendly Ships:** Add bonus dice to their PD characteristic against a single attack from Launch Assets or Close Action weapons. The owning player must decide whether or not to expend the fighters against an attack once the damage is known but before PD dice are rolled. If the protected unit moves the fighter marker is moved with it.
+Una vez que el marcador de caza ha hecho efecto, vuelve a su hangar y se retira del juego. Todos los Cazas que no hayan entrado en vigor en la siguiente fase de final de ronda se eliminan, ya que se ven obligados a volar de regreso a su transporte y repostar.
 
-Once the Fighter marker has taken effect it returns to its carrier and is removed from play. Any Fighters which have not taken effect by the following Roundup Phase are removed as they are forced to fly back and refuel.
+_Por ejemplo: Se lanzan 4 cazas UCM  para proteger un objetivo amigo. El objetivo gana +12 PD y los cazas permanecen con él hasta que el jugador propietario elige usar los cazas para complementar su Defensa de Punto contra un ataque de Activos de lanzamiento o Corto alcance. El jugador que controla los cazas puede optar por usar algunos, todos o ninguno de los marcadores de caza que escoltan a la nave a su defensa cuando es atacada, ganando +3PD por cada uno._
 
-_For example: 4 UCM Fighters are launched to protect a friendly target. The target gains +12 PD and the Fighters stay with it until the owning player chooses to use the Fighters to supplement its Point Defence against an attack from Launch Assets or Close Action weapons. The owning player can choose to add some, all or none of the escorting Fighter markers to its defence when attacked, gaining +3PD for each._
+**Naves enemigas:** Elimina una ficha de Caza enemiga de esta nave (¡están ocupados combatiendo contra otros cazas!). Esto solo se puede hacer cuando se resuelven los efectos de activos de lanzamiento (durante la fase de final de ronda) justo antes de que los Bombarderos surtan efecto.
 
-**Enemy Ships:** Remove one enemy Fighter token from this ship (they keep each other occupied in dogfighting!) This may only be done when resolving launch asset effects (during the roundup phase) just before Bombers take effect.
+### Bombarderos
 
-### Bombers
+_Los bombarderos son naves de ataque que llevan armamento pesado para destruir naves, típicamente desplegando una mezcla de misiles de separación y armas de energía de alta intensidad en un mismo disparo._
 
-_Bombers are Strike Craft that carry serious ship-killing weaponry, typically deploying a mixture of stand-off missiles and one-shot, high-intensity energy weapons._
+**Los Bombarderos ejecutan un ataque con su perfil cuando alcanzan una nave enemiga.**
 
-**Bombers make an attack with their profile when arriving at an enemy ship.**
+Cuando bombarderos de múltiples fuentes atacan al mismo objetivo, coordinan su ataque para abrumar sus sistemas de defensa de punto. Tira todos los ataques de Bombardero juntos cuando surtan efecto y trátalos como un solo ataque contra la Defensa de punto del objetivo, de modo que el defensor solo realiza una tirada de PD una vez para la nave en lugar de contra el ataque de cada ficha por separado.
 
-When Bombers from multiple sources attack the same target they coordinate their run to overwhelm its Point Defence. Roll all of the Bomber s attacks together when they take effect and treat it as a single attack versus the target s Point Defence so the defender only rolls for  PD once for the ship instead of against each token s attack separately.
+_Por ejemplo: 6 fichas de Bombardero lanzadas desde 2 transportes atacan juntos una nave enemiga. Cada Bombardero realiza 2 ataques normalmente, pero en este caso realizan un ataque coordinado y tiran los 12 ataques a la vez. La Defensa de punto de la nave enemiga solo se tirará una vez contra el ataque en masa en lugar de hacerlo por separado contra cada bombardero._
 
-_For example: 6 Bomber tokens launched from 2 carriers attack an enemy ship together. Each Bomber makes 2 attacks normally, but in this case they make a coordinated attack and roll all 12 attacks at once. The enemy ship s Point Defence will only roll once against the massed attack instead of separately against each Bomber._
+### Naves incendiarias
 
-### Fire Ships
+Las naves incendiarias son un tipo único de bombardero. Siguen todas las mismas reglas, pero se resuelven por separado. También coordinan su ataque.
 
-Fire Ships are a unique type of bomber. They follow all the same rules, but are resolved separately. They also coordinate their attack.
+### Naves de descenso
 
-### Dropships
+_Las naves de descenso son transportes que se utilizan para desplegar rápidamente fuerzas blindadas en la superficie de un planeta. Son ágiles, están bien blindados y armadas para su tamaño para capear la tormenta de fuego defensivo que invariablemente atraen._
 
-_Dropships are transporters used for rapidly deploying armoured forces down to a planet s surface. They are agile, well armoured and armed for their size to weather the storm of defensive fire they invariably attract._
+**Las naves de descenso solo pueden ser lanzadas por portaaviones que estén en atmósfera o en órbita baja si tienen como objetivo una estación espacial.**
 
-**Dropships may only be launched by carriers that are in Atmosphere or Low Orbit if targeting a Space Station.**
+**Las naves de descenso pueden apuntar a sectores terrestres o estaciones espaciales dentro de su valor de Impulso.**
 
-**Dropships may target Ground Sectors or Space Stations within their Thrust.**
+Cuando se usan, se agrega una ficha de Blindado o Infantería al Sector o Estación Espacial.
 
-When they do, they deliver one Armour or Infantry token to the Sector or Space Station.
+### Módulo de aterrizaje
 
-### Bulk lander
+_Los Módulos de aterrizaje son naves de desembarco grandes y ligeramente blindadas que utilizan las naves de transporte de tropas para desplegar un gran número de tropas terrestres o emplazamientos de armas antinave. Los Módulos de aterrizaje son considerablemente más lentos y más vulnerables que las naves de descenso, ya que no están diseñados para asaltos de primera ola en posiciones atrincheradas, sino como tropas de ocupación o refuerzo una vez que se asegura una cabeza de playa._
 
-_Bulk landers are large, lightly armoured landing craft used by troopships to deploy large numbers of ground troops or anti-ship weapon emplacements. Bulk Landers are considerably slower and more vulnerable than Dropships, as they are not designed for 1st wave assaults on entrenched positions, but rather as occupying or reinforcing troops once a beachhead is secured._
+**Los Módulos de aterrizaje solo pueden ser lanzados por transportes que estén en órbita baja o atmósfera.**
 
-**Bulk landers may only be launched by carriers that are in Low Orbit or Atmosphere.**
+**Los Módulos de aterrizaje pueden apuntar a Sectores Terrestres o Estaciones Espaciales dentro de su Impulso.** Cuando se usan, agregan tres fichas de Infantería o una ficha de Batería de Defensa al Sector o Estación Espacial.
 
-**Bulk Landers may target Ground Sectors or Space Stations within their Thrust.** When they do, they deliver three  Infantry tokens or one Defence Battery token to the Sector or Space Station.
+### Nota sobre Naves de descenso y Módulos de aterrizaje
 
-### A Note on Dropships & Bulk Landers
+Dado que no hay tiempo de juego real entre el despliegue y el aterrizaje de las fichas de Naves de descenso y Módulos de aterrizaje, no es necesario colocarlas físicamente.
 
-Since there is no actual game time between the deployment and landing of the Dropship or Bulk Lander tokens there is no need to physically place them.
+Para mayor velocidad de juego y facilidad de uso, a la mayoría de los jugadores les resultará más fácil declarar dónde están desplegando tropas, resolver cualquier disparo terrestre desde las baterías y luego colocar directamente las fichas de Infantería o Blindado sin usar una ficha de Nave de descenso o Módulos de aterrizaje.
 
-For speed of play and ease of use, most players will find it easier to declare where they are deploying troops, resolve any ground fire from Batteries and then directly place the Infantry or Armour tokens without using a Dropship or Bulk Lander token.
+### Torpedos
 
-### Torpedoes
+_Los torpedos son misiles enormes que destruyen naves y son mucho más peligrosos que los tipos de armas que normalmente se clasifican como armas de corto alcance. Los torpedos están fuertemente blindados y bien protegidos contra las defensas de punto enemigas con señuelos y interferencias para garantizar que se acerquen lo suficiente al objetivo para asestar un golpe potencialmente devastador._
 
-_Torpedoes are very large, ship-killing missiles that are much more dangerous than the types ordinarily categorised as Close Action weapons. Torpedoes are heavily armoured and well protected against opposing Point Defences with decoys and jamming to ensure they will get close enough to the target to deliver a potentially devastating hit._
+La aceleración relativamente lenta de los torpedos significa que **nunca atacan a las naves enemigas de inmediato, incluso si el objetivo está dentro de su rango de Impulso,** en lugar de eso, se coloca la ficha de torpedo en contacto con el objetivo y el ataque se efectúa al **final de la siguiente activación del objetivo.**
 
-The relatively slow acceleration of Torpedoes means they **never attack enemy ships immediately even if the target is within their Thrust range,** instead place the Torpedo in contact with the target and execute the attack at the **end of the target s next activation.**
+**Los torpedos atacan con su perfil al llegar a una nave enemiga. La Defensa de punto no tiene efecto contra el daño infligido por Torpedos.**
 
-**Torpedoes make an attack with their profile when arriving at an enemy ship. Point Defence has no effect against damage inflicted by Torpedoes.**
+Cuando dispare torpedos a una estación espacial, resuelva los efectos inmediatamente.
 
-When firing Torpedoes at a Space Station, resolve the effects immediately.
+## Maniobra
 
-## Manoeuvre
+Una nave que se activa cuando tiene Activos de lanzamiento en contacto con su peana puede maniobrar bruscamente para tratar de deshacerse de los Activos de lanzamiento y frustrar su ataque. Si la nave usa **Cambio de rumbo o Impulso máximo**, tira 1D6 por cada activo de lanzamiento enemigo que tenga como objetivo la nave. Con una tirada de 5+ el activo de lanzamiento se elimina con éxito. Con una tirada de 1-4, el Activo de lanzamiento prosigue su ataque obstinadamente y surte efecto al final de la activación del objetivo de forma normal.
 
-A ship which activates when it has Launch Assets in contact with its base can use hard manoeuvring to try and  shake off  the Launch Assets and spoil their attack run. If the ship uses **Course Change or Max Thrust** special orders roll a D6 for each enemy Launch Asset targeting the ship. On a roll of 5+ the Launch Asset
+### Superando a los torpedos
 
-is shaken off and removed. On a roll of 1-4 the Launch Asset doggedly pursues and takes effect at the end of the target s activation as normal.
+Los torpedos son implacables en la búsqueda de un objetivo y no son tan fáciles de esquivar. Solo se elimina un marcador de Torpedo si se obtiene un 6; con un 5, el Torpedo no ataca este turno, sino que permanece en contacto con la base de la nave objetivo, listo para atacar de nuevo después de la **próxima** activación del objetivo. Con un 1-4, el Torpedo ataca al final de la activación de forma normal.
 
-### Outmanoeuvring Torpedoes
+#### Atributos de Bombarderos
 
-Torpedoes are relentless in their pursuit of a target and not so easy to shake off. Only remove a Torpedo marker if a 6 is rolled, on a 5 the Torpedo does not attack this turn but instead remains in contact with the target ship s base ready to attack again after the target s **next** activation. On a 1-4 the Torpedo attacks at the end of the activation as normal.
-
-#### Bombers stats
-
-|Type|Thrust|Lock|Attack|Damage|Special|
+|Tipo|Impulso|Puntería|Ataque|Daño|Especial|
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |UCM|12"|3+|2|1|-|
 |Scourge|15"|3+|2|1|Scald|
@@ -187,9 +184,9 @@ Torpedoes are relentless in their pursuit of a target and not so easy to shake o
 |Shaltari|15"|3+|2|1|-|
 |Resistance|12"|4+|3|1|-|
 
-#### Torpedoes stats
+#### Atributos de Torpedos
 
-|Type|Thrust|Lock|Attack|Damage|Special|
+|Tipo|Impulso|Puntería|Ataque|Daño|Especial|
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |UCM|9"|2+|4|2|-|
 |Scourge|9"|3+|3|2|Corruptor|
@@ -197,9 +194,9 @@ Torpedoes are relentless in their pursuit of a target and not so easy to shake o
 |Shaltari|-|-|-|-|-|
 |Resistance|12"|2+|6|1|-|
 
-#### Fighters stats
+#### Atributos de Cazas
 
-|Type|Thrust|PD Bonus|
+|Tipo|Impulso|Mejora de PD|
 | :-: | :-: | :-: |
 |UCM|20"|+3|
 |Scourge|24"|+3|
@@ -207,9 +204,9 @@ Torpedoes are relentless in their pursuit of a target and not so easy to shake o
 |Shaltari|24"|+4|
 |Resistance|20"|+5|
 
-#### Dropships/Bulk Landers stats
+#### Atributos de Naves de descenso/Módulos de aterrizaje
 
-|Type|Thrust|
+|Tipo|Impulso|
 | :-: | :-: |
 |UCM|3" / 6"|
 |Scourge|3" / 6"|
