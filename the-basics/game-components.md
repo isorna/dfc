@@ -15,7 +15,7 @@ If you are asked to roll a D3, simply roll a D6 and a result of a 1 or a 2 would
 
 ### Dice roll modifiers
 
-Certain special circumstances can mean that modifiers apply to dice rolls. These modifiers can be negative (e.g. -1 to the target number) or positive (e.g. +1 to the target number). Modifiers are always applied to the target number and they don t change the number you roll on the dice.
+Certain special circumstances can mean that modifiers apply to dice rolls. These modifiers can be negative (e.g. -1 to the target number) or positive (e.g. +1 to the target number). Modifiers are always applied to the target number and they don't change the number you roll on the dice.
 
 Modifiers can never make results impossible or a foregone conclusion. If a modifier would make a target number of 7+ or 1+ (i.e. impossible to achieve or impossible to fail), this is reduced to a 6+ and 2+ respectively.
 
@@ -54,7 +54,7 @@ Dropfleet Commander uses inches for its unit of measurement. Players will need a
 
 In Dropfleet Commander it is perfectly fine to pre-measure distances before moving or shooting, or at any time in between. Any  fog of war  is taken into account in the game rules already and your captains (or equivalents) have the very best detection and calculation equipment of a future universe on hand. This means that players may measure any distances at any time.
 
-Note that while pre-measuring means that any player may measure any distance at any time, sportsmanship should be considered and players are encouraged to take each other s word on measurements. Measuring every distance straight after your opponent has done just that leads to a very negative gaming experience all round.
+Note that while pre-measuring means that any player may measure any distance at any time, sportsmanship should be considered and players are encouraged to take each other's word on measurements. Measuring every distance straight after your opponent has done just that leads to a very negative gaming experience all round.
 
 ## Miniatures
 
@@ -64,7 +64,7 @@ For the purposes of clarity and ease of use, all distances in the game are measu
 
 ### Base Contact
 
-Occasionally the rules will reference game objects being  in contact  or tell players to place tokens or other game elements in  base contact  with a miniature s base as a way of showing that a ship is in close proximity to something. In the case of ships with very large or irregular shaped bases this may not be possible   in such cases, place the token, ship etc. as close as possible to the base, or use a  Traffic Jam token as detailed below.
+Occasionally the rules will reference game objects being  in contact  or tell players to place tokens or other game elements in  base contact  with a miniature's base as a way of showing that a ship is in close proximity to something. In the case of ships with very large or irregular shaped bases this may not be possible   in such cases, place the token, ship etc. as close as possible to the base, or use a  Traffic Jam token as detailed below.
 
 ### Traffic James and Ship Placement
 
@@ -76,7 +76,7 @@ Note that while not the best way of playing in tournaments or competitive play, 
 
 ### Groups & Battlegroups
 
-Individual ships in Dropfleet Commander always belong to a Group. Multiple Groups belong to a Battlegroup. It s worth noting the distinct difference between Groups and Battlegroups, as it comes up a lot!
+Individual ships in Dropfleet Commander always belong to a Group. Multiple Groups belong to a Battlegroup. It's worth noting the distinct difference between Groups and Battlegroups, as it comes up a lot!
 
 Battlegroups are assembled together to form your fleet, see Building Your Fleet for more details.
 
@@ -104,10 +104,10 @@ Some Groups have a special open coherency (most notably strike carriers and othe
 
 ## Battlegroup cohesion
 
-The individual groups that make up a battlegroup are free to split up as much as they wish, but they avoid penalties to the battlegroup s overall effectiveness by staying closer together. When it comes to comparing Strategy Ratings (see Strategy Ratings for more details), **a battlegroup temporarily increases its Strategy Rating by +1 for each of its groups that is more than 12  away from any other group in the same battlegroup.**
+The individual groups that make up a battlegroup are free to split up as much as they wish, but they avoid penalties to the battlegroup's overall effectiveness by staying closer together. When it comes to comparing Strategy Ratings (see Strategy Ratings for more details), **a battlegroup temporarily increases its Strategy Rating by +1 for each of its groups that is more than 12  away from any other group in the same battlegroup.**
 
 Special rules can increase or decrease the standard 12  coherency distance for battlegroups.
 
 ## Disagreements
 
-The rules are written to cover as many conceivable eventualities as possible, but there will always be occasions where obscure situations are not addressed. If re- reading the relevant rules section does not provide an answer to a problem, and the players cannot agree on how to proceed, simply have one player roll a dice. On a 1-3 one interpretation is correct, on a 4-6 it is the other. This makes for a fair and impartial ruling when players can t agree, and stops further arguments.
+The rules are written to cover as many conceivable eventualities as possible, but there will always be occasions where obscure situations are not addressed. If re- reading the relevant rules section does not provide an answer to a problem, and the players cannot agree on how to proceed, simply have one player roll a dice. On a 1-3 one interpretation is correct, on a 4-6 it is the other. This makes for a fair and impartial ruling when players can't agree, and stops further arguments.
