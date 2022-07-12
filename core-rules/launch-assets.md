@@ -5,7 +5,7 @@ sidebar_position: 9
 
 # Lanzamiento de activos
 
-las naves pueden llevar a bordo naves subordinadas más pequeñas en forma de naves de ataque como módulos de aterrizaje, cazas, bombarderos o municiones como torpedos que causen destructivos efectos en las naves objetivo y sistemas similares. Todos estos elementos se denominan en Dropfleet **Activos de lanzamiento** y todos siguen las mismas reglas de juego. Los activos de lanzamiento están representados por fichas en la mesa, bien en forma de marcadores o peanas con modelos apropiados.
+Las naves pueden llevar a bordo naves subordinadas más pequeñas en forma de naves de ataque como módulos de aterrizaje, cazas, bombarderos o municiones como torpedos que causen destructivos efectos en las naves objetivo y sistemas similares. Todos estos elementos se denominan en Dropfleet **Activos de lanzamiento** y todos siguen las mismas reglas de juego. Los activos de lanzamiento están representados por fichas en la mesa, bien en forma de marcadores o peanas con modelos apropiados.
 
 Una ficha de Activo de Lanzamiento individual representa un escuadrón de Cazas/Bombarderos o un grupo de Torpedos. Los tamaños estándar para escuadrones de ataque y marcadores de municiones son las fichas de 20 mm x 20 mm suministradas.Por otro lado, las naves de descenso y módulos de aterrizaje no tienen marcadores, ya que se resuelven instantáneamente y no tienen que situarse de ninguna forma en mesa cuando son lanzados.
 
@@ -20,12 +20,12 @@ Cada transporte tiene una característica para indicar su Capacidad de Lanzamien
 |Torpedos|1|-|
 |Cazas & Bombarderos|6|-|
 
-* **Carga:** El tipo de activo de lanzamiento que el transporte puede utilizar. Puede tener una selección de varios tipos pero cada trasnporte está limitado por su propia capacidad de lanzamiento total y su habilizad de lanzamiento. 
-* **Lanzamiento:** Indica el número de marcadores que el transporte puede lanzar cada vez en un turno. 
+* **Carga:** El tipo de activo de lanzamiento que el transporte puede utilizar. Puede tener una selección de varios tipos pero cada trasnporte está limitado por su propia capacidad de lanzamiento total y su habilizad de lanzamiento.
+* **Lanzamiento:** Indica el número de marcadores que el transporte puede lanzar cada vez en un turno.
 
 ## Características de los Activos de lanzamiento
 
-Los activos de lanzamiento generalmente funcionan de una manera similar a un perfil de arma, aunque algunos tienen sus propias reglas especiales. A continuación se muestran varios ejemplos: 
+Los activos de lanzamiento generalmente funcionan de una manera similar a un perfil de arma, aunque algunos tienen sus propias reglas especiales. A continuación se muestran varios ejemplos:
 
 |Tipo|Impulso|Puntería|Ataque|Daño|
 | :-: | :-: | :-: | :-: | :-: |
@@ -37,8 +37,8 @@ Los activos de lanzamiento generalmente funcionan de una manera similar a un per
 |Caza UCM|20"|+3|
 |Nave de desembarco UCM|3"|-|
 
-* **Impulso:** La máxima distancia que el Activo de lanzamiento puede viajar para alcanzar su objetivo en una misma fase. 
-* **Puntería, Ataque, Daño&Especial:** Todas estas características funcionan exactamente igual que las características de los Sistemas de armas. 
+* **Impulso:** La máxima distancia que el Activo de lanzamiento puede viajar para alcanzar su objetivo en una misma fase.
+* **Puntería, Ataque, Daño&Especial:** Todas estas características funcionan exactamente igual que las características de los Sistemas de armas.
 * **Mejora de Defensa de punto:** PD adicional añadido a una nave cuadno se usan sobre ésta.
 
 ## Lanzando Activos
@@ -79,9 +79,9 @@ Hay que tener en cuenta que los Activos de lanzamiento se pueden usar contra obj
 
 ### Activos de lanzamiento en Combate Orbital
 
-Los activos de lanzamiento están limitados a operar en ciertas Capas orbitales. La configuración y especificaciones de diseño requeridos para operar en atmósfera son muy diferentes a los requeridos para órbitas altas. A continuación se detallan las limitaciones aplicadas para cada tipo de Activo: 
+Los activos de lanzamiento están limitados a operar en ciertas Capas orbitales. La configuración y especificaciones de diseño requeridos para operar en atmósfera son muy diferentes a los requeridos para órbitas altas. A continuación se detallan las limitaciones aplicadas para cada tipo de Activo:
 
-* **Naves de descenso:** Pueden operar únicamente en Atmósfera o en Órbita baja, en este último caso solo si son lanzados contra una Estación Espacial a 3". 
+* **Naves de descenso:** Pueden operar únicamente en Atmósfera o en Órbita baja, en este último caso solo si son lanzados contra una Estación Espacial a 3".
 * **Módulos de aterrizaje:** Pueden operar únicamente en Atmósfera y Órbita baja.
 * **Resto de Activos de lanzamiento:** Pueden operar tanto en Órbita baja como alta. Otros activos de lanzamiento que se originan en transportes o hangares de superficie se despliegan y operan solo en órbita baja y alta.
 
