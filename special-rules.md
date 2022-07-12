@@ -61,7 +61,7 @@ Ships with the Launch special rule are capable of carrying and using Launch Asse
 
 _These ships feature undersized and underpowered drives, but are configured specifically for the orbital defence role._
 
-Monitors may not usre Course Change or Max Thrust special orders. Weapons fired by Monitords suffer no Lock penalty for firing between Low and High Orbit.
+Monitors may not use Course Change or Max Thrust special orders. Weapons fired by Monitords suffer no Lock penalty for firing between Low and High Orbit.
 
 ### Open
 
