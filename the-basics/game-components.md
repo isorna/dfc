@@ -27,9 +27,7 @@ Sometimes players will have the ability to  reroll  certain dice. This lets the 
 
 ## Tokens
 
-Dropfleet Commander uses tokens and markers to track certain actions or events during a game. Many of these are designed to give both players a visual reminder of continuing effects and unit placement,
-
-but some are for convenience as it is often easier to use a dice or token next to a miniature than it is to have to keep notes.
+Dropfleet Commander uses tokens and markers to track certain actions or events during a game. Many of these are designed to give both players a visual reminder of continuing effects and unit placement, but some are for convenience as it is often easier to use a dice or token next to a miniature than it is to have to keep notes.
 
 Tokens are available for free download in the Resources section of the webstore:
 
